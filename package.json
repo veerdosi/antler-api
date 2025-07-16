@@ -1,0 +1,28 @@
+{
+  "name": "antler-portfolio-api",
+  "version": "1.0.0",
+  "description": "Unofficial API for Antler portfolio companies",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "dev": "ts-node src/fetcher.ts",
+    "start": "node dist/fetcher.js",
+    "scrape": "ts-node src/fetcher.ts",
+    "type-check": "tsc --noEmit"
+  },
+  "keywords": ["antler", "portfolio", "api", "startups", "companies"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^24.12.1",
+    "cheerio": "^1.0.0-rc.12"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.0",
+    "typescript": "^5.7.2",
+    "ts-node": "^10.9.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
