@@ -1,0 +1,13 @@
+{
+  "id": "antler-easytelling",
+  "name": "EasyTelling",
+  "slug": "easytelling",
+  "website": "https://easytelling.ai/",
+  "description": "EasyTelling is an AI platform that turns scientific research into business opportunities, solutions, and compelling sales arguments in minutes, leveraging a global database of over 225 million research papers.",
+  "founded_year": 2024,
+  "location": "Brazil",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/680aa0debc950191e3c84f67_portfolio%252Fcompany%252F0316074b-7217-425f-9953-220d6ef318d3%252F1745526951370-Logo%2520roxa%2520Easy%2520AI.avif",
+  "url": "https://www.antler.co/portfolio/easytelling",
+  "api": "https://antler-api.github.io/companies/easytelling.json"
+}

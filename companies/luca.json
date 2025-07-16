@@ -1,0 +1,13 @@
+{
+  "id": "antler-luca",
+  "name": "Luca",
+  "slug": "luca",
+  "website": "https://luca.health/",
+  "description": "Co-founded by an ex-professional rugby player and a software engineer with lived experience of depression, Luca is an athlete brain health startup that empowers athletes to be at their best by leveraging mental health data and insights, as well as subclinical concussion screening.",
+  "founded_year": 2022,
+  "location": "Unknown",
+  "sector": "Health and BioTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67d94330427b2c18f9e84dc9_portfolio%252Fcompany%252F167301e9-1f62-426d-885c-064e7ebbf622%252F1725421644757-logo.avif",
+  "url": "https://www.antler.co/portfolio/luca",
+  "api": "https://antler-api.github.io/companies/luca.json"
+}

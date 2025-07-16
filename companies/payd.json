@@ -1,0 +1,13 @@
+{
+  "id": "antler-payd",
+  "name": "Payd",
+  "slug": "payd",
+  "website": "https://www.justpayd.com",
+  "description": "We work with employers to enable their employees to access earned salary on demand in between paydays.",
+  "founded_year": 2021,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66b45262da8c02bdf2010779_D442LeShJjYH15W7du7KzgMBOWqn2dzTEAgQwGedIxg.avif",
+  "url": "https://www.antler.co/portfolio/payd",
+  "api": "https://antler-api.github.io/companies/payd.json"
+}

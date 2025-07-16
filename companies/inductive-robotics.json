@@ -1,0 +1,13 @@
+{
+  "id": "antler-inductive-robotics",
+  "name": "Inductive Robotics",
+  "slug": "inductive-robotics",
+  "website": "https://www.inductiverobotics.com/",
+  "description": "Autonomous EV charging as a service.",
+  "founded_year": 2024,
+  "location": "Unknown",
+  "sector": "Energy and ClimateTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66d57aec940d330e3d94aea7_WQ8or5T6kGVP_pF4r3LBiMRx5penI7vbVdoAz4Z0Eg4.avif",
+  "url": "https://www.antler.co/portfolio/inductive-robotics",
+  "api": "https://antler-api.github.io/companies/inductive-robotics.json"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "antler-cove",
+  "name": "Cove",
+  "slug": "cove",
+  "website": "https://cove.sg/",
+  "description": "Flexible living and home rentals company",
+  "founded_year": 2018,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66b44a655b8202c8155b0a9b_jsAplSx6h5nysnc5OssP4Arcqu-2HWgDMP6hNV3waNc.avif",
+  "url": "https://www.antler.co/portfolio/cove",
+  "api": "https://antler-api.github.io/companies/cove.json"
+}

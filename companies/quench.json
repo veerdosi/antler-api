@@ -1,0 +1,13 @@
+{
+  "id": "antler-quench",
+  "name": "Quench",
+  "slug": "quench",
+  "website": "https://quench.ai/",
+  "description": "Find answers instantly across your tools and company data",
+  "founded_year": 2022,
+  "location": "Unknown",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67d8599289458c94ea77352f_portfolio%252Fcompany%252F53f02d06-f799-4ef5-b3a3-f5283608841c%252F1725421681249-logo.avif",
+  "url": "https://www.antler.co/portfolio/quench",
+  "api": "https://antler-api.github.io/companies/quench.json"
+}

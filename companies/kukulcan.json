@@ -1,0 +1,13 @@
+{
+  "id": "antler-kukulcan",
+  "name": "Kukulcan",
+  "slug": "kukulcan",
+  "website": "https://kukulcan.inc/",
+  "description": "No waste, and no one left behind. | 誰も、何も捨てられない世界を目指す",
+  "founded_year": 2023,
+  "location": "Japan",
+  "sector": "Industrials",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67ddec08da283a5a9be23166_portfolio%252Fcompany%252F0d033ad6-a9f1-4844-a272-7c503943f86c%252F1725423458815-logo.avif",
+  "url": "https://www.antler.co/portfolio/kukulcan",
+  "api": "https://antler-api.github.io/companies/kukulcan.json"
+}

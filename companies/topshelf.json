@@ -1,0 +1,13 @@
+{
+  "id": "antler-topshelf",
+  "name": "topshelf",
+  "slug": "topshelf",
+  "website": "https://www.jointopshelf.com/",
+  "description": "Turning Word-of-Mouth into scalable brand growth with the help of AI.",
+  "founded_year": 2023,
+  "location": "Germany",
+  "sector": "ConsumerTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/68419d5aa9052739aab5dd30_portfolio%252Fcompany%252F5447a508-ad29-4868-941a-145a609413e4%252F1726611015129-Topshelf_RGB_Logo1_Black.avif",
+  "url": "https://www.antler.co/portfolio/topshelf",
+  "api": "https://antler-api.github.io/companies/topshelf.json"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "antler-shapemaker",
+  "name": "Shapemaker",
+  "slug": "shapemaker",
+  "website": "https://shapemaker.io",
+  "description": "Shapemaker is an industry first automated design solution powered by AI to optimise new telecom towers and analyse existing structures at scale.",
+  "founded_year": 2021,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66e8119f19e837782653f487_portfolio%252Fcompany%252Fb214b0b3-86ad-483b-b25f-4e0ca5fc686e%252F1725420597913-logo.svg",
+  "url": "https://www.antler.co/portfolio/shapemaker",
+  "api": "https://antler-api.github.io/companies/shapemaker.json"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "antler-cashio",
+  "name": "CashIO",
+  "slug": "cashio",
+  "website": "https://www.cashio.ai/",
+  "description": "CashIO is an AI-driven platform that automates time-intensive tasks for accounting firms, doubling profitability, improving business legibility, and enhancing client service.",
+  "founded_year": 2024,
+  "location": "Canada",
+  "sector": "FinTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67acd0a6bbc54f266dc509c0_portfolio%252Fcompany%252F47f05987-7d6a-4bbc-9f64-d60f5309394c%252F1736799538365-Dark%2520Profile%2520Picture.avif",
+  "url": "https://www.antler.co/portfolio/cashio",
+  "api": "https://antler-api.github.io/companies/cashio.json"
+}

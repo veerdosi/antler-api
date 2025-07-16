@@ -1,0 +1,13 @@
+{
+  "id": "antler-bitsila",
+  "name": "Bitsila",
+  "slug": "bitsila",
+  "website": "https://www.bitsila.com/ondc-registration/",
+  "description": "Seller aggregator on ONDC across multiple commerce categories",
+  "founded_year": 2023,
+  "location": "India",
+  "sector": "ConsumerTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/6857e4402c57abb8e73286cc_portfolio%252Fcompany%252F2bdde7eb-0982-4dc9-8210-daffe0703132%252F1750590519912-bitsila_1_logo.jpeg",
+  "url": "https://www.antler.co/portfolio/bitsila",
+  "api": "https://antler-api.github.io/companies/bitsila.json"
+}

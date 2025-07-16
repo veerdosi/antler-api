@@ -1,0 +1,13 @@
+{
+  "id": "antler-scribe-labs",
+  "name": "Scribe Labs",
+  "slug": "scribe-labs",
+  "website": "https://scribelabs.ai/",
+  "description": "Scribe is a data platform for company information, powered by research-based AI. Uncover deep insights about private companies and end data entry from PDFs.",
+  "founded_year": 2020,
+  "location": "Unknown",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67d84e5aff3290ad9d69c929_portfolio%252Fcompany%252F2ed12093-7f3a-4f5a-8c8a-2c55b3297b68%252F1725421702461-logo.avif",
+  "url": "https://www.antler.co/portfolio/scribe-labs",
+  "api": "https://antler-api.github.io/companies/scribe-labs.json"
+}

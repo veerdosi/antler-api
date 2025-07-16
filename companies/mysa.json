@@ -1,0 +1,13 @@
+{
+  "id": "antler-mysa",
+  "name": "Mysa",
+  "slug": "mysa",
+  "website": "https://www.mysa.io/",
+  "description": "Mysa is a smart banking solution that helps businesses automate their cashflow management, accounting & taxes.",
+  "founded_year": 2023,
+  "location": "India",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67a8bfd3ae4c4b4756373a20_portfolio%252Fcompany%252F5482cecb-8463-4d53-8e4a-6c8d4cc60bf0%252F1739112376681-mysa.avif",
+  "url": "https://www.antler.co/portfolio/mysa",
+  "api": "https://antler-api.github.io/companies/mysa.json"
+}

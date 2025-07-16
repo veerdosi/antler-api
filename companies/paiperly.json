@@ -1,0 +1,13 @@
+{
+  "id": "antler-paiperly",
+  "name": "Paiperly",
+  "slug": "paiperly",
+  "website": "https://www.paiperly.com/",
+  "description": "AI-powered automation of safety documents for construction sites.",
+  "founded_year": 2025,
+  "location": "Korea",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67dab2d3181aec8e260c974e_teams%252Faef38720-4c86-4276-8d3a-fa14b7a28075%252Flogos%252FFavicon.avif",
+  "url": "https://www.antler.co/portfolio/paiperly",
+  "api": "https://antler-api.github.io/companies/paiperly.json"
+}

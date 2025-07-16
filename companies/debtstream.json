@@ -1,0 +1,13 @@
+{
+  "id": "antler-debtstream",
+  "name": "DebtStream",
+  "slug": "debtstream",
+  "website": "https://debtstream.co.uk/",
+  "description": "DebtStream is a digital ‘self-service’ collections and recoveries platform, enabling any businesses carrying credit, such as lenders, utilities and debt collection agencies, to engage with their customers online under their own brand.",
+  "founded_year": 2023,
+  "location": "Unknown",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67d85f9d65b9e366e721e7f6_portfolio%252Fcompany%252Fb28d8aa6-7229-459e-b4ed-8ec906d9d710%252F1725421598608-logo.avif",
+  "url": "https://www.antler.co/portfolio/debtstream",
+  "api": "https://antler-api.github.io/companies/debtstream.json"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "antler-seedata-io",
+  "name": "seedata.io",
+  "slug": "seedata-io",
+  "website": "https://www.seedata.io/",
+  "description": "Detect and respond to cloud security threats before they escalate.",
+  "founded_year": 2021,
+  "location": "Unknown",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67d85bf8da12306c98b86491_portfolio%252Fcompany%252F6508430e-34a8-4f82-92f7-057cfa3a86f2%252F1725421650379-logo.png",
+  "url": "https://www.antler.co/portfolio/seedata-io",
+  "api": "https://antler-api.github.io/companies/seedata-io.json"
+}

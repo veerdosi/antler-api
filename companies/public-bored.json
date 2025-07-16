@@ -1,0 +1,13 @@
+{
+  "id": "antler-public-bored",
+  "name": "Public Bored",
+  "slug": "public-bored",
+  "website": "https://publicbored.com/",
+  "description": "Public Bored is a portfolio company of Antler.",
+  "founded_year": 2024,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/673b137f07355d7f8c94bfee_teams%252Fb2ad634e-450f-4ae4-b5b7-8d98bca6072a%252Flogos%252Fpblogo122.avif",
+  "url": "https://www.antler.co/portfolio/public-bored",
+  "api": "https://antler-api.github.io/companies/public-bored.json"
+}

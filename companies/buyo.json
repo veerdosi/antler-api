@@ -1,0 +1,13 @@
+{
+  "id": "antler-buyo",
+  "name": "Buyo",
+  "slug": "buyo",
+  "website": "https://www.buyoplastic.com/",
+  "description": "We upcycle discarded biowaste and convert them into a nature-based and fully biodegradable bio-material to replace traditional plastics.",
+  "founded_year": 2022,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66b44a67918403eb622ecf64_BiQN4SkLWVaTmro23694lOp87ZUWySHfoZFzvVfGiPQ.avif",
+  "url": "https://www.antler.co/portfolio/buyo",
+  "api": "https://antler-api.github.io/companies/buyo.json"
+}

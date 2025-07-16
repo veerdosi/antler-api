@@ -1,0 +1,13 @@
+{
+  "id": "antler-evyon",
+  "name": "Evyon",
+  "slug": "evyon",
+  "website": "https://evyon.com",
+  "description": "Evyon maximises the value of second-life EV batteries by repurposing them in a streamlined, safe and cost-effective way.",
+  "founded_year": 2020,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66e8b57e703cd12c58d37bee_portfolio%252Fcompany%252Fc57c1ddc-a186-49dd-a911-75a6d318d0dc%252F1725420348696-logo.avif",
+  "url": "https://www.antler.co/portfolio/evyon",
+  "api": "https://antler-api.github.io/companies/evyon.json"
+}

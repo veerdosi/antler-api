@@ -1,0 +1,13 @@
+{
+  "id": "antler-gleef",
+  "name": "Gleef",
+  "slug": "gleef",
+  "website": "https://www.gleef.eu/",
+  "description": "Writing was guesswork, now it's a science",
+  "founded_year": 2024,
+  "location": "France",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67f631f8889b9e4af5d06673_portfolio%252Fcompany%252Fd03fb179-9c74-4af4-a1a5-e901902a0be9%252F1744187856047-favicon_gleef_accent500-128x128.avif",
+  "url": "https://www.antler.co/portfolio/gleef",
+  "api": "https://antler-api.github.io/companies/gleef.json"
+}

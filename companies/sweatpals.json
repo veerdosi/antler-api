@@ -1,0 +1,13 @@
+{
+  "id": "antler-sweatpals",
+  "name": "SweatPals",
+  "slug": "sweatpals",
+  "website": "https://sweatpals.com/",
+  "description": "SweatPals is a community-building platform for fitness & wellness entrepreneurs & businesses to grow their communities and ensure millions can discover them. It creates network effects by adding social components on top of an operating system for scheduling, payment processing, liability waivers, and content management.",
+  "founded_year": 2022,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66d6df2e1256ea63748954f7_Um_AINF-805rHkUSBUksF1eBNHF-24NzHd-5M5bVD24.avif",
+  "url": "https://www.antler.co/portfolio/sweatpals",
+  "api": "https://antler-api.github.io/companies/sweatpals.json"
+}

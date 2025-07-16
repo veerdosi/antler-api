@@ -1,0 +1,13 @@
+{
+  "id": "antler-tradecredit",
+  "name": "TradeCredit",
+  "slug": "tradecredit",
+  "website": "https://tradecredit.in/",
+  "description": "Building supply chain finance products for fresh produce market, starting with a zero-interest weekly credit line for retailers",
+  "founded_year": 2024,
+  "location": "India",
+  "sector": "FinTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/68330d9f37531bc8504fe402_portfolio%252Fcompany%252F285ec98e-923e-45ff-8f46-ec2f14ca9832%252F1748176209863-Screenshot%25202025-05-25%2520175708.avif",
+  "url": "https://www.antler.co/portfolio/tradecredit",
+  "api": "https://antler-api.github.io/companies/tradecredit.json"
+}

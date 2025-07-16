@@ -1,0 +1,13 @@
+{
+  "id": "antler-refeed",
+  "name": "ReFeed",
+  "slug": "refeed",
+  "website": "https://www.refeed.eco/",
+  "description": "폐식용유 바이오연료 인증 솔루션",
+  "founded_year": 2022,
+  "location": "Korea",
+  "sector": "Energy and ClimateTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/680085a5f3779cf232619c3c_portfolio%252Fcompany%252F7a5768de-1c54-4638-a6d6-71fd174046ec%252F1732613598777-logo.png",
+  "url": "https://www.antler.co/portfolio/refeed",
+  "api": "https://antler-api.github.io/companies/refeed.json"
+}

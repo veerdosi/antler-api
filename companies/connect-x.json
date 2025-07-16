@@ -1,0 +1,13 @@
+{
+  "id": "antler-connect-x",
+  "name": "Connect -X",
+  "slug": "connect-x",
+  "website": "https://www.connectex.io/",
+  "description": "Connect-X is an AI-driven Virtual Power Plant (VPP) platform designed to help multi-unit residential buildings, commercial facilities, and other building types optimize energy use, reduce costs, and generate new revenue streams through seamless participation in energy markets.",
+  "founded_year": 2023,
+  "location": "Canada",
+  "sector": "Energy and ClimateTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67b8caa093f0d08808e69144_portfolio%252Fcompany%252Fde03e075-a94d-46c7-b213-2a7dc764ba59%252F1740163718620-1739678531538-CX-Light.avif",
+  "url": "https://www.antler.co/portfolio/connect-x",
+  "api": "https://antler-api.github.io/companies/connect-x.json"
+}

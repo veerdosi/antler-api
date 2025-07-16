@@ -1,0 +1,13 @@
+{
+  "id": "antler-snef",
+  "name": "Snef",
+  "slug": "snef",
+  "website": "https://snef.co",
+  "description": "AI-powered social commerce platform",
+  "founded_year": 2024,
+  "location": "Indonesia",
+  "sector": "ConsumerTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67b2dc5f574aec018680c4ca_portfolio%252Fcompany%252Fad77f768-9864-4a78-ae82-8f922065a4fa%252F1739775018228-Snef%2520Logo.svg",
+  "url": "https://www.antler.co/portfolio/snef",
+  "api": "https://antler-api.github.io/companies/snef.json"
+}

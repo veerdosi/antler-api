@@ -1,0 +1,13 @@
+{
+  "id": "antler-envio",
+  "name": "Envio",
+  "slug": "envio",
+  "website": "https://envio.co.id/",
+  "description": "Full Service Logistics & Supply Chain Enabler for SMB",
+  "founded_year": 2021,
+  "location": "Indonesia",
+  "sector": "Industrials",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67cabb0c15df59e181733a6d_portfolio%252Fcompany%252F37b5904a-e92a-4fea-8b90-824e012992c4%252F1725422142919-logo.avif",
+  "url": "https://www.antler.co/portfolio/envio",
+  "api": "https://antler-api.github.io/companies/envio.json"
+}

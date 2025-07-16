@@ -1,0 +1,13 @@
+{
+  "id": "antler-tocco",
+  "name": "Tocco",
+  "slug": "tocco",
+  "website": "https://tocco.earth/?utm_source=LinkedIn&utm_medium=cta_tocco_page",
+  "description": "Tocco builds the world’s largest regenerative materials platform to connect world-changing materials with trailblazing brands, making it 10x easier and faster to make and ship cleaner products.",
+  "founded_year": 2023,
+  "location": "France",
+  "sector": "Energy and ClimateTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/682e2a54705bca4a64b9bba1_portfolio%252Fcompany%252Fe655390a-75fe-4fe2-9d0b-d19415c5d4c6%252F1725844357013-logo.avif",
+  "url": "https://www.antler.co/portfolio/tocco",
+  "api": "https://antler-api.github.io/companies/tocco.json"
+}

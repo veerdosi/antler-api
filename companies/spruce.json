@@ -1,0 +1,13 @@
+{
+  "id": "antler-spruce",
+  "name": "Spruce",
+  "slug": "spruce",
+  "website": "https://www.spruce.eco/",
+  "description": "Spruce is building an agentic operating system for heating installers.",
+  "founded_year": 2023,
+  "location": "Unknown",
+  "sector": "Energy and ClimateTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67b63b430b28f44225c5521a_portfolio%252Fcompany%252F6ef5f721-02ca-4840-86cc-ff316e5d8dac%252F1739995902439-Spruce%2520Logo%2520-%2520White%2520on%2520Green%2520-%2520With%2520Margin.avif",
+  "url": "https://www.antler.co/portfolio/spruce",
+  "api": "https://antler-api.github.io/companies/spruce.json"
+}

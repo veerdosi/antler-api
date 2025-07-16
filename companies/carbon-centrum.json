@@ -1,0 +1,13 @@
+{
+  "id": "antler-carbon-centrum",
+  "name": "Carbon Centrum",
+  "slug": "carbon-centrum",
+  "website": "https://carboncentrum.com/",
+  "description": "Track your Carbon emissions as you track your health. Digital CarbonIDs for individuals help people to make better everyday decisions & award through corporate offsets.",
+  "founded_year": 2023,
+  "location": "Norway",
+  "sector": "Energy and ClimateTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66b44a8ec051edb993361e6f__Ja26MzK4MvKvBiZD5vUC6k0vf-8copVzF-kSJeRBFM.avif",
+  "url": "https://www.antler.co/portfolio/carbon-centrum",
+  "api": "https://antler-api.github.io/companies/carbon-centrum.json"
+}

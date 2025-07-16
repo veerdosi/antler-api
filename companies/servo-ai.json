@@ -1,0 +1,13 @@
+{
+  "id": "antler-servo-ai",
+  "name": "Servo AI",
+  "slug": "servo-ai",
+  "website": "https://iamservo.com",
+  "description": "Servo AI is a hospitality SaaS, utilising existing CCTV infrastructures to help multi-site operators improve the guest experience and increase profits.",
+  "founded_year": 2022,
+  "location": "Unknown",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67d80a046c2526208cd6721a_portfolio%252Fcompany%252F006235ab-d184-46e4-8943-4420238aafdf%252F1725421705609-logo.webp",
+  "url": "https://www.antler.co/portfolio/servo-ai",
+  "api": "https://antler-api.github.io/companies/servo-ai.json"
+}

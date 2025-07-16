@@ -1,0 +1,13 @@
+{
+  "id": "antler-scrambler",
+  "name": "Scrambler",
+  "slug": "scrambler",
+  "website": "https://ovang.co/",
+  "description": "K-beauty skincare brand for sensitive skin targeting US Beauty Market",
+  "founded_year": 2022,
+  "location": "Korea",
+  "sector": "ConsumerTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/680086f59de1d54440427a30_portfolio%252Fcompany%252F055379ea-754b-4cf2-8910-8bc2c458d16e%252F1732613607226-logo.avif",
+  "url": "https://www.antler.co/portfolio/scrambler",
+  "api": "https://antler-api.github.io/companies/scrambler.json"
+}

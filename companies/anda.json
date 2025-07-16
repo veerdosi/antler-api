@@ -1,0 +1,13 @@
+{
+  "id": "antler-anda",
+  "name": "Anda",
+  "slug": "anda",
+  "website": "https://breathewithanda.com/",
+  "description": "Anda is a stylish smart wearable company that had wellness",
+  "founded_year": 2023,
+  "location": "Australia",
+  "sector": "Health and BioTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67e4d90f2066f27b1d4c7ff9_portfolio%252Fcompany%252F61975c3e-e790-4ec0-ac7a-5a06b509e84a%252F1743051020081-images.avif",
+  "url": "https://www.antler.co/portfolio/anda",
+  "api": "https://antler-api.github.io/companies/anda.json"
+}

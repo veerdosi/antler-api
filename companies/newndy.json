@@ -1,0 +1,13 @@
+{
+  "id": "antler-newndy",
+  "name": "Newndy",
+  "slug": "newndy",
+  "website": "https://veasly.com/",
+  "description": "VEASLY : K-Product direct purchase platform",
+  "founded_year": 2023,
+  "location": "Korea",
+  "sector": "ConsumerTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/6800866e45dbe258cbe8c92b_portfolio%252Fcompany%252F6553b2da-087e-41fd-b46e-96bd53342bf2%252F1736486489330-Newndy%2520logo.avif",
+  "url": "https://www.antler.co/portfolio/newndy",
+  "api": "https://antler-api.github.io/companies/newndy.json"
+}

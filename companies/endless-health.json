@@ -1,0 +1,13 @@
+{
+  "id": "antler-endless-health",
+  "name": "Endless Health",
+  "slug": "endless-health",
+  "website": "https://endless.health/",
+  "description": "Founded by a stanford phd/mckinsey bioengineer and an ex-apple designer, Endless is unlocking real-time biomarker sensing and AI coaching to turn hidden health data into lifesaving opportunities.",
+  "founded_year": 2022,
+  "location": "Unknown",
+  "sector": "Health and BioTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/681a47d94b77dcd449a403d0_portfolio%252Fcompany%252F3bb30e5e-17a4-4ff2-8df4-424f87d72d32%252F1725606697348-logo.avif",
+  "url": "https://www.antler.co/portfolio/endless-health",
+  "api": "https://antler-api.github.io/companies/endless-health.json"
+}

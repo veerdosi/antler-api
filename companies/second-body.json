@@ -1,0 +1,13 @@
+{
+  "id": "antler-second-body",
+  "name": "Second Body",
+  "slug": "second-body",
+  "website": "https://www.secondbody.co",
+  "description": "Second Body is a portfolio company of Antler.",
+  "founded_year": 2020,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66d6ded9359e330519dd9bf2_Ix5FQubGxyHupsBjqi-ZW9FMdUY6L-hm2UzL5JNNhpg.avif",
+  "url": "https://www.antler.co/portfolio/second-body",
+  "api": "https://antler-api.github.io/companies/second-body.json"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "antler-eduku",
+  "name": "Eduku",
+  "slug": "eduku",
+  "website": "https://www.eduku.id/",
+  "description": "Digitize Indonesia's K12 schools with learning management systems to enable parents engage digitally",
+  "founded_year": 2022,
+  "location": "Indonesia",
+  "sector": "ConsumerTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67ca89bf306e602b18c9213a_portfolio%252Fcompany%252F2a8c58df-9689-407a-aab8-4b33196fa86b%252F1725422182300-logo.avif",
+  "url": "https://www.antler.co/portfolio/eduku",
+  "api": "https://antler-api.github.io/companies/eduku.json"
+}

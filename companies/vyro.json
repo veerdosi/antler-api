@@ -1,0 +1,13 @@
+{
+  "id": "antler-vyro",
+  "name": "Vyro",
+  "slug": "vyro",
+  "website": "https://www.vyro.com.au",
+  "description": "Vyro is accelerating the adoption of zero-emission vehicles by making it easy and affordable for customers to purchase them.",
+  "founded_year": 2021,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67e3814e9aa2dc1cfe680e41_portfolio%252Fcompany%252F7c1f7c3d-c10d-4bab-80fc-8efd2f6f4993%252F1742962496458-632392172b07e58deecea185_6323860d0cea32492ec270ca_62e37f1471f8556075a99041_myTeam25252Flogo2525203.avif",
+  "url": "https://www.antler.co/portfolio/vyro",
+  "api": "https://antler-api.github.io/companies/vyro.json"
+}

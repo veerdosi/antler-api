@@ -1,0 +1,13 @@
+{
+  "id": "antler-onecap",
+  "name": "OneCap",
+  "slug": "onecap",
+  "website": "https://onecap.in/",
+  "description": "Finance Co-Pilots Powered by AI & Digital Public Infrastructure",
+  "founded_year": 2025,
+  "location": "India",
+  "sector": "FinTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/6859aa79ea3691c3fc67bea6_portfolio%252Fcompany%252F3ed4b3e5-f8d2-4dc9-bf74-2d1059824578%252F1750706766920-onecap_technologies_logo.jpeg",
+  "url": "https://www.antler.co/portfolio/onecap",
+  "api": "https://antler-api.github.io/companies/onecap.json"
+}

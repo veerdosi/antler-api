@@ -1,0 +1,13 @@
+{
+  "id": "antler-noma",
+  "name": "NoMa",
+  "slug": "noma",
+  "website": "https://www.noma.co.ke/",
+  "description": "NoMa offers schools a school bus route optimisation and parents communications system",
+  "founded_year": 2023,
+  "location": "Kenya",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67fe608038df90174ef67b2b_portfolio%252Fcompany%252Fdbd982e6-f468-42e6-96f6-160b08f35213%252F1744722540281-download-2.avif",
+  "url": "https://www.antler.co/portfolio/noma",
+  "api": "https://antler-api.github.io/companies/noma.json"
+}

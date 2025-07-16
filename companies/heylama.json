@@ -1,0 +1,13 @@
+{
+  "id": "antler-heylama",
+  "name": "HeyLama",
+  "slug": "heylama",
+  "website": "https://heylama.app",
+  "description": "More than just a global language tutor marketplace: we empower the tutor-student relationship before, during and after classes with technology for a seamless, personalized, and measurable learning experience.",
+  "founded_year": 0,
+  "location": "Germany",
+  "sector": "ConsumerTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/682e2b1df426987e5e060eee_portfolio%252Fcompany%252F41d87696-e485-4b51-9206-e616cc6ed901%252F1725844222828-logo.avif",
+  "url": "https://www.antler.co/portfolio/heylama",
+  "api": "https://antler-api.github.io/companies/heylama.json"
+}

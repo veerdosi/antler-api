@@ -1,0 +1,13 @@
+{
+  "id": "antler-motif",
+  "name": "Motif",
+  "slug": "motif",
+  "website": "https://www.getmotif.ai/",
+  "description": "Motif helps sales teams run great discovery and live product demos to wow prospects and convert them to customers (Winding Down)",
+  "founded_year": 2023,
+  "location": "India",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/6859c900d8a636ecfbf6fb0f_portfolio%252Fcompany%252F94295dbf-d589-47ee-bc6b-7c16a363c1dc%252F1750714606528-motifhq_logo.jpeg",
+  "url": "https://www.antler.co/portfolio/motif",
+  "api": "https://antler-api.github.io/companies/motif.json"
+}

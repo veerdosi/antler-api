@@ -1,0 +1,13 @@
+{
+  "id": "antler-passionfruit",
+  "name": "Passionfruit",
+  "slug": "passionfruit",
+  "website": "https://www.passionfruit.earth/",
+  "description": "Passionfruit helps food companies respond faster and consistently to compliance requests from customers by automating up to 90% of the workflows.",
+  "founded_year": 2023,
+  "location": "Netherlands",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67b1ac3dd0e364b9bf36d78c_portfolio%252Fcompany%252F317b97be-7a2b-4ed7-9747-7fadc2bc29ef%252F1739693448240-Passionfruit_pf-logo-mark.svg",
+  "url": "https://www.antler.co/portfolio/passionfruit",
+  "api": "https://antler-api.github.io/companies/passionfruit.json"
+}

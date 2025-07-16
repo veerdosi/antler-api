@@ -1,0 +1,13 @@
+{
+  "id": "antler-tailboost",
+  "name": "Tailboost",
+  "slug": "tailboost",
+  "website": "https://www.tailboost.ai",
+  "description": "TailBoost aims to turn one-time shoppers into loyal customers by improving post-purchase experiences and leveraging first-party data in the Shopify ecosystem.",
+  "founded_year": 2024,
+  "location": "India",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/6857e5642c57abb8e733060e_portfolio%252Fcompany%252F78a422ed-3e8c-4175-ab11-fe21fe1ca6c9%252F1750590783607-shop_co_logo.jpeg",
+  "url": "https://www.antler.co/portfolio/tailboost",
+  "api": "https://antler-api.github.io/companies/tailboost.json"
+}

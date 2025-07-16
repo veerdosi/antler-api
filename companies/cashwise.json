@@ -1,0 +1,13 @@
+{
+  "id": "antler-cashwise",
+  "name": "CashWise",
+  "slug": "cashwise",
+  "website": "https://www.cashwise.asia/",
+  "description": "Robo-treasury that maximizes returns on business cash reserves while reducing manual tasks by up to 85%",
+  "founded_year": 2023,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66b44a2c5b8202c8155ac58d_mTuOTLj9M-SuckLUAIm8meE69cofDrTgbs2Yg5kRjwI.avif",
+  "url": "https://www.antler.co/portfolio/cashwise",
+  "api": "https://antler-api.github.io/companies/cashwise.json"
+}

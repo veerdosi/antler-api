@@ -1,0 +1,13 @@
+{
+  "id": "antler-wrtn",
+  "name": "Wrtn",
+  "slug": "wrtn",
+  "website": "https://wrtn.ai",
+  "description": "AI natural language superapp for South Korea",
+  "founded_year": 0,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67e487e0c83a873c81f634ff_portfolio%252Fcompany%252F21d57020-fa17-47d8-9ed7-490496cf34aa%252F1743030228668-wrtn.avif",
+  "url": "https://www.antler.co/portfolio/wrtn",
+  "api": "https://antler-api.github.io/companies/wrtn.json"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "antler-fractal-technology",
+  "name": "Fractal Technology",
+  "slug": "fractal-technology",
+  "website": "https://www.cookiedeal.io/",
+  "description": "AI-native investment bank for SME transaction",
+  "founded_year": 2023,
+  "location": "Korea",
+  "sector": "FinTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/6800861e3e4f88450b905610_teams%252Fe1fa7f97-8ecb-424e-8ecc-a8e24f914f49%252Flogos%252FLogo%252Bletter_FT_black.avif",
+  "url": "https://www.antler.co/portfolio/fractal-technology",
+  "api": "https://antler-api.github.io/companies/fractal-technology.json"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "antler-gro-gro",
+  "name": "Gro Gro",
+  "slug": "gro-gro",
+  "website": "https://grogrofood.com",
+  "description": "Honest, supportive, nutritious baby food. We offer the next best thing to homemade.",
+  "founded_year": 2019,
+  "location": "Sweden",
+  "sector": "ConsumerTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66b4536bde74b299e8139222_1NIzCVAquDM-opZNdBVBTVEhwxknwCIUtb-xjKrPZBo.avif",
+  "url": "https://www.antler.co/portfolio/gro-gro",
+  "api": "https://antler-api.github.io/companies/gro-gro.json"
+}

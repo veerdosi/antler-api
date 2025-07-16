@@ -1,0 +1,13 @@
+{
+  "id": "antler-arable",
+  "name": "Arable",
+  "slug": "arable",
+  "website": "https://www.arablefarms.com",
+  "description": "Revolutionizing agriculture in Saudia Arabia with advanced hydroponic technology for efficient fruit and vegetable cultivation in arid conditions.",
+  "founded_year": 2024,
+  "location": "Saudi Arabia",
+  "sector": "Industrials",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/685cf267e13dec16b874fe73_portfolio%252Fcompany%252F24031983-a09e-4fe8-bb90-ff9017321ff2%252F1750921821050-Color_Arable.png",
+  "url": "https://www.antler.co/portfolio/arable",
+  "api": "https://antler-api.github.io/companies/arable.json"
+}

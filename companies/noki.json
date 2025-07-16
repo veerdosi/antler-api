@@ -1,0 +1,13 @@
+{
+  "id": "antler-noki",
+  "name": "Noki",
+  "slug": "noki",
+  "website": "https://www.noki.so/",
+  "description": "Noki automatically qualifies your prospects, finds key leads and generates hyper-personalized outreach - at scale.",
+  "founded_year": 2021,
+  "location": "Unknown",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67d80e8d6f5f48ba31ad0d4e_portfolio%252Fcompany%252F05e159a2-ac6b-49bc-be1d-a60dc85f42e9%252F1725421697789-logo.avif",
+  "url": "https://www.antler.co/portfolio/noki",
+  "api": "https://antler-api.github.io/companies/noki.json"
+}

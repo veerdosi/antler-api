@@ -1,0 +1,13 @@
+{
+  "id": "antler-kepler-co",
+  "name": "Kepler & Co",
+  "slug": "kepler-co",
+  "website": "https://www.keplerco.io/",
+  "description": "An employee development solution that provides advanced learning path analytics, skills gap analysis, and skills gap remediation",
+  "founded_year": 2022,
+  "location": "Kenya",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67fe5953bd64a5b23940760b_portfolio%252Fcompany%252F307c4baf-b8b0-4a73-ba10-885c262fcf01%252F1744722232804-download.avif",
+  "url": "https://www.antler.co/portfolio/kepler-co",
+  "api": "https://antler-api.github.io/companies/kepler-co.json"
+}

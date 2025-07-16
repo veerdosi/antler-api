@@ -1,0 +1,13 @@
+{
+  "id": "antler-hifi",
+  "name": "HIFI",
+  "slug": "hifi",
+  "website": "https://www.hifibridge.com/",
+  "description": "Stablecoin infrastructure for developers",
+  "founded_year": 0,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/685317394ebc6fb5ba2b99af_portfolio%252Fcompany%252F1c251862-4999-4a30-b766-11dc38ee1985%252F1746563903259-Hifi%2520Logo%2520.png",
+  "url": "https://www.antler.co/portfolio/hifi",
+  "api": "https://antler-api.github.io/companies/hifi.json"
+}

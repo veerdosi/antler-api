@@ -1,0 +1,13 @@
+{
+  "id": "antler-stofee",
+  "name": "Stofee",
+  "slug": "stofee",
+  "website": "https://stofee.com/",
+  "description": "End to end operating system for fashion",
+  "founded_year": 2023,
+  "location": "Indonesia",
+  "sector": "Industrials",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67c55ff833d10dabcb9078a2_portfolio%252Fcompany%252Fa1710e10-0d39-478d-b45a-58a5f489cbba%252F1725422504239-logo.avif",
+  "url": "https://www.antler.co/portfolio/stofee",
+  "api": "https://antler-api.github.io/companies/stofee.json"
+}

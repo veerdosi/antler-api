@@ -1,0 +1,13 @@
+{
+  "id": "antler-wepair",
+  "name": "Wepair",
+  "slug": "wepair",
+  "website": "https://www.wepair.kr/",
+  "description": "Premium automobile accident repair concierge service",
+  "founded_year": 2023,
+  "location": "Korea",
+  "sector": "ConsumerTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/6800879b6fc300727e4e8ee2_portfolio%252Fcompany%252F6ff3b480-d089-4cb1-b5d6-b47ab00f5f9d%252F1732613629062-logo.avif",
+  "url": "https://www.antler.co/portfolio/wepair",
+  "api": "https://antler-api.github.io/companies/wepair.json"
+}

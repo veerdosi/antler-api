@@ -1,0 +1,13 @@
+{
+  "id": "antler-hexo",
+  "name": "Hexo",
+  "slug": "hexo",
+  "website": "https://www.hexo.ai/",
+  "description": "Hexo helps businesses integrate Generative AI into their workflows.",
+  "founded_year": 2023,
+  "location": "India",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67f3d333181aa8422e72a0ae_portfolio%252Fcompany%252Fcd3fa7d0-3161-4725-aa33-e38618d138ae%252F1744032537126-Hexo.avif",
+  "url": "https://www.antler.co/portfolio/hexo",
+  "api": "https://antler-api.github.io/companies/hexo.json"
+}

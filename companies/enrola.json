@@ -1,0 +1,13 @@
+{
+  "id": "antler-enrola",
+  "name": "Enrola",
+  "slug": "enrola",
+  "website": "https://www.enrola.com.au",
+  "description": "Enrola is an education comparison platform that delivers personalised recommendations for students and fully enrolled students at scale for education providers.",
+  "founded_year": 2023,
+  "location": "Australia",
+  "sector": "ConsumerTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/670c6bbb488d5877283b8b6d_portfolio%252Fcompany%252F42cae59e-5c77-4469-9666-76185328b07a%252F1728867224664-brandmark-design%2520(17).avif",
+  "url": "https://www.antler.co/portfolio/enrola",
+  "api": "https://antler-api.github.io/companies/enrola.json"
+}

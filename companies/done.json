@@ -1,0 +1,13 @@
+{
+  "id": "antler-done",
+  "name": "Done",
+  "slug": "done",
+  "website": "https://doneservices.co",
+  "description": "Platform for home improvement and repair services",
+  "founded_year": 2019,
+  "location": "Sweden",
+  "sector": "ConsumerTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66b44b0005aac7a5f3aad99f__JfrFRys6261p5QRYVws0iSocQrf1jDBiqZE6kGOCMA.avif",
+  "url": "https://www.antler.co/portfolio/done",
+  "api": "https://antler-api.github.io/companies/done.json"
+}

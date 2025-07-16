@@ -1,0 +1,13 @@
+{
+  "id": "antler-relocal",
+  "name": "Relocal",
+  "slug": "relocal",
+  "website": "https://www.relocal.co",
+  "description": "Relocal simplify cross border hiring and automate immigration process",
+  "founded_year": 2025,
+  "location": "Saudi Arabia",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67cad5e1d0f8448c6352d4db_teams%252Fe2d4829d-4ae5-4852-b3d8-1195e616f109%252Flogos%252FLogo.avif",
+  "url": "https://www.antler.co/portfolio/relocal",
+  "api": "https://antler-api.github.io/companies/relocal.json"
+}

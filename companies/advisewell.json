@@ -1,0 +1,13 @@
+{
+  "id": "antler-advisewell",
+  "name": "AdviseWell",
+  "slug": "advisewell",
+  "website": "https://www.advisewell.co/",
+  "description": "AdviseWell automates advice production end-to-end, unlocking growth without extra headcount.",
+  "founded_year": 2024,
+  "location": "Australia",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67a2f25530d420ddf78d804e_portfolio%252Fcompany%252F5b33f6ab-12c9-448d-98b2-f49a773f1730%252F1738732110894-logo.svg",
+  "url": "https://www.antler.co/portfolio/advisewell",
+  "api": "https://antler-api.github.io/companies/advisewell.json"
+}

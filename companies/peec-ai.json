@@ -1,0 +1,13 @@
+{
+  "id": "antler-peec-ai",
+  "name": "Peec AI",
+  "slug": "peec-ai",
+  "website": "https://peec.ai/",
+  "description": "We help companies rank higher in AI search results.",
+  "founded_year": 2024,
+  "location": "Germany",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67f508afa273b25d8b8efaa1_portfolio%252Fcompany%252Fb2c9146c-74fd-4991-a98c-801aea9fcea5%252F1744111776790-Logo.avif",
+  "url": "https://www.antler.co/portfolio/peec-ai",
+  "api": "https://antler-api.github.io/companies/peec-ai.json"
+}

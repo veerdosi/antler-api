@@ -1,0 +1,13 @@
+{
+  "id": "antler-nubo",
+  "name": "Nubo",
+  "slug": "nubo",
+  "website": "https://nubo.app/",
+  "description": "Nubo was built to give developers the tools to build the fastest, most reliable, and most powerful applications by allowing you to deploy applications to multiple regions and multiple cloud providers in one go.",
+  "founded_year": 2021,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66d6df561dd434e50e3cfca6_7l6Aie4SIhHUxH-G9It8S8mDRpTlTqpC857RpdZHMnw.avif",
+  "url": "https://www.antler.co/portfolio/nubo",
+  "api": "https://antler-api.github.io/companies/nubo.json"
+}

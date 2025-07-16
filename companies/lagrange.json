@@ -1,0 +1,13 @@
+{
+  "id": "antler-lagrange",
+  "name": "Lagrange",
+  "slug": "lagrange",
+  "website": "https://www.lagrange.ai/",
+  "description": "AI-enabled platform to reduce supply chain uncertainties and disruptions, automatically scan your distribution network, and identifies areas for improvement",
+  "founded_year": 2021,
+  "location": "Australia",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67de0c33625095e46d7b68da_portfolio%252Fcompany%252Fb997db42-e4e5-4678-9c7e-b935e9ac4a73%252F1742605357816-Lagrange%2520AI.avif",
+  "url": "https://www.antler.co/portfolio/lagrange",
+  "api": "https://antler-api.github.io/companies/lagrange.json"
+}

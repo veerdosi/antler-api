@@ -1,0 +1,13 @@
+{
+  "id": "antler-nife",
+  "name": "Nife",
+  "slug": "nife",
+  "website": "https://nife.io/",
+  "description": "Nife is an enterprise application deployment and orchestration platform provider that is transforming how users experience the internet.",
+  "founded_year": 2021,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67d7ecf35b51490de03c42c7_portfolio%252Fcompany%252F2fd4d692-e1d3-45b5-a3d9-45a3237f1945%252F1742204130076-nifeio_logo.avif",
+  "url": "https://www.antler.co/portfolio/nife",
+  "api": "https://antler-api.github.io/companies/nife.json"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "antler-eten",
+  "name": "Eten",
+  "slug": "eten",
+  "website": "https://www.etentech.co/",
+  "description": "Inventory management & ordering system for F&B",
+  "founded_year": 2022,
+  "location": "Indonesia",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67c7ccbfcd4c11987193f68f_portfolio%252Fcompany%252Fbba3f068-e43d-4ef7-9465-c27aa34148ac%252F1725422025879-logo.avif",
+  "url": "https://www.antler.co/portfolio/eten",
+  "api": "https://antler-api.github.io/companies/eten.json"
+}

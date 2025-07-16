@@ -1,0 +1,13 @@
+{
+  "id": "antler-factory-ai",
+  "name": "Factory AI",
+  "slug": "factory-ai",
+  "website": "https://www.f7i.ai/",
+  "description": "Factory AI helps manufacturers reduce their unplanned downtime with AI predictive maintenance",
+  "founded_year": 2023,
+  "location": "Australia",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67de004d4a125478880a5c14_portfolio%252Fcompany%252F38a717e0-94f3-4b00-bc8b-72e7070aa712%252F1742602285167-Factory%2520AI.avif",
+  "url": "https://www.antler.co/portfolio/factory-ai",
+  "api": "https://antler-api.github.io/companies/factory-ai.json"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "antler-salus",
+  "name": "Salus",
+  "slug": "salus",
+  "website": "https://www.salusfintech.com/",
+  "description": "Salus is a digital underwriting platform. It licenses proprietary underwriting models to B2B clients to expand access to affordable credit for traditionally under-served borrowers.",
+  "founded_year": 2022,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66d6df5ba18f11ae44f2cf14_xocYhi9mind6uBjuyU4wf-PCPvNiSZy5vu-A5heZNZ0.avif",
+  "url": "https://www.antler.co/portfolio/salus",
+  "api": "https://antler-api.github.io/companies/salus.json"
+}

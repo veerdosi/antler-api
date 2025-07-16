@@ -1,0 +1,13 @@
+{
+  "id": "antler-soap-payments",
+  "name": "Soap Payments",
+  "slug": "soap-payments",
+  "website": "https://www.paywithsoap.com/",
+  "description": "Seamless payments, instant verification, zero fraud — for real-money gaming.",
+  "founded_year": 2024,
+  "location": "Unknown",
+  "sector": "FinTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67a3f3276b3480180525b20b_teams%252Fd5cb3d6d-6b10-4d46-aaa0-eba74ae5a6f5%252Flogos%252Fsingularity11443_Create_a_sleek_and_modern_logo_for_a_tech_st_e2f20e85-8c28-423a-aa2a-e1b3a2f0132c_2.avif",
+  "url": "https://www.antler.co/portfolio/soap-payments",
+  "api": "https://antler-api.github.io/companies/soap-payments.json"
+}

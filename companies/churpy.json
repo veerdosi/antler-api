@@ -1,0 +1,13 @@
+{
+  "id": "antler-churpy",
+  "name": "Churpy",
+  "slug": "churpy",
+  "website": "https://churpy.co",
+  "description": "Churpy is on mission to connect developers with an aggregated API for both financial data and payment processing. We are expanding across the African continent after connecting to the leading banks APIs in Kenya.",
+  "founded_year": 2021,
+  "location": "Kenya",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67bfdb34a7b4a003ee26d62b_portfolio%252Fcompany%252F3a4e6bb1-990e-4fef-99c6-c19b19583fb6%252F1740626707862-churpy.svg",
+  "url": "https://www.antler.co/portfolio/churpy",
+  "api": "https://antler-api.github.io/companies/churpy.json"
+}

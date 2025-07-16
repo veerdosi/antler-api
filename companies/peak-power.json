@@ -1,0 +1,13 @@
+{
+  "id": "antler-peak-power",
+  "name": "Peak Power",
+  "slug": "peak-power",
+  "website": "https://peakpower.io",
+  "description": "Peak Power is a distributed storage system that helps balance the electricity grid.",
+  "founded_year": 0,
+  "location": "Germany",
+  "sector": "Energy and ClimateTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/682e2b647a069dd900e01f91_portfolio%252Fcompany%252F9c7eb8c1-4a3d-4a86-aa22-710af8b457f7%252F1725844322449-logo.avif",
+  "url": "https://www.antler.co/portfolio/peak-power",
+  "api": "https://antler-api.github.io/companies/peak-power.json"
+}

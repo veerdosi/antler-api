@@ -1,0 +1,13 @@
+{
+  "id": "antler-harvy",
+  "name": "Harvy",
+  "slug": "harvy",
+  "website": "https://www.harvy.tech/",
+  "description": "Harvy builds a decentralized local food distribution model that is owned by the farmers.",
+  "founded_year": 2023,
+  "location": "France",
+  "sector": "Industrials",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/682e2994cf677454a6a9d5e6_portfolio%252Fcompany%252Fe8cbf5b6-d492-4fb1-8cac-5917b5cf18d6%252F1725844343995-logo.avif",
+  "url": "https://www.antler.co/portfolio/harvy",
+  "api": "https://antler-api.github.io/companies/harvy.json"
+}

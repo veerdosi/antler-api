@@ -1,0 +1,13 @@
+{
+  "id": "antler-mentium",
+  "name": "Mentium",
+  "slug": "mentium",
+  "website": "https://www.mentium.io",
+  "description": "Mentium is the future of startup financing and b2b payments infrastructure. Mentium is a blockchain-powered fintech platform that offers SaaS companies revenue-based financing and b2b payment solutions. We help SaaS companies grow by providing them easy access to capital and transparent, quick, and affordable B2B payment infrastructure that uses stablecoins (USDC).",
+  "founded_year": 2022,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66d6df16392726e8ac36984d_TBHz12ghaNCm5KLZFSSUl-WlmiM4w5YOh7LR03GYFJI.avif",
+  "url": "https://www.antler.co/portfolio/mentium",
+  "api": "https://antler-api.github.io/companies/mentium.json"
+}

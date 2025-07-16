@@ -1,0 +1,13 @@
+{
+  "id": "antler-buddywise",
+  "name": "Buddywise",
+  "slug": "buddywise",
+  "website": "https://buddywise.co",
+  "description": "Real time risk detection for industrial sites",
+  "founded_year": 2020,
+  "location": "Sweden",
+  "sector": "Industrials",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/6756d3cdb322096d14104f13_portfolio%252Fcompany%252F06de6e16-a762-4ea9-83ca-719668533fd1%252F1733743548981-Buddywise_Marketing_Report.avif",
+  "url": "https://www.antler.co/portfolio/buddywise",
+  "api": "https://antler-api.github.io/companies/buddywise.json"
+}

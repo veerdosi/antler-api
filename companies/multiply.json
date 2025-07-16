@@ -1,0 +1,13 @@
+{
+  "id": "antler-multiply",
+  "name": "Multiply",
+  "slug": "multiply",
+  "website": "https://multiply.co",
+  "description": "One workspace for all the apps and people you work with",
+  "founded_year": 2021,
+  "location": "Sweden",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66b45305ab34a9534b60e9bb_0eIYRnqni6UWYD5Esivyh6GQTE6oug84kxy3DnC5UYs.avif",
+  "url": "https://www.antler.co/portfolio/multiply",
+  "api": "https://antler-api.github.io/companies/multiply.json"
+}

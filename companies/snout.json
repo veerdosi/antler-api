@@ -1,0 +1,13 @@
+{
+  "id": "antler-snout",
+  "name": "Snout",
+  "slug": "snout",
+  "website": "https://www.snout.pet/",
+  "description": "Snout is the first digital pet health and wellness hub in LatAm, connecting pet owners to pet professionals in a simple and accessible way.",
+  "founded_year": 2023,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66b44bab2be8cfb5b5615aff_hDnBrTLvNBA3Td7nRv_XEVuYG_Juih8OCGFFKcp5IsM.avif",
+  "url": "https://www.antler.co/portfolio/snout",
+  "api": "https://antler-api.github.io/companies/snout.json"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "antler-boober",
+  "name": "Boober",
+  "slug": "boober",
+  "website": "https://getboober.com",
+  "description": "Boober was built around on-demand, in-person lactation support with over 4,000 parents matched to care in the NYC area.",
+  "founded_year": 2021,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/658254141dc13c7729f38ec0_boober-logo-trademark.webp",
+  "url": "https://www.antler.co/portfolio/boober",
+  "api": "https://antler-api.github.io/companies/boober.json"
+}

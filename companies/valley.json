@@ -1,0 +1,13 @@
+{
+  "id": "antler-valley",
+  "name": "Valley",
+  "slug": "valley",
+  "website": "https://joinvalley.co/",
+  "description": "Valley's LinkedIn AI SDR books sales calls on autopilot with high-intent leads by identifying website visitors, scoring every lead to check for ICP, and personalizing every outreach with deep research on every prospect.",
+  "founded_year": 2022,
+  "location": "Unknown",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67f5d133d0e364786f23ab25_portfolio%252Fcompany%252Fd91f0925-016e-4838-85e0-cfea4a1b407d%252F1725607001480-logo.avif",
+  "url": "https://www.antler.co/portfolio/valley",
+  "api": "https://antler-api.github.io/companies/valley.json"
+}

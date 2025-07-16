@@ -1,0 +1,13 @@
+{
+  "id": "antler-cinnex",
+  "name": "Cinnex",
+  "slug": "cinnex",
+  "website": "https://www.cinnex.co/",
+  "description": "Cinnex is a portfolio company of Antler.",
+  "founded_year": 2024,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/676575e4a2cc7093123f4acb_teams%252F3cbbfc05-6854-4ccc-b77a-2ff24d05b17e%252Flogos%252FCinnex_Logo_500_Light_Square_WhiteBg.avif",
+  "url": "https://www.antler.co/portfolio/cinnex",
+  "api": "https://antler-api.github.io/companies/cinnex.json"
+}

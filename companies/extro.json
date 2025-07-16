@@ -1,0 +1,13 @@
+{
+  "id": "antler-extro",
+  "name": "Extro",
+  "slug": "extro",
+  "website": "https://www.extro.uk/",
+  "description": "UK’s first social media food and beverages app. Order with your buddies, send and receive gifts, get rewarded, make tons of savings, and support your local businesses by collecting your order.",
+  "founded_year": 2022,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/65825462f72d6ac88b956754_esxmtlwglrlb1aplgbz8.webp",
+  "url": "https://www.antler.co/portfolio/extro",
+  "api": "https://antler-api.github.io/companies/extro.json"
+}

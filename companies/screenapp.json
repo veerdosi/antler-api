@@ -1,0 +1,13 @@
+{
+  "id": "antler-screenapp",
+  "name": "ScreenApp",
+  "slug": "screenapp",
+  "website": "https://screenapp.io/",
+  "description": "ScreenApp transforms conversations into structured intelligence, bridging the gap between forgotten meetings and actionable knowledge for teams and AI.",
+  "founded_year": 2023,
+  "location": "Australia",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/6870c97e9e274340cbdcd640_portfolio%252Fcompany%252Fd6f5b948-ee12-4833-90e7-5468f0e01c8d%252F1752222059939-67a170d6cff775964e71e71e_Logo_text-1.svg",
+  "url": "https://www.antler.co/portfolio/screenapp",
+  "api": "https://antler-api.github.io/companies/screenapp.json"
+}

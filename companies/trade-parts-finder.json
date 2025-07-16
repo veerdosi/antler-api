@@ -1,0 +1,13 @@
+{
+  "id": "antler-trade-parts-finder",
+  "name": "Trade Parts Finder",
+  "slug": "trade-parts-finder",
+  "website": "https://www.tradepartsfinder.co.uk/",
+  "description": "Trade Parts Finder is an AI sourcing agent for maintenance firms.",
+  "founded_year": 2021,
+  "location": "Unknown",
+  "sector": "Industrials",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/65825460314f0f78603084da_https___67c1e5c5a72c99d91586f33439a4b5d4.cdn.bubble.io_f1671014693760x258913111140923740_TPF284-29.png",
+  "url": "https://www.antler.co/portfolio/trade-parts-finder",
+  "api": "https://antler-api.github.io/companies/trade-parts-finder.json"
+}

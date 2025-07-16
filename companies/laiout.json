@@ -1,0 +1,13 @@
+{
+  "id": "antler-laiout",
+  "name": "Laiout",
+  "slug": "laiout",
+  "website": "https://laiout.co",
+  "description": "Forever changing the way architectural floor plans are designed.",
+  "founded_year": 2021,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66e84d8a16187d26dbe5ff69_portfolio%252Fcompany%252F13908191-65ea-4dc7-b970-01cc6336786b%252F1725420281222-logo.avif",
+  "url": "https://www.antler.co/portfolio/laiout",
+  "api": "https://antler-api.github.io/companies/laiout.json"
+}

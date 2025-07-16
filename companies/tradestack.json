@@ -1,0 +1,13 @@
+{
+  "id": "antler-tradestack",
+  "name": "TradeStack",
+  "slug": "tradestack",
+  "website": "https://www.tradestack.uk/",
+  "description": "Tradestack automates back-office admin for trades businesses, empowering them to quote 20x faster with 80% less effort and grow revenue by 50%.",
+  "founded_year": 2024,
+  "location": "Unknown",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66d979322dc75b723edbe7a4_portfolio%252Fcompany%252F1dc882f6-1025-4dc6-89f9-09070c0774e9%252F1725528349344-TS_logos_Black.svg",
+  "url": "https://www.antler.co/portfolio/tradestack",
+  "api": "https://antler-api.github.io/companies/tradestack.json"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "antler-shaka",
+  "name": "Shaka",
+  "slug": "shaka",
+  "website": "https://www.shaka.tel/",
+  "description": "Enabling brands to offer mobile plans to their customers",
+  "founded_year": 2023,
+  "location": "Unknown",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67d86223769ca71ab9c70cfd_portfolio%252Fcompany%252Fc724ddbc-1461-4420-afac-07f9fdb73d61%252F1725421699577-logo.avif",
+  "url": "https://www.antler.co/portfolio/shaka",
+  "api": "https://antler-api.github.io/companies/shaka.json"
+}

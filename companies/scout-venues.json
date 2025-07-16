@@ -1,0 +1,13 @@
+{
+  "id": "antler-scout-venues",
+  "name": "Scout Venues",
+  "slug": "scout-venues",
+  "website": "https://scoutvenues.com",
+  "description": "The smartest way to find and book film and event venues in MENA.",
+  "founded_year": 2025,
+  "location": "Saudi Arabia",
+  "sector": "ConsumerTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/685cfddf1ce32f03fd298795_portfolio%252Fcompany%252F71d5538a-37b4-4a4d-abcc-9ea58a6f4d36%252F1750924756652-Color_ScoutVenues.png",
+  "url": "https://www.antler.co/portfolio/scout-venues",
+  "api": "https://antler-api.github.io/companies/scout-venues.json"
+}

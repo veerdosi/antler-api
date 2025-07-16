@@ -1,0 +1,13 @@
+{
+  "id": "antler-mnkl",
+  "name": "mnkl",
+  "slug": "mnkl",
+  "website": "https://m.mnkl.co.kr",
+  "description": "Buy and sell pre-loved premium kidswear in a trusted community",
+  "founded_year": 2023,
+  "location": "Korea",
+  "sector": "ConsumerTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/6800865aae2ec62f79434b07_teams%252F323ca89f-691a-4f05-9f1d-279b32de06db%252Flogos%252F%25EB%25AD%2589%25ED%2581%25B4%2520%25EB%25A1%259C%25EA%25B3%25A0.avif",
+  "url": "https://www.antler.co/portfolio/mnkl",
+  "api": "https://antler-api.github.io/companies/mnkl.json"
+}

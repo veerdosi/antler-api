@@ -1,0 +1,13 @@
+{
+  "id": "antler-jobreel",
+  "name": "Jobreel",
+  "slug": "jobreel",
+  "website": "https://jobreel.com",
+  "description": "Job Matching for the Next Generation of Talent and Employers",
+  "founded_year": 0,
+  "location": "Germany",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/682e2b2d7a069dd900dff7ba_portfolio%252Fcompany%252Fba8b3635-7333-441b-bdf6-ea5947b1e69c%252F1725844310384-logo.avif",
+  "url": "https://www.antler.co/portfolio/jobreel",
+  "api": "https://antler-api.github.io/companies/jobreel.json"
+}

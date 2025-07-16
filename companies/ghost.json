@@ -1,0 +1,13 @@
+{
+  "id": "antler-ghost",
+  "name": "Ghost",
+  "slug": "ghost",
+  "website": "https://www.onghost.com/",
+  "description": "Ghost is an all-in-one AI marketing agent for small businesses.",
+  "founded_year": 2024,
+  "location": "Unknown",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66d576f01877f170b6bb31b7_0tRyEvmkn0gCfequJTy9z1DmQW4z8LMbIovkIGBudy4.avif",
+  "url": "https://www.antler.co/portfolio/ghost",
+  "api": "https://antler-api.github.io/companies/ghost.json"
+}

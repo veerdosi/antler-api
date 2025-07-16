@@ -1,0 +1,13 @@
+{
+  "id": "antler-ven",
+  "name": "Ven",
+  "slug": "ven",
+  "website": "https://www.vencover.com/",
+  "description": "Enabling commercial vehicle fleets to electrify through access to more data and charging opportunities.",
+  "founded_year": 2024,
+  "location": "Unknown",
+  "sector": "Energy and ClimateTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66b44a86e2c055cb0450d9da_f9TpyzPhgVhm-2YRf-XGb1SCE900PYjcSFF1DSDgNxc.avif",
+  "url": "https://www.antler.co/portfolio/ven",
+  "api": "https://antler-api.github.io/companies/ven.json"
+}

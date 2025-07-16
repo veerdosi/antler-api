@@ -1,0 +1,13 @@
+{
+  "id": "antler-audiomatic",
+  "name": "Audiomatic",
+  "slug": "audiomatic",
+  "website": "https://audiomatic.io/",
+  "description": "AI-powered sound generation engine that creates bespoke audio tracks (music & sound effects) for immersive experiences like games and movies.",
+  "founded_year": 2025,
+  "location": "United Arab Emirates",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/68519a699bd50dc37e95233e_portfolio%252Fcompany%252Feb4624db-8786-4964-a709-438e94bcfd08%252F1750178362705-WhatsApp%2520Image%25202025-06-17%2520at%25208.08.55%2520PM.jpeg",
+  "url": "https://www.antler.co/portfolio/audiomatic",
+  "api": "https://antler-api.github.io/companies/audiomatic.json"
+}

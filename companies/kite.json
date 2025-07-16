@@ -1,0 +1,13 @@
+{
+  "id": "antler-kite",
+  "name": "Kite",
+  "slug": "kite",
+  "website": "https://www.kitemena.com/",
+  "description": "Kite provides revenue-based financing for eCommerce companies in the MENA region.",
+  "founded_year": 2023,
+  "location": "Unknown",
+  "sector": "FinTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67d862f75198800e18d90779_portfolio%252Fcompany%252Fe025bfc1-08b3-46d7-95fa-ad6eb2bc082b%252F1725421614800-logo.avif",
+  "url": "https://www.antler.co/portfolio/kite",
+  "api": "https://antler-api.github.io/companies/kite.json"
+}

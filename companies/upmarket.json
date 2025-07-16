@@ -1,0 +1,13 @@
+{
+  "id": "antler-upmarket",
+  "name": "UpMarket",
+  "slug": "upmarket",
+  "website": "https://upmarket.cloud",
+  "description": "Transforming Guest Management in the Hospitality Industry",
+  "founded_year": 2023,
+  "location": "Netherlands",
+  "sector": "Real Estate and PropTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/63f5c5b20c7141280a513e0f_logo-up.svg",
+  "url": "https://www.antler.co/portfolio/upmarket",
+  "api": "https://antler-api.github.io/companies/upmarket.json"
+}

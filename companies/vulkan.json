@@ -1,0 +1,13 @@
+{
+  "id": "antler-vulkan",
+  "name": "Vulkan",
+  "slug": "vulkan",
+  "website": "https://vulkan.software/en",
+  "description": "Vulkan is the next generation workflow automation engine for financial institutions",
+  "founded_year": 2024,
+  "location": "Brazil",
+  "sector": "FinTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/680ab8d06ffa6eaada263f8b_portfolio%252Fcompany%252F9b424b06-65cf-49d0-8d0f-2dd0e2c9a4c1%252F1725423826866-logo.avif",
+  "url": "https://www.antler.co/portfolio/vulkan",
+  "api": "https://antler-api.github.io/companies/vulkan.json"
+}

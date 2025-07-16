@@ -1,0 +1,13 @@
+{
+  "id": "antler-kiip-corporation",
+  "name": "Kiip Corporation",
+  "slug": "kiip-corporation",
+  "website": "https://www.iipuda.com",
+  "description": "AI-powered Korea Medical Concierge Service for Foreign Patients",
+  "founded_year": 2022,
+  "location": "Korea",
+  "sector": "Health and BioTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/680615018dfd0272416a1cf9_portfolio%252Fcompany%252Fe5d56470-0423-46b1-a472-40ed545b0c34%252F1745229015315-Screenshot%25202025-04-21%2520at%25206.49.57%25E2%2580%25AFPM.avif",
+  "url": "https://www.antler.co/portfolio/kiip-corporation",
+  "api": "https://antler-api.github.io/companies/kiip-corporation.json"
+}

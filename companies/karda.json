@@ -1,0 +1,13 @@
+{
+  "id": "antler-karda",
+  "name": "KARDA",
+  "slug": "karda",
+  "website": "https://kardanalytics.com/",
+  "description": "Automating police report generation with AI.",
+  "founded_year": 2024,
+  "location": "Unknown",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67ad533562751fe4323e7d6e_teams%252F9d010c38-eff0-41ef-be88-bfe612736487%252Flogos%252FMark%2520Only%2520Dark.avif",
+  "url": "https://www.antler.co/portfolio/karda",
+  "api": "https://antler-api.github.io/companies/karda.json"
+}

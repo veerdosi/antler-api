@@ -1,0 +1,13 @@
+{
+  "id": "antler-envar",
+  "name": "Envar",
+  "slug": "envar",
+  "website": "https://envar.se",
+  "description": "B2B marketplace for carbon emission reduction",
+  "founded_year": 2021,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/675784a8dd6b84774c3381d0_portfolio%252Fcompany%252Fc837b247-e25d-4e90-bbcf-2ac6a411a879%252F1733718350281-logo.avif",
+  "url": "https://www.antler.co/portfolio/envar",
+  "api": "https://antler-api.github.io/companies/envar.json"
+}

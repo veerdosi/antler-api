@@ -1,0 +1,13 @@
+{
+  "id": "antler-frich",
+  "name": "Frich",
+  "slug": "frich",
+  "website": "https://www.getfrich.com/",
+  "description": "Frich makes financial literacy social. We help GenZ achieve their financial goals by giving them access to their peers financial habits and allowing them to build better financial literacy as a community.",
+  "founded_year": 2021,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/658250db3a0de4d5e702fc51_d0521e_ebb1901d9ab446d3849c19c3d00e55a1_mv2.webp",
+  "url": "https://www.antler.co/portfolio/frich",
+  "api": "https://antler-api.github.io/companies/frich.json"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "antler-rightpaw",
+  "name": "RightPaw",
+  "slug": "rightpaw",
+  "website": "https://rightpaw.com.au",
+  "description": "RightPaw is the simpler, safer, supportive way to buy your pet online - connecting vet-approved breeders with new responsible owners.",
+  "founded_year": 2020,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67e4dcfd0a803067f2c48a01_portfolio%252Fcompany%252Ff6133e90-dd2d-4efa-8601-1c0baf127963%252F1743052022351-rightpaw-logo.avif",
+  "url": "https://www.antler.co/portfolio/rightpaw",
+  "api": "https://antler-api.github.io/companies/rightpaw.json"
+}

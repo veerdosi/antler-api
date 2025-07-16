@@ -1,0 +1,13 @@
+{
+  "id": "antler-cedar",
+  "name": "Cedar",
+  "slug": "cedar",
+  "website": "https://www.cedar.build",
+  "description": "America's Architect",
+  "founded_year": 2022,
+  "location": "Unknown",
+  "sector": "Real Estate and PropTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/68114b3b94083233154e097e_portfolio%252Fcompany%252Fd2d71c75-6d7b-43ac-85c1-eb92fa419204%252F1745963779172-Icon-only.avif",
+  "url": "https://www.antler.co/portfolio/cedar",
+  "api": "https://antler-api.github.io/companies/cedar.json"
+}

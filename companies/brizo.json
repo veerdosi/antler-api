@@ -1,0 +1,13 @@
+{
+  "id": "antler-brizo",
+  "name": "Brizo",
+  "slug": "brizo",
+  "website": "https://brizo.se",
+  "description": "Everything delivered in minutes",
+  "founded_year": 2022,
+  "location": "Sweden",
+  "sector": "Industrials",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66b44978b10b45888bc49511_sJL1c1ztnvZgxrwpktvm_MLdJm5a-OMngMgZARexEes.avif",
+  "url": "https://www.antler.co/portfolio/brizo",
+  "api": "https://antler-api.github.io/companies/brizo.json"
+}

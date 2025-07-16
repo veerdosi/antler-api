@@ -1,0 +1,13 @@
+{
+  "id": "antler-blend",
+  "name": "Blend",
+  "slug": "blend",
+  "website": "https://weareblend.ai/",
+  "description": "Blend is a tech enabled platform that automates smart onboarding for hospitality and saves managers time. Think TikTok for workplace training for deskless workers.",
+  "founded_year": 2023,
+  "location": "Unknown",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67d84e26e8abe5b3b16551e7_portfolio%252Fcompany%252F2d11970a-c685-40a0-af1f-5980a39cef1f%252F1725421571092-logo.avif",
+  "url": "https://www.antler.co/portfolio/blend",
+  "api": "https://antler-api.github.io/companies/blend.json"
+}

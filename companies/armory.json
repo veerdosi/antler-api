@@ -1,0 +1,13 @@
+{
+  "id": "antler-armory",
+  "name": "Armory",
+  "slug": "armory",
+  "website": "https://www.armory.in/",
+  "description": "Defence tech startup from Bharat building the best C-UAS systems that detect, defend and destroy rogue drones.",
+  "founded_year": 2025,
+  "location": "India",
+  "sector": "Industrials",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/6859ac200080d45a78ffafec_portfolio%252Fcompany%252Fbf9d435f-557e-4541-bb65-a56413c62d77%252F1750707176660-armoryshield_logo.jpeg",
+  "url": "https://www.antler.co/portfolio/armory",
+  "api": "https://antler-api.github.io/companies/armory.json"
+}

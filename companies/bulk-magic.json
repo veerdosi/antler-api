@@ -1,0 +1,13 @@
+{
+  "id": "antler-bulk-magic",
+  "name": "Bulk Magic",
+  "slug": "bulk-magic",
+  "website": "https://bulkmagic.co",
+  "description": "Bulk Magic is a portfolio company of Antler.",
+  "founded_year": 2022,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66d6dd9e5c9102a52b967a9c_y7bRslieiFvzXSHicySQ92vnai_GFXfWXdLNr-FY1vg.avif",
+  "url": "https://www.antler.co/portfolio/bulk-magic",
+  "api": "https://antler-api.github.io/companies/bulk-magic.json"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "antler-basemaker",
+  "name": "Basemaker",
+  "slug": "basemaker",
+  "website": "https://www.basemaker.co/",
+  "description": "Basemaker is a digital marketing platform that connects brands with content creators for hyper-targeted influencer marketing campaigns.",
+  "founded_year": 2023,
+  "location": "Brazil",
+  "sector": "ConsumerTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/68094328344cfe4f20a4da56_portfolio%252Fcompany%252F33dfef0c-0e04-4c5b-904d-44a607d70cc8%252F1725423791967-logo.avif",
+  "url": "https://www.antler.co/portfolio/basemaker",
+  "api": "https://antler-api.github.io/companies/basemaker.json"
+}

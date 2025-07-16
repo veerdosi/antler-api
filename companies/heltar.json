@@ -1,0 +1,13 @@
+{
+  "id": "antler-heltar",
+  "name": "Heltar",
+  "slug": "heltar",
+  "website": "https://www.heltar.com",
+  "description": "Heltar helps businesses automate customer engagement on WhatsApp with AI-powered, no-code chatbots and bulk messaging.",
+  "founded_year": 2024,
+  "location": "India",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67f8fc0e5da0cc18721debb2_portfolio%252Fcompany%252F8d9a7331-2dcd-4352-b93d-286f8776a06f%252F1744370648607-Heltar.avif",
+  "url": "https://www.antler.co/portfolio/heltar",
+  "api": "https://antler-api.github.io/companies/heltar.json"
+}

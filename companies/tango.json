@@ -1,0 +1,13 @@
+{
+  "id": "antler-tango",
+  "name": "Tango",
+  "slug": "tango",
+  "website": "https://tango.fr/",
+  "description": "Tango helps millions of seniors don’t have to grow old alone 👵🏼",
+  "founded_year": 2023,
+  "location": "France",
+  "sector": "ConsumerTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67f4e8c449474310d6a9f052_portfolio%252Fcompany%252F2972bf45-691f-42b2-ab4e-36925d7a3543%252F1744103602280-logo.avif",
+  "url": "https://www.antler.co/portfolio/tango",
+  "api": "https://antler-api.github.io/companies/tango.json"
+}

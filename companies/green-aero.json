@@ -1,0 +1,13 @@
+{
+  "id": "antler-green-aero",
+  "name": "Green Aero",
+  "slug": "green-aero",
+  "website": "https://www.greenaero.in/",
+  "description": "Developing green hydrogen based propulsion systems to decarbonize aviation and shipping.",
+  "founded_year": 2025,
+  "location": "India",
+  "sector": "Industrials",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/6859c5b7b020410dcb26e44b_portfolio%252Fcompany%252Fdbc79766-717e-4d3c-9974-911c832c25f9%252F1750713725757-greenaero_logo%2520(1).jpeg",
+  "url": "https://www.antler.co/portfolio/green-aero",
+  "api": "https://antler-api.github.io/companies/green-aero.json"
+}

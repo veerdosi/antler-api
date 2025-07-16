@@ -1,0 +1,13 @@
+{
+  "id": "antler-netnow",
+  "name": "NetNow",
+  "slug": "netnow",
+  "website": "https://www.netnow.io/",
+  "description": "Solution to embed B2B payments & financing solutions like BNPL",
+  "founded_year": 2022,
+  "location": "Canada",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67dde365e7f3154a31453e41_portfolio%252Fcompany%252Fab65a198-57b8-4d91-ae8f-980336a0644f%252F1733119266335-logo.avif",
+  "url": "https://www.antler.co/portfolio/netnow",
+  "api": "https://antler-api.github.io/companies/netnow.json"
+}

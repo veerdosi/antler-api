@@ -1,0 +1,13 @@
+{
+  "id": "antler-homeboard",
+  "name": "HomeBoard",
+  "slug": "homeboard",
+  "website": "https://www.yourhomeboard.com/",
+  "description": "Provides rent free options for rental payments for buying furniture",
+  "founded_year": 2022,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/674d4eeaa092ba214504497c_portfolio%252Fcompany%252F7d75d958-cc73-4921-b394-678170b4bfaf%252F1733119261884-logo.avif",
+  "url": "https://www.antler.co/portfolio/homeboard",
+  "api": "https://antler-api.github.io/companies/homeboard.json"
+}

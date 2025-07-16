@@ -1,0 +1,13 @@
+{
+  "id": "antler-fleevo",
+  "name": "Fleevo",
+  "slug": "fleevo",
+  "website": "https://fleevo.io/",
+  "description": "The AI-driven Operating System for Modern Commercial Fleets. Driving Efficiency, Uptime, and Sustainability.",
+  "founded_year": 2023,
+  "location": "Unknown",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67ccc3b175eb6fdf51b9b4fc_portfolio%252Fcompany%252F38c68563-c67d-4d5f-af4d-6585293de292%252F1725421586195-logo.avif",
+  "url": "https://www.antler.co/portfolio/fleevo",
+  "api": "https://antler-api.github.io/companies/fleevo.json"
+}

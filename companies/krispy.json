@@ -1,0 +1,13 @@
+{
+  "id": "antler-krispy",
+  "name": "Krispy",
+  "slug": "krispy",
+  "website": "https://www.krispy.ai/",
+  "description": "Engage your customers on Whatsapp with AI",
+  "founded_year": 2023,
+  "location": "France",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/682e29a1e3b22105c6c75fca_portfolio%252Fcompany%252Fc5c821ae-ccd1-47c2-bdc3-c54c9e330c2d%252F1725844352129-logo.avif",
+  "url": "https://www.antler.co/portfolio/krispy",
+  "api": "https://antler-api.github.io/companies/krispy.json"
+}

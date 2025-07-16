@@ -1,0 +1,13 @@
+{
+  "id": "antler-avertro",
+  "name": "Avertro",
+  "slug": "avertro",
+  "website": "https://www.avertro.com/",
+  "description": "Simulate Attack Paths, Automate Compliance, and Quantify Risk. Deploy CyberHQ® to supercharge your threat defense strategy.",
+  "founded_year": 2019,
+  "location": "Australia",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67ddfa976883c1c477f91603_portfolio%252Fcompany%252F8a160d26-f103-4b6d-b4b7-99c896587aca%252F1742600848694-avertro.avif",
+  "url": "https://www.antler.co/portfolio/avertro",
+  "api": "https://antler-api.github.io/companies/avertro.json"
+}

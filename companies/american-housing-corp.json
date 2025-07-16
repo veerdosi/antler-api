@@ -1,0 +1,13 @@
+{
+  "id": "antler-american-housing-corp",
+  "name": "American Housing Corp",
+  "slug": "american-housing-corp",
+  "website": "https://americanhousing.co/",
+  "description": "Modular building system to address the housing crisis. Building Communities. Enriching Lives.",
+  "founded_year": 2024,
+  "location": "Unknown",
+  "sector": "Industrials",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67ad6fa81e69d47cf99a5f6d_portfolio%252Fcompany%252Fda0b6189-dedc-4125-948b-45f3900bf24e%252F1734459950963-AHC%2520Logo%2520Full%2520Size%2520(black).avif",
+  "url": "https://www.antler.co/portfolio/american-housing-corp",
+  "api": "https://antler-api.github.io/companies/american-housing-corp.json"
+}

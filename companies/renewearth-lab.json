@@ -1,0 +1,13 @@
+{
+  "id": "antler-renewearth-lab",
+  "name": "RenewEarth Lab",
+  "slug": "renewearth-lab",
+  "website": "https://www.renewearth-lab.com",
+  "description": "Scope 3 carbon emission calculation, analysis, report automation solution",
+  "founded_year": 2023,
+  "location": "Korea",
+  "sector": "Energy and ClimateTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/680086b3df0050971a8feab2_teams%252F4de72992-a598-4de9-9240-d0618d4357c8%252Flogos%252F%25E1%2584%2585%25E1%2585%25A9%25E1%2584%2580%25E1%2585%25A9.avif",
+  "url": "https://www.antler.co/portfolio/renewearth-lab",
+  "api": "https://antler-api.github.io/companies/renewearth-lab.json"
+}

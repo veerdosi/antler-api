@@ -1,0 +1,13 @@
+{
+  "id": "antler-mabe-bio",
+  "name": "Mabe Bio",
+  "slug": "mabe-bio",
+  "website": "https://www.mabebio.com/",
+  "description": "Biotech solutions that combines technology and nature to create new materials from plants by investigating the potential of Brazilian biodiversity.",
+  "founded_year": 2023,
+  "location": "Brazil",
+  "sector": "Health and BioTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/680aa50ed94276525b24dcd3_portfolio%252Fcompany%252F4e6c23dc-6a72-4180-8583-e75dbdb69fa6%252F1725423808875-logo.avif",
+  "url": "https://www.antler.co/portfolio/mabe-bio",
+  "api": "https://antler-api.github.io/companies/mabe-bio.json"
+}

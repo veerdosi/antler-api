@@ -1,0 +1,13 @@
+{
+  "id": "antler-storefox-ai",
+  "name": "Storefox.ai",
+  "slug": "storefox-ai",
+  "website": "https://www.storefox.ai/",
+  "description": "Storefox.ai is pioneering Offline Retail Observability with AI, enabling brands and QSRs to remotely monitor customer experience, SOP adherence, and revenue blockers at scale—using in-store audio between customers and staff.",
+  "founded_year": 2025,
+  "location": "India",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/685ab90833f92cbbcdca108d_portfolio%252Fcompany%252F3320ebf9-1dc8-426a-a035-787f66a67b57%252F1750776055389-storefox_ai_logo.jpeg",
+  "url": "https://www.antler.co/portfolio/storefox-ai",
+  "api": "https://antler-api.github.io/companies/storefox-ai.json"
+}

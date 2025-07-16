@@ -1,0 +1,13 @@
+{
+  "id": "antler-inamo",
+  "name": "Inamo",
+  "slug": "inamo",
+  "website": "https://www.inamo.in/",
+  "description": "India’s First Full Stack Quick Commerce Enablement company, helping platforms with Dark Store operations & LM delivery.",
+  "founded_year": 2025,
+  "location": "India",
+  "sector": "Industrials",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/6859ab4d270a6654ee20294a_portfolio%252Fcompany%252Fb4e3ccd4-3a8c-4754-b2d9-f2451d2cc7f8%252F1750706915493-1738220893105.jpeg",
+  "url": "https://www.antler.co/portfolio/inamo",
+  "api": "https://antler-api.github.io/companies/inamo.json"
+}

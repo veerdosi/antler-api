@@ -1,0 +1,13 @@
+{
+  "id": "antler-synvect",
+  "name": "Synvect",
+  "slug": "synvect",
+  "website": "https://www.synvect.com/",
+  "description": "Bioengineered mosquito control designed to combat the growing mosquito burden.",
+  "founded_year": 2024,
+  "location": "Unknown",
+  "sector": "Health and BioTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/681563539b2303fd1b3796b9_teams%252Fd88d35cf-fa9f-4152-b503-81caf6dd76f4%252Flogos%252FScreenshot%25202024-05-19%2520at%25202.10.19%2520PM.avif",
+  "url": "https://www.antler.co/portfolio/synvect",
+  "api": "https://antler-api.github.io/companies/synvect.json"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "antler-recyclesmart",
+  "name": "RecycleSmart",
+  "slug": "recyclesmart",
+  "website": "https://www.recyclesmart.com",
+  "description": "RecycleSmart makes recycling as easy as calling an Uber.",
+  "founded_year": 2019,
+  "location": "Australia",
+  "sector": "Energy and ClimateTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67fca0f44696a140e5070396_portfolio%252Fcompany%252F01bbe8fb-d43b-4333-b1df-b8850c61a1ab%252F1744609515456-logo_1024_transparent.avif",
+  "url": "https://www.antler.co/portfolio/recyclesmart",
+  "api": "https://antler-api.github.io/companies/recyclesmart.json"
+}

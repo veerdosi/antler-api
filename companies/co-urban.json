@@ -1,0 +1,13 @@
+{
+  "id": "antler-co-urban",
+  "name": "Co.Urban",
+  "slug": "co-urban",
+  "website": "https://www.courban.com.br/",
+  "description": "Revolutionizing the urban services sector by enabling data-driven field operations.",
+  "founded_year": 2023,
+  "location": "Brazil",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/68095904a4dd4c02d13a0265_portfolio%252Fcompany%252F51057903-9ac2-42b0-9fde-aa3c0cb04437%252F1730823000435-logo_co-urban.avif",
+  "url": "https://www.antler.co/portfolio/co-urban",
+  "api": "https://antler-api.github.io/companies/co-urban.json"
+}

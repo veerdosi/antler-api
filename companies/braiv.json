@@ -1,0 +1,13 @@
+{
+  "id": "antler-braiv",
+  "name": "Braiv",
+  "slug": "braiv",
+  "website": "https://www.braiv.co",
+  "description": "Making it easy for organisations to deliver multi-language, accessible video…to global audiences.",
+  "founded_year": 2023,
+  "location": "Australia",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/6706020f661a70ead349591a_portfolio%252Fcompany%252F960b7087-fc39-4059-ac82-9fad5d42c26f%252F1728446985064-Main%2520Logo%2520-%2520black.avif",
+  "url": "https://www.antler.co/portfolio/braiv",
+  "api": "https://antler-api.github.io/companies/braiv.json"
+}

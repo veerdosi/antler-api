@@ -1,0 +1,13 @@
+{
+  "id": "antler-staffinc",
+  "name": "Staffinc",
+  "slug": "staffinc",
+  "website": "https://staffinc.co/en/business",
+  "description": "All-inclusive workforce solution",
+  "founded_year": 2018,
+  "location": "Indonesia",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66b448e4beae84eab5ad1de8_Xtf2OJPkizfHKvwqT8h_a8anEFGpP9ggVusI5KD_Z6o.avif",
+  "url": "https://www.antler.co/portfolio/staffinc",
+  "api": "https://antler-api.github.io/companies/staffinc.json"
+}

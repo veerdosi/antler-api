@@ -1,0 +1,13 @@
+{
+  "id": "antler-thirdroc",
+  "name": "ThirdRoc",
+  "slug": "thirdroc",
+  "website": "https://thirdroc.ai/",
+  "description": "Thirdroc.ai, a technology company that specializes in providing credit risk analysis through buy-now-pay-later (BNPL), API & Digital lending offerings.",
+  "founded_year": 2023,
+  "location": "Australia",
+  "sector": "FinTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67ef5755e5e9234eb9b5e6e4_portfolio%252Fcompany%252F5b50e8fd-5e9b-4630-b699-689334915489%252F1743738694025-logo-thirdroc.avif",
+  "url": "https://www.antler.co/portfolio/thirdroc",
+  "api": "https://antler-api.github.io/companies/thirdroc.json"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "antler-zybra-finance",
+  "name": "Zybra Finance",
+  "slug": "zybra-finance",
+  "website": "https://zybra.finance/",
+  "description": "Aggregator for real world assets (RWA) platforms that connects investors willing to lend with private credit institutions, creating liquid derivatives and bringing DeFi liquidity to RWA credit markets.",
+  "founded_year": 2024,
+  "location": "United Arab Emirates",
+  "sector": "FinTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67dfd8b9bbf51f22fa6f9cb2_portfolio%252Fcompany%252Fd6451146-4c7d-4cd7-8539-5155ce7ece81%252F1725423966642-logo.avif",
+  "url": "https://www.antler.co/portfolio/zybra-finance",
+  "api": "https://antler-api.github.io/companies/zybra-finance.json"
+}

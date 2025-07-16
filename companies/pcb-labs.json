@@ -1,0 +1,13 @@
+{
+  "id": "antler-pcb-labs",
+  "name": "PCB Labs",
+  "slug": "pcb-labs",
+  "website": "https://pcblabs.com",
+  "description": "PCB Labs brings full cycle microelectronics manufacturing to the engineer's table top",
+  "founded_year": 2024,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66b44953633dfdee05405e72_bvgollewRQlP38tLz7VfZo_lFKmMxtol8h0YIVI5jQc.avif",
+  "url": "https://www.antler.co/portfolio/pcb-labs",
+  "api": "https://antler-api.github.io/companies/pcb-labs.json"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "antler-qmill",
+  "name": "QMill",
+  "slug": "qmill",
+  "website": "https://qmill.com/en",
+  "description": "The first to unlock quantum advantage.",
+  "founded_year": 2024,
+  "location": "Finland",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67b5e23050b3b5758f98aebb_portfolio%252Fcompany%252Fd63ea049-0103-4ebf-a8b9-97840ce6ccca%252F1739973156019-QMill_Logo_Black.avif",
+  "url": "https://www.antler.co/portfolio/qmill",
+  "api": "https://antler-api.github.io/companies/qmill.json"
+}

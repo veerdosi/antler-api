@@ -1,0 +1,13 @@
+{
+  "id": "antler-cattle-guru",
+  "name": "Cattle Guru",
+  "slug": "cattle-guru",
+  "website": "https://www.cattleguru.in/",
+  "description": "Building an e-commerce platform for dairy farmers to order cattle feed for cows and buffaloes.",
+  "founded_year": 2022,
+  "location": "India",
+  "sector": "ConsumerTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/683313720bb1c8837ba03ea2_portfolio%252Fcompany%252F3f5718cb-06e4-4f0a-bb81-5749bd1cc467%252F1744370412064-Cattleguru.avif",
+  "url": "https://www.antler.co/portfolio/cattle-guru",
+  "api": "https://antler-api.github.io/companies/cattle-guru.json"
+}

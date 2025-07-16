@@ -1,0 +1,13 @@
+{
+  "id": "antler-lister",
+  "name": "Lister",
+  "slug": "lister",
+  "website": "https://www.lister.co.id/",
+  "description": "Personalized multi-language learning platform",
+  "founded_year": 2022,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66b45429da8c02bdf2032ca2_gH95y7I6uKs0g4N8wnyXdQcKCB8olg5jK6Xi-BVPBck.avif",
+  "url": "https://www.antler.co/portfolio/lister",
+  "api": "https://antler-api.github.io/companies/lister.json"
+}

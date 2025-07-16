@@ -1,0 +1,13 @@
+{
+  "id": "antler-versant",
+  "name": "Versant",
+  "slug": "versant",
+  "website": "https://versant.earth/",
+  "description": "Restore biodiversity to protect our planet, by combining cutting-edge science and tech with remote sensing and on-ground data to help companies identify and invest in nature-positive projects.",
+  "founded_year": 2023,
+  "location": "France",
+  "sector": "Energy and ClimateTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/682e2a913f8e50f873ace38b_portfolio%252Fcompany%252Fd9d3d029-72ad-40ec-a1ad-f8d1db34af8d%252F1725844346041-logo.avif",
+  "url": "https://www.antler.co/portfolio/versant",
+  "api": "https://antler-api.github.io/companies/versant.json"
+}

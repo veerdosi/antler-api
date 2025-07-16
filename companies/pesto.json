@@ -1,0 +1,13 @@
+{
+  "id": "antler-pesto",
+  "name": "Pesto",
+  "slug": "pesto",
+  "website": "https://heypesto.ai/",
+  "description": "Powering sustainable growth and resilient supply chains for food and drink manufacturers",
+  "founded_year": 2024,
+  "location": "Unknown",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67d16ca24ff3283be8a9a9bc_portfolio%252Fcompany%252F425365e6-9b47-4cc7-b6bb-82de31571cfb%252F1741778064014-Pesto%2520jar%2520no%2520background.avif",
+  "url": "https://www.antler.co/portfolio/pesto",
+  "api": "https://antler-api.github.io/companies/pesto.json"
+}

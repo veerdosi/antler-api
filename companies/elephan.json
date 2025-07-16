@@ -1,0 +1,13 @@
+{
+  "id": "antler-elephan",
+  "name": "Elephan",
+  "slug": "elephan",
+  "website": "https://elephan.ai",
+  "description": "Elephan.ai is a revenue intelligence solution designed to eliminate operational work, increase sales conversion and predict revenue results by matching qualitative and quantitative data.",
+  "founded_year": 2024,
+  "location": "Brazil",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/68095e38bcaa34691153b7b7_portfolio%252Fcompany%252Fde304fc3-9fd0-4eaf-8f65-2480da76897b%252F1725423794834-logo.avif",
+  "url": "https://www.antler.co/portfolio/elephan",
+  "api": "https://antler-api.github.io/companies/elephan.json"
+}

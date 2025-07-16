@@ -1,0 +1,13 @@
+{
+  "id": "antler-memoires",
+  "name": "Memoires",
+  "slug": "memoires",
+  "website": "https://www.lesmemoires.fr/",
+  "description": "Memoires is a portfolio company of Antler.",
+  "founded_year": 2024,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67657fcba89aae4e7ac3acec_teams%252F349e392f-ddda-4893-9699-5fc11f365570%252Flogos%252FMemoires%2520for%2520FB.avif",
+  "url": "https://www.antler.co/portfolio/memoires",
+  "api": "https://antler-api.github.io/companies/memoires.json"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "antler-creem",
+  "name": "Creem",
+  "slug": "creem",
+  "website": "https://www.creem.io",
+  "description": "The Finance, Payments and Growth OS for small and efficient teams",
+  "founded_year": 2024,
+  "location": "Sweden",
+  "sector": "FinTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/6807448cbb3ed9a7288e12e2_portfolio%252Fcompany%252Ff9f2f83c-e49b-4801-beb0-6de56ba1e95f%252F1745306750184-creem.avif",
+  "url": "https://www.antler.co/portfolio/creem",
+  "api": "https://antler-api.github.io/companies/creem.json"
+}

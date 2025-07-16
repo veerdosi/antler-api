@@ -1,0 +1,13 @@
+{
+  "id": "antler-minikai",
+  "name": "Minikai",
+  "slug": "minikai",
+  "website": "https://www.minikai.com",
+  "description": "Your AI ally in disability and aged care.",
+  "founded_year": 2025,
+  "location": "Australia",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67872f7939954368e63a53b8_portfolio%252Fcompany%252F773c5dec-f043-400c-b8a1-81f6ac3349a4%252F1736912705352-minikai-logo_dark.avif",
+  "url": "https://www.antler.co/portfolio/minikai",
+  "api": "https://antler-api.github.io/companies/minikai.json"
+}

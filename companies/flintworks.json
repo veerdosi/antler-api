@@ -1,0 +1,13 @@
+{
+  "id": "antler-flintworks",
+  "name": "Flintworks",
+  "slug": "flintworks",
+  "website": "https://flintworks.co/",
+  "description": "At Flintworks we have developed a Virtual Reality toolkit that increases the efficacy of clinician-led therapy for complex mental health disorders such as Post Traumatic Stress Disorder (PTSD).",
+  "founded_year": 2021,
+  "location": "Australia",
+  "sector": "Health and BioTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67f7c7bfab5a318b5f5eff84_portfolio%252Fcompany%252Fc73bc07c-0127-448a-9724-d21aa380e7d9%252F1744291751156-Twitter_profile.avif",
+  "url": "https://www.antler.co/portfolio/flintworks",
+  "api": "https://antler-api.github.io/companies/flintworks.json"
+}

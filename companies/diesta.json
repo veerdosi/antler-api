@@ -1,0 +1,13 @@
+{
+  "id": "antler-diesta",
+  "name": "Diesta",
+  "slug": "diesta",
+  "website": "https://diesta.co.uk/",
+  "description": "Diesta is a next generation reconciliation engine for the insurance industry.",
+  "founded_year": 2022,
+  "location": "Unknown",
+  "sector": "FinTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67d86263ff8c68ed7d93f3df_portfolio%252Fcompany%252Fc883496c-3d6d-4b2f-ab22-24d5ed5fd995%252F1725421536282-logo.avif",
+  "url": "https://www.antler.co/portfolio/diesta",
+  "api": "https://antler-api.github.io/companies/diesta.json"
+}

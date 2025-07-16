@@ -1,0 +1,13 @@
+{
+  "id": "antler-leyr",
+  "name": "Leyr",
+  "slug": "leyr",
+  "website": "https://leyr.io",
+  "description": "Integrate with EHRs, EMRs and Patient Journals",
+  "founded_year": 2022,
+  "location": "Sweden",
+  "sector": "Health and BioTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66b44996c0fe98fb3f0e6eaf_2tO0wbARyhTWxQ52UWczoiu1NE1E08UwTotzdkjbHn8.avif",
+  "url": "https://www.antler.co/portfolio/leyr",
+  "api": "https://antler-api.github.io/companies/leyr.json"
+}

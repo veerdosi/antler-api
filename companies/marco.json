@@ -1,0 +1,13 @@
+{
+  "id": "antler-marco",
+  "name": "Marco",
+  "slug": "marco",
+  "website": "https://www.marcofi.com/why-macro",
+  "description": "Marco provides working capital to LatAm Small and Medium-sized exporters by factoring their trade receivables from US buyers.",
+  "founded_year": 2020,
+  "location": "Unknown",
+  "sector": "Industrials",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/683e75ecb0379b4e15b672b0_portfolio%252Fcompany%252F022565cc-7bd7-493c-ae1a-a480a7310836%252F1725606846867-logo.avif",
+  "url": "https://www.antler.co/portfolio/marco",
+  "api": "https://antler-api.github.io/companies/marco.json"
+}

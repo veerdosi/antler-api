@@ -1,0 +1,13 @@
+{
+  "id": "antler-voomride",
+  "name": "Voomride",
+  "slug": "voomride",
+  "website": "https://voomride.app/",
+  "description": "Voomride is a portfolio company of Antler.",
+  "founded_year": 2025,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/68637f79a443af77e47cbfa9_teams%252F14c18668-6a39-4c8f-8f37-c505b87a1f9e%252Flogos%252FVoomride_logo1.png",
+  "url": "https://www.antler.co/portfolio/voomride",
+  "api": "https://antler-api.github.io/companies/voomride.json"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "antler-kolek",
+  "name": "Kolek",
+  "slug": "kolek",
+  "website": "https://kolek.com.br/",
+  "description": "Kolek is a platform that orchestrate receivables - making the process of charging and receiving money from clients more efficient and effective.",
+  "founded_year": 2022,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66b44a1ca0fc46cc0aad2820_BVaBQkUBqF6rzfX8QE9HO-smsZS7Um4rXKijcHgkZfQ.avif",
+  "url": "https://www.antler.co/portfolio/kolek",
+  "api": "https://antler-api.github.io/companies/kolek.json"
+}

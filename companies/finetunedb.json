@@ -1,0 +1,13 @@
+{
+  "id": "antler-finetunedb",
+  "name": "FinetuneDB",
+  "slug": "finetunedb",
+  "website": "https://finetunedb.com",
+  "description": "Fine-tuning platform to improve any LLM for your use-case",
+  "founded_year": 2024,
+  "location": "Sweden",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66b45275749041dbb95251a7_Ft4IbNZBuOCSuCITBOV5Nh9kyiBN34G6NZzQcWR1PFQ.avif",
+  "url": "https://www.antler.co/portfolio/finetunedb",
+  "api": "https://antler-api.github.io/companies/finetunedb.json"
+}

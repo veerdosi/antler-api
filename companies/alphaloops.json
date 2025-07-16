@@ -1,0 +1,13 @@
+{
+  "id": "antler-alphaloops",
+  "name": "Alphaloops",
+  "slug": "alphaloops",
+  "website": "https://www.alphaloops.ai/",
+  "description": "Automating investment management operations using AI",
+  "founded_year": 2023,
+  "location": "Unknown",
+  "sector": "FinTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66b453a76cdf8a1f2dd0a6ea_pdMB16NtmcFhmzZz5Z7cqtbqgJOaWAg_vd85iivU9Ks.avif",
+  "url": "https://www.antler.co/portfolio/alphaloops",
+  "api": "https://antler-api.github.io/companies/alphaloops.json"
+}

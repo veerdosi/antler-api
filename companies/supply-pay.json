@@ -1,0 +1,13 @@
+{
+  "id": "antler-supply-pay",
+  "name": "Supply Pay",
+  "slug": "supply-pay",
+  "website": "https://www.supplypay.io/",
+  "description": "Streamlining the global supply chain.",
+  "founded_year": 2025,
+  "location": "Unknown",
+  "sector": "FinTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67b5799b1e464984422a8df8_teams%252F7bb1043a-2014-4ebd-ac78-cf71c88cbf77%252Flogos%252Fbrandmark-design%2520(5).avif",
+  "url": "https://www.antler.co/portfolio/supply-pay",
+  "api": "https://antler-api.github.io/companies/supply-pay.json"
+}

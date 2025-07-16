@@ -1,0 +1,13 @@
+{
+  "id": "antler-showcase-books",
+  "name": "Showcase Books",
+  "slug": "showcase-books",
+  "website": "https://www.showcase-books.com/",
+  "description": "AI-powered algorithms and modern software to power the future of $145B book commerce",
+  "founded_year": 2023,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66e838fbbef9b8c88042d71c_portfolio%252Fcompany%252F47d411e1-2064-4e0c-b6fd-bc425b63378b%252F1725844283881-logo.avif",
+  "url": "https://www.antler.co/portfolio/showcase-books",
+  "api": "https://antler-api.github.io/companies/showcase-books.json"
+}

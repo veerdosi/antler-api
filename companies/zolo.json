@@ -1,0 +1,13 @@
+{
+  "id": "antler-zolo",
+  "name": "ZOLO",
+  "slug": "zolo",
+  "website": "https://www.zolomart.co/",
+  "description": "AI-powered B2B software helping food suppliers to boost sales and streamline order management",
+  "founded_year": 2023,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66b44c9257983b9773ad8876_qOPjFdsn8K31_1c2fPtbqjOg59vpUxfTVCuTiOu4o6w.avif",
+  "url": "https://www.antler.co/portfolio/zolo",
+  "api": "https://antler-api.github.io/companies/zolo.json"
+}

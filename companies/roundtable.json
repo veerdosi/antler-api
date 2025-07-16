@@ -1,0 +1,13 @@
+{
+  "id": "antler-roundtable",
+  "name": "RoundTable",
+  "slug": "roundtable",
+  "website": "https://www.itsroundtable.com/",
+  "description": "Helping creators monetise superfans with live interactive video experiences",
+  "founded_year": 2024,
+  "location": "Australia",
+  "sector": "ConsumerTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/680acbec6bdcf4aff9ae96e1_portfolio%252Fcompany%252Ff2721fc0-21d7-4180-80d3-b5b33be88c4a%252F1736211062364-RoundTable%2520Icon%2520Black.avif",
+  "url": "https://www.antler.co/portfolio/roundtable",
+  "api": "https://antler-api.github.io/companies/roundtable.json"
+}

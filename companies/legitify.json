@@ -1,0 +1,13 @@
+{
+  "id": "antler-legitify",
+  "name": "Legitify",
+  "slug": "legitify",
+  "website": "https://www.legitify.eu",
+  "description": "Reimagining notarisation for a digital world. Notarise online from anywhere.",
+  "founded_year": 2021,
+  "location": "Sweden",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/68078bd04fb604306acdff1b_portfolio%252Fcompany%252Fbde30821-cc9a-46a5-90b6-2c35f1aab1bb%252F1745324973140-Filled.svg",
+  "url": "https://www.antler.co/portfolio/legitify",
+  "api": "https://antler-api.github.io/companies/legitify.json"
+}

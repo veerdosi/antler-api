@@ -1,0 +1,13 @@
+{
+  "id": "antler-steep",
+  "name": "Steep",
+  "slug": "steep",
+  "website": "https://steep.app",
+  "description": "Modern analytics platform",
+  "founded_year": 2022,
+  "location": "Sweden",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66b44c4185f43daadb59d9f9__ALTiUSgyAQQB7dyoOqo65aezYlgy87TV7911WaIBUQ.avif",
+  "url": "https://www.antler.co/portfolio/steep",
+  "api": "https://antler-api.github.io/companies/steep.json"
+}

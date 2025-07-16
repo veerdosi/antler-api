@@ -1,0 +1,13 @@
+{
+  "id": "antler-distillery",
+  "name": "Distillery",
+  "slug": "distillery",
+  "website": "https://getdistillery.com",
+  "description": "Unlock new revenue instantly without spending $100-500K/year on data infrastructure and hires.",
+  "founded_year": 2024,
+  "location": "Unknown",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66e10f23fd146d86a9b18c77_portfolio%252Fcompany%252Fe8846177-9021-4efe-9f2a-7b26d1c59f58%252F1726025478265-Distillery-logo-no-padding-1000x220.svg",
+  "url": "https://www.antler.co/portfolio/distillery",
+  "api": "https://antler-api.github.io/companies/distillery.json"
+}

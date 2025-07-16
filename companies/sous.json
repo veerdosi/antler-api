@@ -1,0 +1,13 @@
+{
+  "id": "antler-sous",
+  "name": "SOUS",
+  "slug": "sous",
+  "website": "https://creators.eatsous.com",
+  "description": "Empowering f&b creators.",
+  "founded_year": 2022,
+  "location": "Netherlands",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/6835a680ad1ebb708522b2a4_portfolio%252Fcompany%252F081a5420-1361-4f13-b46a-1aa552c91762%252F1744047548415-sous-icon-blue.avif",
+  "url": "https://www.antler.co/portfolio/sous",
+  "api": "https://antler-api.github.io/companies/sous.json"
+}

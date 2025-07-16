@@ -1,0 +1,13 @@
+{
+  "id": "antler-rifd",
+  "name": "RiFD",
+  "slug": "rifd",
+  "website": "https://www.rifdfinance.com/",
+  "description": "Transforming supply chain receivables into accessible capital through data-driven securitization.",
+  "founded_year": 2025,
+  "location": "Saudi Arabia",
+  "sector": "FinTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/685cfd46395ad6d283a116ad_portfolio%252Fcompany%252F7ff65483-aa95-44f7-9e3f-e431583e8186%252F1750924604161-Color_RIFD.png",
+  "url": "https://www.antler.co/portfolio/rifd",
+  "api": "https://antler-api.github.io/companies/rifd.json"
+}

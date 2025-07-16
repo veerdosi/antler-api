@@ -1,0 +1,13 @@
+{
+  "id": "antler-bold-finance",
+  "name": "Bold Finance",
+  "slug": "bold-finance",
+  "website": "https://www.boldfinance.in/",
+  "description": "Building a last mile distribution platform for Gold loans using jeweller partners",
+  "founded_year": 2022,
+  "location": "India",
+  "sector": "FinTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/6857e48860e74e48ed60183e_portfolio%252Fcompany%252F7fa65895-c191-4b22-a963-a9aef34124b9%252F1750590580741-boldfinance_logo.jpeg",
+  "url": "https://www.antler.co/portfolio/bold-finance",
+  "api": "https://antler-api.github.io/companies/bold-finance.json"
+}

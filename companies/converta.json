@@ -1,0 +1,13 @@
+{
+  "id": "antler-converta",
+  "name": "Converta",
+  "slug": "converta",
+  "website": "https://converta.ai",
+  "description": "AI Agents that automate the sales back ofifice",
+  "founded_year": 0,
+  "location": "Germany",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67f507fb0d5be431714f3b9a_portfolio%252Fcompany%252F04e7c357-9118-470f-9db1-1889010564d9%252F1744111386040-Asset%25203.svg",
+  "url": "https://www.antler.co/portfolio/converta",
+  "api": "https://antler-api.github.io/companies/converta.json"
+}

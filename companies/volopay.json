@@ -1,0 +1,13 @@
+{
+  "id": "antler-volopay",
+  "name": "Volopay",
+  "slug": "volopay",
+  "website": "https://www.volopay.com/",
+  "description": "Volopay simplifies business spending for SMBs in South East Asia.",
+  "founded_year": 2023,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67d7eed6851a6c8b5e724ac2_portfolio%252Fcompany%252Fc90a33c3-f8d9-4dd7-bb47-54a64ef51ac7%252F1742204611352-4bpc0f5g2pbko8a46kk316vrvo7e.avif",
+  "url": "https://www.antler.co/portfolio/volopay",
+  "api": "https://antler-api.github.io/companies/volopay.json"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "antler-obud",
+  "name": "obud",
+  "slug": "obud",
+  "website": "https://obud.co",
+  "description": "Membership-Based Fitness & Wellness Platform",
+  "founded_year": 2025,
+  "location": "Korea",
+  "sector": "ConsumerTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67dab6cba31e7fbef132c151_teams%252F3ffab358-4c18-41e8-bf2b-0ac81402c22a%252Flogos%252F1.avif",
+  "url": "https://www.antler.co/portfolio/obud",
+  "api": "https://antler-api.github.io/companies/obud.json"
+}

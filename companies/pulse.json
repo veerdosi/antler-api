@@ -1,0 +1,13 @@
+{
+  "id": "antler-pulse",
+  "name": "Pulse",
+  "slug": "pulse",
+  "website": "https://www.getpulse.ai/",
+  "description": "Pulse is a real-time dashboard that prioritizes the notifications from all of your tools and offers automated workflows to resolve them.",
+  "founded_year": 2023,
+  "location": "Canada",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67dde2d55073bb0647d490f7_portfolio%252Fcompany%252Fde638f57-52c7-4608-8fc1-b8e2e32c82de%252F1725422757402-logo.avif",
+  "url": "https://www.antler.co/portfolio/pulse",
+  "api": "https://antler-api.github.io/companies/pulse.json"
+}

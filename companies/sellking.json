@@ -1,0 +1,13 @@
+{
+  "id": "antler-sellking",
+  "name": "Sellking",
+  "slug": "sellking",
+  "website": "https://sellking.kr",
+  "description": "AI powered real estate price and sales process optimization solution",
+  "founded_year": 2023,
+  "location": "Korea",
+  "sector": "Real Estate and PropTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/680086fea1ae64754c760587_portfolio%252Fcompany%252Fa88503d4-4326-43e3-8d76-a2cfacb02734%252F1736489316686-%25E1%2584%2586%25E1%2585%25A2%25E1%2584%2583%25E1%2585%25A9%25E1%2584%258B%25E1%2585%25AA%25E1%2586%25BC%2520%25E1%2584%2592%25E1%2585%25B4%25E1%2586%25AB%25E1%2584%2589%25E1%2585%25A2%25E1%2586%25A8%25E1%2584%2587%25E1%2585%25A5%25E1%2584%258C%25E1%2585%25A5%25E1%2586%25AB.avif",
+  "url": "https://www.antler.co/portfolio/sellking",
+  "api": "https://antler-api.github.io/companies/sellking.json"
+}

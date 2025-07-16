@@ -1,0 +1,13 @@
+{
+  "id": "antler-frontcover",
+  "name": "Frontcover",
+  "slug": "frontcover",
+  "website": "https://frontcover.io",
+  "description": "A platform designed for community managers to grow vibrant communities",
+  "founded_year": 2024,
+  "location": "Australia",
+  "sector": "ConsumerTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67a2c613962ed37eb79dff01_portfolio%252Fcompany%252F563f7372-69db-4618-9be9-86d6787156c7%252F1726204911823-standard_black_large.avif",
+  "url": "https://www.antler.co/portfolio/frontcover",
+  "api": "https://antler-api.github.io/companies/frontcover.json"
+}

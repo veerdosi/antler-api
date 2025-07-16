@@ -1,0 +1,50 @@
+{
+  "totalCompanies": 1095,
+  "sectorDistribution": {
+    "Unknown": 369,
+    "Energy and ClimateTech": 45,
+    "ConsumerTech": 112,
+    "B2B Software": 339,
+    "FinTech": 86,
+    "Health and BioTech": 73,
+    "Real Estate and PropTech": 26,
+    "Industrials": 45
+  },
+  "locationDistribution": {
+    "Unknown": 549,
+    "Denmark": 8,
+    "Germany": 39,
+    "Canada": 31,
+    "Japan": 14,
+    "Singapore": 9,
+    "Malaysia": 16,
+    "Australia": 81,
+    "India": 90,
+    "United Arab Emirates": 16,
+    "Indonesia": 43,
+    "Brazil": 23,
+    "Kenya": 13,
+    "Norway": 14,
+    "Korea": 44,
+    "Sweden": 36,
+    "France": 12,
+    "Saudi Arabia": 14,
+    "Netherlands": 23,
+    "Vietnam": 8,
+    "Finland": 10,
+    "Spain": 1,
+    "Portugal": 1
+  },
+  "yearDistribution": {
+    "0": 33,
+    "2018": 5,
+    "2019": 30,
+    "2020": 59,
+    "2021": 89,
+    "2022": 182,
+    "2023": 266,
+    "2024": 332,
+    "2025": 99
+  },
+  "lastUpdated": "2025-07-16T05:49:30.629Z"
+}

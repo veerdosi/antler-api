@@ -1,0 +1,13 @@
+{
+  "id": "antler-visoid",
+  "name": "Visoid",
+  "slug": "visoid",
+  "website": "https://visoid.com",
+  "description": "AI-powered rendering application for architects.",
+  "founded_year": 2023,
+  "location": "Norway",
+  "sector": "Real Estate and PropTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67bc6c56f8dd2ee3e69ad6dd_portfolio%252Fcompany%252Fe7f758a0-1592-46d6-ba4b-47c10c44f5f3%252F1740401736940-visoid_logo.avif",
+  "url": "https://www.antler.co/portfolio/visoid",
+  "api": "https://antler-api.github.io/companies/visoid.json"
+}

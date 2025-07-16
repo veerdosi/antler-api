@@ -1,0 +1,13 @@
+{
+  "id": "antler-hire",
+  "name": "Hire",
+  "slug": "hire",
+  "website": "https://www.tryhire.co/",
+  "description": "Custom AI recruiters that find top talent 10x faster - built for precision hiring at scale.",
+  "founded_year": 2025,
+  "location": "United Arab Emirates",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/685cfd04d260af555f435d4f_portfolio%252Fcompany%252F7dbead0c-c64c-4444-b5d0-72a663cd77c2%252F1750924536862-Color_Hire.png",
+  "url": "https://www.antler.co/portfolio/hire",
+  "api": "https://antler-api.github.io/companies/hire.json"
+}

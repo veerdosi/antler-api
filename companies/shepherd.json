@@ -1,0 +1,13 @@
+{
+  "id": "antler-shepherd",
+  "name": "Shepherd",
+  "slug": "shepherd",
+  "website": "https://meetshepherd.com",
+  "description": "Make every meeting count",
+  "founded_year": 2021,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66b44b95c051edb99337769b_iH_gyDqQrCxoYxWv3ouL1YB3iWUu_PLDAgDjT2Uyv3I.avif",
+  "url": "https://www.antler.co/portfolio/shepherd",
+  "api": "https://antler-api.github.io/companies/shepherd.json"
+}

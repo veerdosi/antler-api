@@ -1,0 +1,13 @@
+{
+  "id": "antler-balthazar",
+  "name": "Balthazar",
+  "slug": "balthazar",
+  "website": "https://www.balthazar.app/",
+  "description": "The operating system for deep tech labs",
+  "founded_year": 2024,
+  "location": "Netherlands",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/6830ba82c980905d2877afcf_portfolio%252Fcompany%252F8825490a-0307-4499-9ea0-07fa95156816%252F1725422996681-logo.avif",
+  "url": "https://www.antler.co/portfolio/balthazar",
+  "api": "https://antler-api.github.io/companies/balthazar.json"
+}

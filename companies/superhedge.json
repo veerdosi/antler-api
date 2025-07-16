@@ -1,0 +1,13 @@
+{
+  "id": "antler-superhedge",
+  "name": "Superhedge",
+  "slug": "superhedge",
+  "website": "https://www.superhedge.com/",
+  "description": "Superhedge is a DeFi platform offering structured products that protect principal, generate income, and provide exposure to market upside.",
+  "founded_year": 2022,
+  "location": "Vietnam",
+  "sector": "FinTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67fdca22dde41e1e12bbd903_portfolio%252Fcompany%252F90f1492f-e913-4493-8733-59127d5d85ad%252F1744685595095-Superhedge%2520Logo.avif",
+  "url": "https://www.antler.co/portfolio/superhedge",
+  "api": "https://antler-api.github.io/companies/superhedge.json"
+}

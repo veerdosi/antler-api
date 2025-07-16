@@ -1,0 +1,13 @@
+{
+  "id": "antler-library",
+  "name": "Library",
+  "slug": "library",
+  "website": "https://library.relume.io/components?elements=video-lightbox&layout=text-align-left%7Ctext-align-center#",
+  "description": "Library is a portfolio company of Antler.",
+  "founded_year": 0,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "",
+  "url": "https://www.antler.co/portfolio/library",
+  "api": "https://antler-api.github.io/companies/library.json"
+}

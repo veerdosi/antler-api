@@ -1,0 +1,13 @@
+{
+  "id": "antler-werkit",
+  "name": "Werkit",
+  "slug": "werkit",
+  "website": "https://www.werkitdata.com",
+  "description": "Werkit connects high growth software companies to remote self-managed teams at scale so that they can focus of their key product or service.",
+  "founded_year": 2020,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/65824f58db58100a984d0e43_default-monochrome.svg",
+  "url": "https://www.antler.co/portfolio/werkit",
+  "api": "https://antler-api.github.io/companies/werkit.json"
+}

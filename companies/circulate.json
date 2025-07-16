@@ -1,0 +1,13 @@
+{
+  "id": "antler-circulate",
+  "name": "Circulate",
+  "slug": "circulate",
+  "website": "https://circulate8.com",
+  "description": "B2B marketplace for sustainable packaging",
+  "founded_year": 2021,
+  "location": "Sweden",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66b44bb1f5b27c8981bbd225_zAeoWkmgoWQ3KMTcBkOQNwAw4xhMktP5kTgLNxAlUdA.svg",
+  "url": "https://www.antler.co/portfolio/circulate",
+  "api": "https://antler-api.github.io/companies/circulate.json"
+}

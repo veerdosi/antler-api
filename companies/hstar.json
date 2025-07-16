@@ -1,0 +1,13 @@
+{
+  "id": "antler-hstar",
+  "name": "HStar",
+  "slug": "hstar",
+  "website": "https://www.hstarspace.com",
+  "description": "HStar building rapidly and fully reusable heavy rockets and spaceship to provide launch services around the world.",
+  "founded_year": 2022,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66d6df071f99b65eb4ab1f49_EpSOBk3mjtL9j-2SkCHHFrhxJsQLUearBOT8gojU0SE.avif",
+  "url": "https://www.antler.co/portfolio/hstar",
+  "api": "https://antler-api.github.io/companies/hstar.json"
+}

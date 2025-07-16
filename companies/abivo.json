@@ -1,0 +1,13 @@
+{
+  "id": "antler-abivo",
+  "name": "ABIVO",
+  "slug": "abivo",
+  "website": "https://abivo.ai",
+  "description": "AI collections staff that can call, text, and email clients ensuring timely follow-ups and reducing overdue invoices.",
+  "founded_year": 2025,
+  "location": "Canada",
+  "sector": "FinTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67d488030e5969539cc8d7e7_teams%252Ffa055bc8-326a-4c7b-b539-05b28f971490%252Flogos%252FAbby%2520Logo%2520Final.avif",
+  "url": "https://www.antler.co/portfolio/abivo",
+  "api": "https://antler-api.github.io/companies/abivo.json"
+}

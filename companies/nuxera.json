@@ -1,0 +1,13 @@
+{
+  "id": "antler-nuxera",
+  "name": "Nuxera",
+  "slug": "nuxera",
+  "website": "https://www.nuxera.ai/",
+  "description": "Nuxera is an AI-powered medical copilot that streamlines clinical documentation through ambient scribing, enabling healthcare providers to focus on patient care while optimizing workflow efficiency.",
+  "founded_year": 2024,
+  "location": "Saudi Arabia",
+  "sector": "Health and BioTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67c59c15a58646dd0d5b943b_portfolio%252Fcompany%252F98169035-9791-4950-b8df-27d01316af65%252F1741003709578-NUXERA%2520(3).avif",
+  "url": "https://www.antler.co/portfolio/nuxera",
+  "api": "https://antler-api.github.io/companies/nuxera.json"
+}

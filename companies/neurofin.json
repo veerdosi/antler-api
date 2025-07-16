@@ -1,0 +1,13 @@
+{
+  "id": "antler-neurofin",
+  "name": "Neurofin",
+  "slug": "neurofin",
+  "website": "https://neurofin.ai/",
+  "description": "Generative AI Solutions for Financial Institutions",
+  "founded_year": 2025,
+  "location": "India",
+  "sector": "FinTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/685ab13b96cb43d786c570d6_portfolio%252Fcompany%252Fa8ab1e5e-2623-4f25-bcb2-12b873b36102%252F1750773996257-neurofin_ai_technologies_logo.jpeg",
+  "url": "https://www.antler.co/portfolio/neurofin",
+  "api": "https://antler-api.github.io/companies/neurofin.json"
+}

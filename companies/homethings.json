@@ -1,0 +1,13 @@
+{
+  "id": "antler-homethings",
+  "name": "Homethings",
+  "slug": "homethings",
+  "website": "https://gethomethings.com/",
+  "description": "Homethings is changing the way we clean with waterless, refill-at-home homecare products.",
+  "founded_year": 2019,
+  "location": "Unknown",
+  "sector": "ConsumerTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67d85bac79458092857a0ad2_portfolio%252Fcompany%252F591a3032-383e-4e75-adee-f6267d57d7ce%252F1725421609068-logo.avif",
+  "url": "https://www.antler.co/portfolio/homethings",
+  "api": "https://antler-api.github.io/companies/homethings.json"
+}

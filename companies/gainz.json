@@ -1,0 +1,13 @@
+{
+  "id": "antler-gainz",
+  "name": "Gainz",
+  "slug": "gainz",
+  "website": "https://gainz.co/",
+  "description": "AI-powered crowd lending platform unlocking fast and flexible financing for MENA’s SMEs.",
+  "founded_year": 2025,
+  "location": "Saudi Arabia",
+  "sector": "FinTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/685cfc918cbd2a46403b9e26_portfolio%252Fcompany%252Fb0660176-ca2b-4f5e-a91c-d872508a1fe5%252F1750924403415-Color_Gainz%2520(1).png",
+  "url": "https://www.antler.co/portfolio/gainz",
+  "api": "https://antler-api.github.io/companies/gainz.json"
+}

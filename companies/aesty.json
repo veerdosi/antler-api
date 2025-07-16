@@ -1,0 +1,13 @@
+{
+  "id": "antler-aesty",
+  "name": "Aesty",
+  "slug": "aesty",
+  "website": "https://aesty.ai",
+  "description": "AI-powered closet companion helping users organize their wardrobes, create new outfits and shop for curated recommendations.",
+  "founded_year": 2025,
+  "location": "United Arab Emirates",
+  "sector": "ConsumerTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/685cfeab8cbd2a46403cf1ec_portfolio%252Fcompany%252F5ff7afe8-0706-480f-bcf9-c04fa782c887%252F1750924959865-Color_Aesty.png",
+  "url": "https://www.antler.co/portfolio/aesty",
+  "api": "https://antler-api.github.io/companies/aesty.json"
+}

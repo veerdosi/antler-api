@@ -1,0 +1,13 @@
+{
+  "id": "antler-bidblox",
+  "name": "Bidblox",
+  "slug": "bidblox",
+  "website": "https://www.bidblox.ai/",
+  "description": "Supercharge your pre-construction process with AI—from bidding to subcontractor management—saving time, boosting efficiency, and driving more revenue.",
+  "founded_year": 2024,
+  "location": "Canada",
+  "sector": "Real Estate and PropTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67d418fc89fcba00a6476e5d_portfolio%252Fcompany%252F75376895-600f-41ca-beaf-b4968d29961b%252F1741953243003-BidBlox-Black.avif",
+  "url": "https://www.antler.co/portfolio/bidblox",
+  "api": "https://antler-api.github.io/companies/bidblox.json"
+}

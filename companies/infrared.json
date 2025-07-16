@@ -1,0 +1,13 @@
+{
+  "id": "antler-infrared",
+  "name": "Infrared",
+  "slug": "infrared",
+  "website": "https://www.infrared.city/",
+  "description": "AI driven software for computational fluid dynamic (CFD) simulations that integrates into design systems to provide real- time performance feedback of the environmental impact on urban design.",
+  "founded_year": 0,
+  "location": "Germany",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67e2a0a469a7fe174cc52c6e_portfolio%252Fcompany%252F409ab082-49fc-4f3b-97f8-6d836a8871f9%252F1742905169050-infrared_city_logo.avif",
+  "url": "https://www.antler.co/portfolio/infrared",
+  "api": "https://antler-api.github.io/companies/infrared.json"
+}

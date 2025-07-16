@@ -1,0 +1,13 @@
+{
+  "id": "antler-playzas",
+  "name": "PlayZas",
+  "slug": "playzas",
+  "website": "https://playzas.com/",
+  "description": "PlayZas is building the home of the creator economy—where creators, brands, and fans grow through meaningful commerce.",
+  "founded_year": 2024,
+  "location": "Singapore",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/681c8b22c52ecb9a3ae909dc_portfolio%252Fcompany%252F9e4a72c2-39b7-48bb-88ed-3b5e7264c50e%252F1746700442420-PlayZas%2520Logo%2520Square%2520Transparent%2520BG.avif",
+  "url": "https://www.antler.co/portfolio/playzas",
+  "api": "https://antler-api.github.io/companies/playzas.json"
+}

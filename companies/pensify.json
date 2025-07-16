@@ -1,0 +1,13 @@
+{
+  "id": "antler-pensify",
+  "name": "Pensify",
+  "slug": "pensify",
+  "website": "https://www.pensify.com/",
+  "description": "Pensify operates a financial platform to help self-employed people easily and simply build a future pension.",
+  "founded_year": 2022,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66e849fe9d31aa6480639514_portfolio%252Fcompany%252F159cef46-92c1-4e24-b66f-e39a39a15f1e%252F1725844243532-logo.avif",
+  "url": "https://www.antler.co/portfolio/pensify",
+  "api": "https://antler-api.github.io/companies/pensify.json"
+}

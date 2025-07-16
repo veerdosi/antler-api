@@ -1,0 +1,13 @@
+{
+  "id": "antler-deliverect",
+  "name": "Deliverect",
+  "slug": "deliverect",
+  "website": "https://www.deliverect.com/en-us",
+  "description": "Food Ordering & Payments in MENAP",
+  "founded_year": 2022,
+  "location": "United Arab Emirates",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/684835310c5042f68646c7f6_portfolio%252Fcompany%252Fb3a91a64-5560-438e-b537-fb921d15b9f6%252F1749562587870-Screenshot%25202025-06-10%2520093529.avif",
+  "url": "https://www.antler.co/portfolio/deliverect",
+  "api": "https://antler-api.github.io/companies/deliverect.json"
+}

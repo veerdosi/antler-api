@@ -1,0 +1,13 @@
+{
+  "id": "antler-harper",
+  "name": "Harper",
+  "slug": "harper",
+  "website": "https://www.tatch.ai/",
+  "description": "AI-native commercial insurance brokerage with automated end-to-end workflow.",
+  "founded_year": 2024,
+  "location": "Unknown",
+  "sector": "FinTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67f85c55f791a49731cd257a_portfolio%252Fcompany%252F4f934d38-7ece-4edf-97e2-280d448e1e14%252F1744329801362-harper.avif",
+  "url": "https://www.antler.co/portfolio/harper",
+  "api": "https://antler-api.github.io/companies/harper.json"
+}

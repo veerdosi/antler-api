@@ -1,0 +1,13 @@
+{
+  "id": "antler-hydra",
+  "name": "Hydra",
+  "slug": "hydra",
+  "website": "https://www.hydraoss.io/",
+  "description": "Fixing the open source ecosystem",
+  "founded_year": 2024,
+  "location": "Germany",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/68417e6dc6e5d8b15c4ae4c0_portfolio%252Fcompany%252F3506a794-0cab-461f-8b53-9eb2df3240a3%252F1725423002616-logo.avif",
+  "url": "https://www.antler.co/portfolio/hydra",
+  "api": "https://antler-api.github.io/companies/hydra.json"
+}

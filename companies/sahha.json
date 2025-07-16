@@ -1,0 +1,13 @@
+{
+  "id": "antler-sahha",
+  "name": "Sahha",
+  "slug": "sahha",
+  "website": "https://sahha.ai",
+  "description": "Sahha is a behavioural data API specialising in providing objective mental health analysis and insights",
+  "founded_year": 2021,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67e4dd2b5c6284797d81fa72_portfolio%252Fcompany%252Fea9895f3-be7f-446c-9ff2-482ad5282366%252F1743052065765-sahhahealth_logo.avif",
+  "url": "https://www.antler.co/portfolio/sahha",
+  "api": "https://antler-api.github.io/companies/sahha.json"
+}

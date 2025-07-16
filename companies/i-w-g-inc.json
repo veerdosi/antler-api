@@ -1,0 +1,13 @@
+{
+  "id": "antler-i-w-g-inc",
+  "name": "I.W.G Inc.",
+  "slug": "i-w-g-inc",
+  "website": "https://www.iwg-inc.com/",
+  "description": "I.W.G Inc. is a healthtech company pioneering AI agents and cloud technology to revolutionize hospital information systems (HIS), optimizing medical data flow and interoperability.",
+  "founded_year": 2025,
+  "location": "Japan",
+  "sector": "Health and BioTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67d7b54b4e22e7d195402296_portfolio%252Fcompany%252F73fabf0f-114e-489c-9b0f-e13194278b1b%252F1742189886065-logo_white.avif",
+  "url": "https://www.antler.co/portfolio/i-w-g-inc",
+  "api": "https://antler-api.github.io/companies/i-w-g-inc.json"
+}

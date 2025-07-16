@@ -1,0 +1,13 @@
+{
+  "id": "antler-vega",
+  "name": "Vega",
+  "slug": "vega",
+  "website": "https://www.myvega.io/",
+  "description": "AI-powered copilot for compliance teams",
+  "founded_year": 2023,
+  "location": "Unknown",
+  "sector": "FinTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66b44c0e39e1a64d8a481046_teams%252Ff3a473be-f1e3-4598-b895-4bf52ed46fba%252Flogos%252FVega_01_icons.avif",
+  "url": "https://www.antler.co/portfolio/vega",
+  "api": "https://antler-api.github.io/companies/vega.json"
+}

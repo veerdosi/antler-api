@@ -1,0 +1,13 @@
+{
+  "id": "antler-felz-inc",
+  "name": "FELZ Inc.",
+  "slug": "felz-inc",
+  "website": "https://event.peting.me",
+  "description": "Mobile Health Check-Up Service for Cats",
+  "founded_year": 2025,
+  "location": "Korea",
+  "sector": "ConsumerTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67cf991ea6d10cb345f9f418_teams%252F56e6cc5d-17ec-4824-899f-750a9b4d33bf%252Flogos%252F240223%2520FZ_LOGO.avif",
+  "url": "https://www.antler.co/portfolio/felz-inc",
+  "api": "https://antler-api.github.io/companies/felz-inc.json"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "antler-rainmaker",
+  "name": "Rainmaker",
+  "slug": "rainmaker",
+  "website": "https://www.rainmaker.co.id/",
+  "description": "AI sales assistance so simple, you'll focus on what matters.",
+  "founded_year": 2024,
+  "location": "Indonesia",
+  "sector": "FinTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67c71ee25fb9c9fd42ef7377_portfolio%252Fcompany%252Fbbfd64f0-c8d9-42f9-b895-014d2d5f6df4%252F1741102762375-Logo%2520Rainmaker-01%2520(3).avif",
+  "url": "https://www.antler.co/portfolio/rainmaker",
+  "api": "https://antler-api.github.io/companies/rainmaker.json"
+}

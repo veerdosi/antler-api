@@ -1,0 +1,13 @@
+{
+  "id": "antler-meso",
+  "name": "Meso",
+  "slug": "meso",
+  "website": "https://www.mesoai.co",
+  "description": "AI Social Media Marketer: analyzes data, generates recommendations, and automates workflows.",
+  "founded_year": 2025,
+  "location": "Unknown",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67cf5431cd6a073adedecd41_teams%252F5da73f63-95ce-4c8b-a593-c1fb63d46881%252Flogos%252Fmesoai_inc_logo.avif",
+  "url": "https://www.antler.co/portfolio/meso",
+  "api": "https://antler-api.github.io/companies/meso.json"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "antler-tiny-dinner",
+  "name": "Tiny Dinner",
+  "slug": "tiny-dinner",
+  "website": "https://www.tiny-dinner.com",
+  "description": "An invitation-based community for dinner parties.",
+  "founded_year": 2024,
+  "location": "Unknown",
+  "sector": "ConsumerTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67006a4e3f606b1ed892557b_portfolio%252Fcompany%252Fd07e546e-d244-4776-b662-a3535aa77511%252F1728080454955-tinydinner.avif",
+  "url": "https://www.antler.co/portfolio/tiny-dinner",
+  "api": "https://antler-api.github.io/companies/tiny-dinner.json"
+}

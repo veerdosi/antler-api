@@ -1,0 +1,13 @@
+{
+  "id": "antler-balo",
+  "name": "Balo",
+  "slug": "balo",
+  "website": "https://balo.expert",
+  "description": "24/7 Enterprise Software Help Desk powered by the Top 1% of Experts globally",
+  "founded_year": 2024,
+  "location": "Australia",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66da97ad202acbb3681e0627_portfolio%252Fcompany%252F31393966-42ba-49c8-b3a3-3a1fc3c7adbe%252F1725601646318-balo_logo_dark.avif",
+  "url": "https://www.antler.co/portfolio/balo",
+  "api": "https://antler-api.github.io/companies/balo.json"
+}

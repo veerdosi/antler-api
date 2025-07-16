@@ -1,0 +1,13 @@
+{
+  "id": "antler-tavare",
+  "name": "Tavare",
+  "slug": "tavare",
+  "website": "https://tavare.com/",
+  "description": "Building the infrastructure for textile repairs and care service.",
+  "founded_year": 2023,
+  "location": "Norway",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67d1551df33af81b74dc333d_portfolio%252Fcompany%252F33c96c22-ebea-42c4-a28f-c63a6e62b6fc%252F1741772031149-Tavare%2520logo.avif",
+  "url": "https://www.antler.co/portfolio/tavare",
+  "api": "https://antler-api.github.io/companies/tavare.json"
+}

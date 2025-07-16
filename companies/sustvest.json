@@ -1,0 +1,13 @@
+{
+  "id": "antler-sustvest",
+  "name": "Sustvest",
+  "slug": "sustvest",
+  "website": "https://sustvest.com/",
+  "description": "A sustainable investment platform offering securitized debt instruments backed by renewable energy projects. Investors earn 12-14% XIRRs while helping corporates, MSMEs and government transition to clean energy with zero upfront capital and 40-50% electricity savings.",
+  "founded_year": 2025,
+  "location": "India",
+  "sector": "Energy and ClimateTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/6859831e979499c9bc2bbd48_portfolio%252Fcompany%252Fdff7c20d-f8c8-4b25-96e6-23ad547d0463%252F1750696691913-solargridx_logo.jpeg",
+  "url": "https://www.antler.co/portfolio/sustvest",
+  "api": "https://antler-api.github.io/companies/sustvest.json"
+}

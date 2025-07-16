@@ -1,0 +1,13 @@
+{
+  "id": "antler-logx",
+  "name": "LogX",
+  "slug": "logx",
+  "website": "https://www.logx.network/",
+  "description": "DEX for perpetuals.",
+  "founded_year": 2022,
+  "location": "India",
+  "sector": "FinTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67f8f880c092e66a74624911_portfolio%252Fcompany%252Fef4756fe-5102-4588-be6e-ff7039b4b9b6%252F1744369783812-Screenshot%25202025-04-11%2520at%25204.38.36%25E2%2580%25AFPM.avif",
+  "url": "https://www.antler.co/portfolio/logx",
+  "api": "https://antler-api.github.io/companies/logx.json"
+}

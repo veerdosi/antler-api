@@ -1,0 +1,13 @@
+{
+  "id": "antler-drops",
+  "name": "Drops",
+  "slug": "drops",
+  "website": "https://dropsapp.co/",
+  "description": "Financial services on autopilot",
+  "founded_year": 2023,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66b453526e6d02b261669d29_aKQjyJfVfvgi7HSS5AhNFuK1q_RoXqCKiD9u6PHqay4.avif",
+  "url": "https://www.antler.co/portfolio/drops",
+  "api": "https://antler-api.github.io/companies/drops.json"
+}

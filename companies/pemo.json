@@ -1,0 +1,13 @@
+{
+  "id": "antler-pemo",
+  "name": "Pemo",
+  "slug": "pemo",
+  "website": "https://www.pemo.io",
+  "description": "Pemo is an innovative expense management platform built for small and medium-sized businesses in the MENA region",
+  "founded_year": 0,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67e48663998afc08811707b3_portfolio%252Fcompany%252F1e2b1a0a-25ef-4dc1-a450-2d0beed7a87a%252F1743029828264-pemo%2520logo.avif",
+  "url": "https://www.antler.co/portfolio/pemo",
+  "api": "https://antler-api.github.io/companies/pemo.json"
+}

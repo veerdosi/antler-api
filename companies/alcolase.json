@@ -1,0 +1,13 @@
+{
+  "id": "antler-alcolase",
+  "name": "Alcolase",
+  "slug": "alcolase",
+  "website": "https://alcolase.com/",
+  "description": "Alcolase is developing a dietary supplement to help 540 million people suffering from alcohol intolerance.",
+  "founded_year": 2023,
+  "location": "Denmark",
+  "sector": "Health and BioTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/682dcdb9be34acd8592b38bc_portfolio%252Fcompany%252Fd4c59c7a-f23b-42f2-a3b9-a4386a3beba5%252F1725420407737-logo.avif",
+  "url": "https://www.antler.co/portfolio/alcolase",
+  "api": "https://antler-api.github.io/companies/alcolase.json"
+}

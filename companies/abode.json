@@ -1,0 +1,13 @@
+{
+  "id": "antler-abode",
+  "name": "Abode",
+  "slug": "abode",
+  "website": "https://www.withabode.com/",
+  "description": "Abode is an AI powered platform transforming housing affordability and providing investors access to unique single-family rentals.",
+  "founded_year": 2023,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66b44bd1772167d03c063984_a7JHW3pgGrwER5o9UyBuOW3CuVfrCTgu4zgZ-i98Em8.avif",
+  "url": "https://www.antler.co/portfolio/abode",
+  "api": "https://antler-api.github.io/companies/abode.json"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "antler-assistteacher",
+  "name": "AssistTeacher",
+  "slug": "assistteacher",
+  "website": "https://www.assistteacher.com",
+  "description": "AI enabled Personalised Homework Generation, OCR based grading, Remediation and Monitoring tool to bridge learning gaps in school students.",
+  "founded_year": 2024,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66b4529eda859f039958a2d6_fpXdJoUu8407UUz106K-DWuuw5zWo2k2CslCE2B7CHU.avif",
+  "url": "https://www.antler.co/portfolio/assistteacher",
+  "api": "https://antler-api.github.io/companies/assistteacher.json"
+}

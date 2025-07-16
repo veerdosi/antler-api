@@ -1,0 +1,13 @@
+{
+  "id": "antler-opengroup",
+  "name": "Opengroup",
+  "slug": "opengroup",
+  "website": "https://adsrun.imweb.me/",
+  "description": "개인차량활용 모바일 광고 플랫폼",
+  "founded_year": 2022,
+  "location": "Korea",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/680086791f073d381a6ccfca_portfolio%252Fcompany%252F34b54ccb-fb22-43be-8611-aba64a83aae0%252F1732613589981-logo.avif",
+  "url": "https://www.antler.co/portfolio/opengroup",
+  "api": "https://antler-api.github.io/companies/opengroup.json"
+}

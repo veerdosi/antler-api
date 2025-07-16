@@ -1,0 +1,13 @@
+{
+  "id": "antler-clare-me",
+  "name": "clare&me",
+  "slug": "clare-me",
+  "website": "https://clareandme.com",
+  "description": "Building psychologically, clinically trained conversational AI for patient care via APIs.",
+  "founded_year": 0,
+  "location": "Germany",
+  "sector": "Health and BioTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/68109c1e227b69168be682d9_portfolio%252Fcompany%252Fce692212-67ed-4894-a6e9-abe8d658b472%252F1725844197722-logo.avif",
+  "url": "https://www.antler.co/portfolio/clare-me",
+  "api": "https://antler-api.github.io/companies/clare-me.json"
+}

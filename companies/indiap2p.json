@@ -1,0 +1,13 @@
+{
+  "id": "antler-indiap2p",
+  "name": "IndiaP2P",
+  "slug": "indiap2p",
+  "website": "https://www.indiap2p.com/",
+  "description": "IndiaP2P is an RBI-certified peer-to-peer lending platform offering retail investors up to 18% annual returns through diversified loans to women entrepreneurs.",
+  "founded_year": 2022,
+  "location": "India",
+  "sector": "FinTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67f8fd1f27bacceba7adb7dc_portfolio%252Fcompany%252F9e16e617-3eb5-4a68-a013-2bc117311fed%252F1744370946955-IndiaP2P.avif",
+  "url": "https://www.antler.co/portfolio/indiap2p",
+  "api": "https://antler-api.github.io/companies/indiap2p.json"
+}

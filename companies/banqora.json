@@ -1,0 +1,13 @@
+{
+  "id": "antler-banqora",
+  "name": "Banqora",
+  "slug": "banqora",
+  "website": "https://www.banqora.com/",
+  "description": "Banqora's mission is to save financial institutions millions while enhancing their operational efficiency.",
+  "founded_year": 2024,
+  "location": "Unknown",
+  "sector": "FinTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67b5dfc7feac906f7fca52c7_portfolio%252Fcompany%252F798fe1a2-7b55-49e7-a022-611e3ccd3350%252F1725421554661-logo.avif",
+  "url": "https://www.antler.co/portfolio/banqora",
+  "api": "https://antler-api.github.io/companies/banqora.json"
+}

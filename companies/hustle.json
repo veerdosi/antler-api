@@ -1,0 +1,13 @@
+{
+  "id": "antler-hustle",
+  "name": "Hustle",
+  "slug": "hustle",
+  "website": "https://hustlesasa.com",
+  "description": "Hustle is a commerce platform that enables anyone to sell what they want (physical products, digital products, or services), how they want (online or offline), and when they want (create and edit hustles on demand)",
+  "founded_year": 2021,
+  "location": "Kenya",
+  "sector": "ConsumerTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67c17b1c44fd5b498fa5a6b2_portfolio%252Fcompany%252F5dfa32b4-5772-42f2-9c2a-7a1bf3f6e18c%252F1740733129423-download.avif",
+  "url": "https://www.antler.co/portfolio/hustle",
+  "api": "https://antler-api.github.io/companies/hustle.json"
+}

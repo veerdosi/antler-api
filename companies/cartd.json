@@ -1,0 +1,13 @@
+{
+  "id": "antler-cartd",
+  "name": "Cartd",
+  "slug": "cartd",
+  "website": "https://www.cartd.io/",
+  "description": "Turning social media recipes into shoppable grocery carts that make the most of your leftovers.",
+  "founded_year": 2023,
+  "location": "Unknown",
+  "sector": "ConsumerTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/6835c25dc627f1b7240d0da0_portfolio%252Fcompany%252F8e23fbfe-48a7-412f-b868-18ca29b587f8%252F1725421639365-logo.avif",
+  "url": "https://www.antler.co/portfolio/cartd",
+  "api": "https://antler-api.github.io/companies/cartd.json"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "antler-hedda",
+  "name": "Hedda",
+  "slug": "hedda",
+  "website": "https://www.hedda.ai/",
+  "description": "AI bid procurement platform",
+  "founded_year": 2025,
+  "location": "Sweden",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/685bfc310a16a83e5709752e_portfolio%252Fcompany%252F9d64b93c-9c95-481b-83ee-05fc57c4873e%252F1750858773661-Hedda-logo-ny-500.jpeg",
+  "url": "https://www.antler.co/portfolio/hedda",
+  "api": "https://antler-api.github.io/companies/hedda.json"
+}

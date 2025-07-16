@@ -1,0 +1,13 @@
+{
+  "id": "antler-perplant",
+  "name": "PerPlant",
+  "slug": "perplant",
+  "website": "https://perplant.ai",
+  "description": "Gateway to sustainable farming through AI based sensor systems.",
+  "founded_year": 2022,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66e84b070864286bcbe51870_portfolio%252Fcompany%252F2e54fa07-214b-42ab-a613-1bce80fcb1d6%252F1725420538216-logo.avif",
+  "url": "https://www.antler.co/portfolio/perplant",
+  "api": "https://antler-api.github.io/companies/perplant.json"
+}

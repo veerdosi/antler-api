@@ -1,0 +1,13 @@
+{
+  "id": "antler-flair",
+  "name": "Flair",
+  "slug": "flair",
+  "website": "https://flairlabs.ai/",
+  "description": "The world's first digital concierge for real estate and lending.",
+  "founded_year": 2022,
+  "location": "Unknown",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67f5ce51e5bbf58ac4280476_portfolio%252Fcompany%252F4bcbc777-814e-41ad-a089-b2a4f0bf614f%252F1725421839392-logo.avif",
+  "url": "https://www.antler.co/portfolio/flair",
+  "api": "https://antler-api.github.io/companies/flair.json"
+}

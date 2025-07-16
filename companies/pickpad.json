@@ -1,0 +1,13 @@
+{
+  "id": "antler-pickpad",
+  "name": "Pickpad",
+  "slug": "pickpad",
+  "website": "https://pickpad.com",
+  "description": "Central hub for digital-native restaurants powered by sensors & ML.",
+  "founded_year": 2024,
+  "location": "Unknown",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67be0fd887ec4b13aaf08e85_teams%252Fab5da8f1-2247-47d4-b6a6-d76acd315b1e%252Flogos%252F3.avif",
+  "url": "https://www.antler.co/portfolio/pickpad",
+  "api": "https://antler-api.github.io/companies/pickpad.json"
+}

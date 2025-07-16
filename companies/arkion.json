@@ -1,0 +1,13 @@
+{
+  "id": "antler-arkion",
+  "name": "Arkion",
+  "slug": "arkion",
+  "website": "https://www.arkion.co/",
+  "description": "AI-powered asset intelligence for power grids—minimizing outages and increasing capacity.",
+  "founded_year": 2019,
+  "location": "Sweden",
+  "sector": "Energy and ClimateTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67b5e5204321f1854e0ee8f9_portfolio%252Fcompany%252Ff347e52d-abaa-4e00-bd88-a10b5bffd61e%252F1733742965250-Arkion%2520-%2520logo.avif",
+  "url": "https://www.antler.co/portfolio/arkion",
+  "api": "https://antler-api.github.io/companies/arkion.json"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "antler-sky-co",
+  "name": "sky&co",
+  "slug": "sky-co",
+  "website": "https://skyand.co/",
+  "description": "Airbnb for electricity.",
+  "founded_year": 2024,
+  "location": "Unknown",
+  "sector": "Energy and ClimateTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67b4aa869add569a48554c60_teams%252F31315b54-ecaa-4234-8694-7c261ccbf34b%252Flogos%252FScreenshot%25202024-11-07%2520at%252009.16.38.avif",
+  "url": "https://www.antler.co/portfolio/sky-co",
+  "api": "https://antler-api.github.io/companies/sky-co.json"
+}

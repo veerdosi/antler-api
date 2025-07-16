@@ -1,0 +1,13 @@
+{
+  "id": "antler-signalshq",
+  "name": "SignalsHQ",
+  "slug": "signalshq",
+  "website": "https://signalshq.io/",
+  "description": "Automation platform for audit firms",
+  "founded_year": 2025,
+  "location": "India",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/685bef704f4f2a5d1b788ae5_portfolio%252Fcompany%252Fdf8d883f-3db2-4017-bea6-a34a29b28a3f%252F1750855498587-1731648257138.jpeg",
+  "url": "https://www.antler.co/portfolio/signalshq",
+  "api": "https://antler-api.github.io/companies/signalshq.json"
+}

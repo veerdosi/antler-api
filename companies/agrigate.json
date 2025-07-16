@@ -1,0 +1,13 @@
+{
+  "id": "antler-agrigate",
+  "name": "Agrigate",
+  "slug": "agrigate",
+  "website": "https://www.agrigate.id/",
+  "description": "Building resilient agricultural supply chains for businesses and brands worldwide.",
+  "founded_year": 2023,
+  "location": "Indonesia",
+  "sector": "Industrials",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67c174b4cc93cbacf66d70fb_portfolio%252Fcompany%252F4a64e491-8af3-4755-be55-cc3b6369af65%252F1725422054022-logo.avif",
+  "url": "https://www.antler.co/portfolio/agrigate",
+  "api": "https://antler-api.github.io/companies/agrigate.json"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "antler-mycroft",
+  "name": "Mycroft",
+  "slug": "mycroft",
+  "website": "https://mycroft.io",
+  "description": "End-to-end autonomous cybersecurity platform powered by AI Agents.",
+  "founded_year": 2024,
+  "location": "Canada",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/685dad1e31a0c30a2d1ae2a7_portfolio%252Fcompany%252F2168598c-8818-42ec-b008-9713f8eeef4b%252F1750969545857-logo.png",
+  "url": "https://www.antler.co/portfolio/mycroft",
+  "api": "https://antler-api.github.io/companies/mycroft.json"
+}

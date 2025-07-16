@@ -1,0 +1,13 @@
+{
+  "id": "antler-glassbox",
+  "name": "Glassbox",
+  "slug": "glassbox",
+  "website": "https://www.glassboxdeals.com/",
+  "description": "Glassbox helps evaluate and close more deals faster with an efficient solution to complex, black box financial modeling and analysis",
+  "founded_year": 2023,
+  "location": "Canada",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67dde3fb39804f5ec1322f7e_portfolio%252Fcompany%252F2494f9aa-0ac5-41fd-b0d6-a444ecf0fb1d%252F1733119258369-logo.avif",
+  "url": "https://www.antler.co/portfolio/glassbox",
+  "api": "https://antler-api.github.io/companies/glassbox.json"
+}

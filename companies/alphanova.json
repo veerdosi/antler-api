@@ -1,0 +1,13 @@
+{
+  "id": "antler-alphanova",
+  "name": "AlphaNova",
+  "slug": "alphanova",
+  "website": "https://www.alphanova.tech",
+  "description": "Next-gen hedge fund maximizing investor returns by curating top signals from thousands of elite quant researchers worldwide.",
+  "founded_year": 2025,
+  "location": "United Arab Emirates",
+  "sector": "FinTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/685cfd2e1ce32f03fd28a292_portfolio%252Fcompany%252Fb6a4ba91-29e3-48c5-902a-2c0cfd7f9c8d%252F1750924575231-Color_AlphaNova.png",
+  "url": "https://www.antler.co/portfolio/alphanova",
+  "api": "https://antler-api.github.io/companies/alphanova.json"
+}

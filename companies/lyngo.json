@@ -1,0 +1,13 @@
+{
+  "id": "antler-lyngo",
+  "name": "Lyngo",
+  "slug": "lyngo",
+  "website": "https://www.lyngo.ai",
+  "description": "AI receptionist for healthcare clinics",
+  "founded_year": 2024,
+  "location": "Australia",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67cfdcc8372a8b2603e73898_portfolio%252Fcompany%252F33980e2f-826e-4ba1-b546-bf82591ca208%252F1728971078631-Lyngo_Antler_Showcase.avif",
+  "url": "https://www.antler.co/portfolio/lyngo",
+  "api": "https://antler-api.github.io/companies/lyngo.json"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "antler-track-titan",
+  "name": "Track Titan",
+  "slug": "track-titan",
+  "website": "https://www.tracktitan.io/",
+  "description": "Track Titan is an ultra-personalised insights platform for the world’s 1bn motorsports fans.",
+  "founded_year": 2023,
+  "location": "Unknown",
+  "sector": "ConsumerTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67d86454d64b494fca5e9463_portfolio%252Fcompany%252Ffde5cfab-c13d-44d7-9fc9-45ce2ed52306%252F1725421721425-logo.avif",
+  "url": "https://www.antler.co/portfolio/track-titan",
+  "api": "https://antler-api.github.io/companies/track-titan.json"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "antler-nvelop",
+  "name": "Nvelop",
+  "slug": "nvelop",
+  "website": "https://nvelop.ai",
+  "description": "Automated, AI-driven SaaS platform for sourcing IT services and software",
+  "founded_year": 2024,
+  "location": "Finland",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67ea7e9dc2d439d0ada8ee13_portfolio%252Fcompany%252F078cbcdc-e9f3-44cd-81d5-749bdc0e4159%252F1743421048115-logo%2520Nvelop.avif",
+  "url": "https://www.antler.co/portfolio/nvelop",
+  "api": "https://antler-api.github.io/companies/nvelop.json"
+}

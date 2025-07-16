@@ -1,0 +1,13 @@
+{
+  "id": "antler-gryd-energy",
+  "name": "GRYD Energy",
+  "slug": "gryd-energy",
+  "website": "https://grydenergy.io/",
+  "description": "Unblocking the barriers to creating more sustainable homes",
+  "founded_year": 2023,
+  "location": "Unknown",
+  "sector": "Energy and ClimateTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67e17cc1767aea07fc084a37_portfolio%252Fcompany%252F5cf96373-03ec-4b2e-a941-eafc3cf944aa%252F1742830753813-GRYD-logo-off-black-2.svg",
+  "url": "https://www.antler.co/portfolio/gryd-energy",
+  "api": "https://antler-api.github.io/companies/gryd-energy.json"
+}

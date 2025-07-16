@@ -1,0 +1,13 @@
+{
+  "id": "antler-peakpath",
+  "name": "PeakPath",
+  "slug": "peakpath",
+  "website": "https://nudgelabs.com",
+  "description": "Personalized coaching powered by biometric data from wearables",
+  "founded_year": 2021,
+  "location": "Sweden",
+  "sector": "Health and BioTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67e46fae3ea0c87b86991e2a_portfolio%252Fcompany%252Fa1ad954d-264f-4bb6-93c8-47973b8bc7a4%252F1743024013257-66017410a79bbeb737b87099.avif",
+  "url": "https://www.antler.co/portfolio/peakpath",
+  "api": "https://antler-api.github.io/companies/peakpath.json"
+}

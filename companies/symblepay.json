@@ -1,0 +1,13 @@
+{
+  "id": "antler-symblepay",
+  "name": "SymblePay",
+  "slug": "symblepay",
+  "website": "https://www.symblepay.io/en",
+  "description": "We safeguard your money when you buy and sell",
+  "founded_year": 2022,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66b452ac47b3701b7c20811c_JXpUJPuJShvY8ZxuJAIQuJiDQWit_lMrRkG8L99Z5oE.avif",
+  "url": "https://www.antler.co/portfolio/symblepay",
+  "api": "https://antler-api.github.io/companies/symblepay.json"
+}

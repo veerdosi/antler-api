@@ -1,0 +1,13 @@
+{
+  "id": "antler-motley-bio",
+  "name": "Motley Bio",
+  "slug": "motley-bio",
+  "website": "https://www.motley.bio/",
+  "description": "Early disease profiling & detection with multiomic sequencing.",
+  "founded_year": 2024,
+  "location": "Unknown",
+  "sector": "Health and BioTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66d79929a20e12dda127d631_portfolio%252Fcompany%252F2a1fe83e-2fc4-4e4c-acfe-91b3cebc581b%252F1725405451142-MB_motleybio_logo-primaryDRK%2520(1).avif",
+  "url": "https://www.antler.co/portfolio/motley-bio",
+  "api": "https://antler-api.github.io/companies/motley-bio.json"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "antler-modastera-inc",
+  "name": "ModAstera Inc.",
+  "slug": "modastera-inc",
+  "website": "https://www.modastera.com",
+  "description": "Software platform to annotate data and automate the development, deployment and sharing of Medical AI. データをアノテートし、医療AIを生成、デプロイ、そして共有するソフトウェアプラットフォーム。",
+  "founded_year": 2025,
+  "location": "Japan",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67c968a95294f87a8823155a_portfolio%252Fcompany%252F71058777-00ac-4574-b8b2-52a49641e977%252F1741251026203-modastera_logo_3_on_white_bg_rounded.avif",
+  "url": "https://www.antler.co/portfolio/modastera-inc",
+  "api": "https://antler-api.github.io/companies/modastera-inc.json"
+}

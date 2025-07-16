@@ -1,0 +1,13 @@
+{
+  "id": "antler-onarrival",
+  "name": "OnArrival",
+  "slug": "onarrival",
+  "website": "https://onarrival.travel/",
+  "description": "Full-stack travel-as-a-service platform that enables businesses to seamlessly embed and sell flights, hotels, insurance, visas, and ancillaries through modern APIs and AI-powered tools.",
+  "founded_year": 2022,
+  "location": "India",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/6857d3739ae7dd4707b8dbbd_portfolio%252Fcompany%252F063fe58d-3b5d-45c7-9abb-ca2a292586fd%252F1744372493627-OnArrival.jpeg",
+  "url": "https://www.antler.co/portfolio/onarrival",
+  "api": "https://antler-api.github.io/companies/onarrival.json"
+}

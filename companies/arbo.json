@@ -1,0 +1,13 @@
+{
+  "id": "antler-arbo",
+  "name": "Arbo",
+  "slug": "arbo",
+  "website": "https://www.arbo-holz.de/",
+  "description": "Building the leading digital B2B marketplace for timber, making procurement of timber as simple and cheap as possible.",
+  "founded_year": 2024,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66d9b7a8f6ca46d2f266ce2d_portfolio%252Fcompany%252F47d9019c-ebbd-4728-8c7e-c125d8a2ac48%252F1725422977510-logo.avif",
+  "url": "https://www.antler.co/portfolio/arbo",
+  "api": "https://antler-api.github.io/companies/arbo.json"
+}

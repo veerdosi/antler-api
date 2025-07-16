@@ -1,0 +1,13 @@
+{
+  "id": "antler-linguix",
+  "name": "Linguix",
+  "slug": "linguix",
+  "website": "https://linguix.com",
+  "description": "Linguix leverages technology to help people become better writers. By giving you the right recommendations based on context, Linguix makes sentences clear, smooth, and correct through a variety of tools and capabilities including a grammar checker and corrector, writing coaches, paraphrases and templates.",
+  "founded_year": 2021,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66d6df308fab1d12d34708b3_sBqNdtBz2UNV6AY7zgQhhp8EHwxxFpml0r8pgDxZTuE.avif",
+  "url": "https://www.antler.co/portfolio/linguix",
+  "api": "https://antler-api.github.io/companies/linguix.json"
+}

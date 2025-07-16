@@ -1,0 +1,13 @@
+{
+  "id": "antler-sentire",
+  "name": "Sentire",
+  "slug": "sentire",
+  "website": "https://sentire.ai/",
+  "description": "AI augmentation for robots and advanced machines catering to farms and forestry",
+  "founded_year": 2022,
+  "location": "Canada",
+  "sector": "Industrials",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67dde2f407448fc9477a5162_portfolio%252Fcompany%252F1fb81b67-4da0-4bf2-9aae-a1c7deb900f0%252F1733119270643-logo.avif",
+  "url": "https://www.antler.co/portfolio/sentire",
+  "api": "https://antler-api.github.io/companies/sentire.json"
+}

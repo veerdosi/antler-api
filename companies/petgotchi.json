@@ -1,0 +1,13 @@
+{
+  "id": "antler-petgotchi",
+  "name": "Petgotchi",
+  "slug": "petgotchi",
+  "website": "https://petgotchi.com/",
+  "description": "Petgotchi is a location-based Augmented Reality (AR) mobile game on a mission to bring the most beloved animal friends to you in the virtual world.",
+  "founded_year": 2022,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66b44abedc415da467d2c23d_ULBC5a8h43VYmX2sPUT9zGNpwZaYxVj63grn9qD4-xo.avif",
+  "url": "https://www.antler.co/portfolio/petgotchi",
+  "api": "https://antler-api.github.io/companies/petgotchi.json"
+}

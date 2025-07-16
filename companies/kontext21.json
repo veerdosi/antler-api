@@ -1,0 +1,13 @@
+{
+  "id": "antler-kontext21",
+  "name": "kontext21",
+  "slug": "kontext21",
+  "website": "https://www.kontext21.com/",
+  "description": "Build context-aware software with the K21 SDK. Our SDK has everything you need to capture end-user data, contextualize it and deliver real user value with AI.",
+  "founded_year": 2024,
+  "location": "Germany",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67f6291ab70f82cc9f4af4c6_portfolio%252Fcompany%252F70862377-6da7-4e15-a7ff-aa5d7dfb0948%252F1744185556955-K21_logo_256.avif",
+  "url": "https://www.antler.co/portfolio/kontext21",
+  "api": "https://antler-api.github.io/companies/kontext21.json"
+}

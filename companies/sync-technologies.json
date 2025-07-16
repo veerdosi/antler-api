@@ -1,0 +1,13 @@
+{
+  "id": "antler-sync-technologies",
+  "name": "Sync Technologies",
+  "slug": "sync-technologies",
+  "website": "https://www.synctech.io/",
+  "description": "SyncTech offers a visually-focused solution for data collection, secure storage/management, and value-added services, catering to the Building Insurance, Construction, and Asset Management industries",
+  "founded_year": 2020,
+  "location": "Australia",
+  "sector": "FinTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67ef57cc87e12f2723992d60_portfolio%252Fcompany%252F6981d77f-3d31-4dfd-898d-b1927dce2f99%252F1743738765111-60334c6df6e0cd2b97016787_SYNC-TECH-RED.avif",
+  "url": "https://www.antler.co/portfolio/sync-technologies",
+  "api": "https://antler-api.github.io/companies/sync-technologies.json"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "antler-om",
+  "name": "OM",
+  "slug": "om",
+  "website": "https://omtx.ai/",
+  "description": "go from hypothesis to launching a discovery program in under a week",
+  "founded_year": 2024,
+  "location": "Unknown",
+  "sector": "Health and BioTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/681a59eba5b7699b7587e851_portfolio%252Fcompany%252Fe61826a3-c76c-4601-a7ff-0aa52196fd84%252F1725606793997-logo.avif",
+  "url": "https://www.antler.co/portfolio/om",
+  "api": "https://antler-api.github.io/companies/om.json"
+}

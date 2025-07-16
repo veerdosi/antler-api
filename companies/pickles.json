@@ -1,0 +1,13 @@
+{
+  "id": "antler-pickles",
+  "name": "Pickles",
+  "slug": "pickles",
+  "website": "https://pickles.co/",
+  "description": "Pickles is pet care done right. Creating veterinary care 2.0. One simple membership for access to the very best vets in practice and online with data-driven unique products and services.",
+  "founded_year": 2023,
+  "location": "Unknown",
+  "sector": "ConsumerTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67d85c253c94a19d5c0e6690_portfolio%252Fcompany%252F661b4232-7fc0-4ed5-80ae-e1cb11af461b%252F1725421677014-logo.avif",
+  "url": "https://www.antler.co/portfolio/pickles",
+  "api": "https://antler-api.github.io/companies/pickles.json"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "antler-wedevx",
+  "name": "WeDevX",
+  "slug": "wedevx",
+  "website": "https://enterprises.wedevx.co/",
+  "description": "AI recruitment engine to source, vet, hire top engineering talents globally",
+  "founded_year": 2022,
+  "location": "Unknown",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67dae80e43506091b2288deb_portfolio%252Fcompany%252F9c94f077-b2f4-48f8-90d3-8d5bc15a4399%252F1725422594791-logo.avif",
+  "url": "https://www.antler.co/portfolio/wedevx",
+  "api": "https://antler-api.github.io/companies/wedevx.json"
+}

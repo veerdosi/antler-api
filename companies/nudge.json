@@ -1,0 +1,13 @@
+{
+  "id": "antler-nudge",
+  "name": "Nudge",
+  "slug": "nudge",
+  "website": "https://www.nudgenow.com/",
+  "description": "No/Low code tool to create LLM based in-app experiences for mobile first consumer companies",
+  "founded_year": 2024,
+  "location": "India",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67f3c3942096131dc8bfae8d_portfolio%252Fcompany%252F2c78045a-e9cf-40d9-b1d0-b4a21a86aa4d%252F1744028523662-Screenshot%25202025-04-07%2520at%25205.51.43%25E2%2580%25AFPM.avif",
+  "url": "https://www.antler.co/portfolio/nudge",
+  "api": "https://antler-api.github.io/companies/nudge.json"
+}

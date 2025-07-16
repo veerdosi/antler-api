@@ -1,0 +1,13 @@
+{
+  "id": "antler-inntelo-ai",
+  "name": "Inntelo AI",
+  "slug": "inntelo-ai",
+  "website": "https://www.inntelo.com/",
+  "description": "Transforming the hotel guest experience with GenAI, Inntelo AI integrates advanced AI agents into hotel operations, automating guest interactions, service requests, and team communications.",
+  "founded_year": 2024,
+  "location": "Unknown",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/680ed089dde0fee07220c750_portfolio%252Fcompany%252F08f4d23f-9375-4686-bbbe-ac0fa3e4c973%252F1725421611867-logo.avif",
+  "url": "https://www.antler.co/portfolio/inntelo-ai",
+  "api": "https://antler-api.github.io/companies/inntelo-ai.json"
+}

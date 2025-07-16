@@ -1,0 +1,13 @@
+{
+  "id": "antler-flouria",
+  "name": "Flouria",
+  "slug": "flouria",
+  "website": "https://flouria.health/",
+  "description": "Flouria is a digital women’s health company that re-invents the way women engage with women’s health experts",
+  "founded_year": 2024,
+  "location": "Netherlands",
+  "sector": "Health and BioTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67caef966f6aa31b0067a54b_portfolio%252Fcompany%252F5ad35023-9fcb-4490-904f-c79c81498199%252F1725422971155-logo.avif",
+  "url": "https://www.antler.co/portfolio/flouria",
+  "api": "https://antler-api.github.io/companies/flouria.json"
+}

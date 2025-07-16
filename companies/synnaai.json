@@ -1,0 +1,13 @@
+{
+  "id": "antler-synnaai",
+  "name": "SynnaAI",
+  "slug": "synnaai",
+  "website": "https://synna.ai/",
+  "description": "Workplace knowledge assistant that puts your company’s collective intelligence at your fingertips",
+  "founded_year": 2023,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66b449b588aca54bbcfcea5d_1Ss85cQwox-q_03YIPcworLr-laZmnlPyiwAvPDw_BQ.avif",
+  "url": "https://www.antler.co/portfolio/synnaai",
+  "api": "https://antler-api.github.io/companies/synnaai.json"
+}

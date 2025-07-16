@@ -1,0 +1,13 @@
+{
+  "id": "antler-tradepulse",
+  "name": "TradePulse",
+  "slug": "tradepulse",
+  "website": "https://tradepulse.io/",
+  "description": "TradePulse offers a revenue based lending solution to manufacturing SMEs",
+  "founded_year": 2023,
+  "location": "Kenya",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67fe61395234f025943b25c2_portfolio%252Fcompany%252Fe5717d4b-59c1-4805-8338-7c84523c34a3%252F1744724179789-download-2.avif",
+  "url": "https://www.antler.co/portfolio/tradepulse",
+  "api": "https://antler-api.github.io/companies/tradepulse.json"
+}

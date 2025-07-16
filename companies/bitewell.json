@@ -1,0 +1,13 @@
+{
+  "id": "antler-bitewell",
+  "name": "Bitewell",
+  "slug": "bitewell",
+  "website": "https://www.bitewell.com",
+  "description": "Bitewell is a hyper-personalized platform for the next generation of food commerce. By collecting data from food supply sources and connecting user data around health, fitness, and activity tracking in the app, Bitewell can recommend food to users based on personal profiles and nutrition goals.",
+  "founded_year": 2020,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/658254c6ce24e5571eaa6a7d_download-(3).png",
+  "url": "https://www.antler.co/portfolio/bitewell",
+  "api": "https://antler-api.github.io/companies/bitewell.json"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "antler-onemri",
+  "name": "OneMRI",
+  "slug": "onemri",
+  "website": "https://www.onemri.com.au/",
+  "description": "OneMRI provides customers with access to whole-body MRI services in convenient locations around Australia.",
+  "founded_year": 2025,
+  "location": "Australia",
+  "sector": "Health and BioTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67ef5c3a786d0f63518b0976_portfolio%252Fcompany%252Fe10257fc-232b-43df-a9a3-c96af03dc8d7%252F1743739925942-logo_transparent_background.avif",
+  "url": "https://www.antler.co/portfolio/onemri",
+  "api": "https://antler-api.github.io/companies/onemri.json"
+}

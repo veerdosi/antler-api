@@ -1,0 +1,13 @@
+{
+  "id": "antler-studywise",
+  "name": "Studywise",
+  "slug": "studywise",
+  "website": "https://studywise.com.br/",
+  "description": "Platform that connects technology professionals in practical projects, managed by an AI. Generating data and insights for users and companies.",
+  "founded_year": 2023,
+  "location": "Brazil",
+  "sector": "ConsumerTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/680ab2482b8d080043d20632_portfolio%252Fcompany%252Fda5154a3-c85b-4a87-8423-834e53c80a2a%252F1725423823793-logo.avif",
+  "url": "https://www.antler.co/portfolio/studywise",
+  "api": "https://antler-api.github.io/companies/studywise.json"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "antler-seafoody",
+  "name": "Seafoody",
+  "slug": "seafoody",
+  "website": "https://seafoody.co/",
+  "description": "Seafood supply chain enabler for the F&B segment with direct sourcing",
+  "founded_year": 2023,
+  "location": "Malaysia",
+  "sector": "Industrials",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66b453f9da8c02bdf202f67a__Vq9l2s7HdI5tSOW6EOZ8fRqgvPHTe59WMA_-jTsMCk.avif",
+  "url": "https://www.antler.co/portfolio/seafoody",
+  "api": "https://antler-api.github.io/companies/seafoody.json"
+}

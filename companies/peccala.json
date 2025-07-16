@@ -1,0 +1,13 @@
+{
+  "id": "antler-peccala",
+  "name": "Peccala",
+  "slug": "peccala",
+  "website": "https://peccala.com",
+  "description": "Peccala is a crypto asset manager offering AI-powered trading strategies to everyday investors.",
+  "founded_year": 0,
+  "location": "Germany",
+  "sector": "FinTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67f67614ab9018a757a8fecf_portfolio%252Fcompany%252F53a21197-dae4-4366-b88b-0f03e6006369%252F1744205319761-Peccala%2520Main.avif",
+  "url": "https://www.antler.co/portfolio/peccala",
+  "api": "https://antler-api.github.io/companies/peccala.json"
+}

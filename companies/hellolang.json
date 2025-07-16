@@ -1,0 +1,13 @@
+{
+  "id": "antler-hellolang",
+  "name": "Hellolang",
+  "slug": "hellolang",
+  "website": "https://hellolang.com/",
+  "description": "Hellolang - Eradicating .NET Technical Debt with Generative AI",
+  "founded_year": 2025,
+  "location": "Norway",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/68667f3383430a70d3988d0f_portfolio%252Fcompany%252Fd83cda7c-fedd-42a8-8185-2ce00f6473e8%252F1751547579845-hellolang%2520green%2520on%2520white.png",
+  "url": "https://www.antler.co/portfolio/hellolang",
+  "api": "https://antler-api.github.io/companies/hellolang.json"
+}

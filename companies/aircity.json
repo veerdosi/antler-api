@@ -1,0 +1,13 @@
+{
+  "id": "antler-aircity",
+  "name": "Aircity",
+  "slug": "aircity",
+  "website": "https://www.aircity.network/",
+  "description": "Property Mangement Made Simplified",
+  "founded_year": 2022,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66b452796081b0d03ea7b59c_KltBxkkZ95SX-qSoKFYRhzywS28OrpJCiphDwhdXrWE.avif",
+  "url": "https://www.antler.co/portfolio/aircity",
+  "api": "https://antler-api.github.io/companies/aircity.json"
+}

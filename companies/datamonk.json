@@ -1,0 +1,13 @@
+{
+  "id": "antler-datamonk",
+  "name": "Datamonk",
+  "slug": "datamonk",
+  "website": "https://www.datamonk.ai/",
+  "description": "Agentic Healthcare Data Platform",
+  "founded_year": 2024,
+  "location": "Netherlands",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67f3892bc335f9af83a590f3_portfolio%252Fcompany%252Fae089e9b-570d-413a-9555-e91a837d5b0f%252F1744013156555-Datamonk%2520Logo%2520black%2520fit.avif",
+  "url": "https://www.antler.co/portfolio/datamonk",
+  "api": "https://antler-api.github.io/companies/datamonk.json"
+}

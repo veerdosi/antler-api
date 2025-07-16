@@ -1,0 +1,13 @@
+{
+  "id": "antler-wecommit",
+  "name": "WECOMMIT",
+  "slug": "wecommit",
+  "website": "https://wecommit.ai",
+  "description": "AI-powered business growth acceleration and document automation solution",
+  "founded_year": 2022,
+  "location": "Korea",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/6800878c76900f03c5162986_portfolio%252Fcompany%252F4866cfc0-8147-4c16-a825-58abf64e7ea5%252F1732613626338-logo.avif",
+  "url": "https://www.antler.co/portfolio/wecommit",
+  "api": "https://antler-api.github.io/companies/wecommit.json"
+}

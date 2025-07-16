@@ -1,0 +1,13 @@
+{
+  "id": "antler-vero-technologies",
+  "name": "Vero Technologies",
+  "slug": "vero-technologies",
+  "website": "https://www.vero-technologies.com",
+  "description": "By using alternative data, Vero has developed a unique approach that makes it more efficient to profile auto dealers, underwrite credit facilities and most importantly, monitor dealership risk in real-time through the life of the commercial loan. They are launching a floorplan lending platform focused on independent used car dealerships. The platform will deploy tools to digitize the risk management and credit administration functions.",
+  "founded_year": 2021,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66d6df6b50ad4908336d5d1f_ZycW4z74vryFRqvsWJaDqT3wkzztrLqI_gKeTGQjJEg.avif",
+  "url": "https://www.antler.co/portfolio/vero-technologies",
+  "api": "https://antler-api.github.io/companies/vero-technologies.json"
+}

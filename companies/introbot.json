@@ -1,0 +1,13 @@
+{
+  "id": "antler-introbot",
+  "name": "Introbot",
+  "slug": "introbot",
+  "website": "https://www.introbot.co/",
+  "description": "An AI-powered chatbot that enables better discovery and stronger communities",
+  "founded_year": 2022,
+  "location": "India",
+  "sector": "ConsumerTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/6857d193d0a925c5041d49bd_portfolio%252Fcompany%252F40fbfe5f-54ff-4226-a4b4-36679309aaf0%252F1750585726539-introbotai_logo.jpeg",
+  "url": "https://www.antler.co/portfolio/introbot",
+  "api": "https://antler-api.github.io/companies/introbot.json"
+}

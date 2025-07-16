@@ -1,0 +1,13 @@
+{
+  "id": "antler-wegowhere",
+  "name": "WeGoWhere",
+  "slug": "wegowhere",
+  "website": "https://www.wegowhere.com/",
+  "description": "WeGoWhere is a mobile app that lets young people discover friends and spontaneous meetups near them curated to their interests, such as, clubbing, sports, board games and online gaming. Meetups are typically a group of 5-20 people.",
+  "founded_year": 2020,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66b452a165da4b3d6a49c069_QdWkm9dHxvFGtECSyr485YiQjzctoxhF7J9F81AaEEI.avif",
+  "url": "https://www.antler.co/portfolio/wegowhere",
+  "api": "https://antler-api.github.io/companies/wegowhere.json"
+}

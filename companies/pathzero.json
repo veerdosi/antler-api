@@ -1,0 +1,13 @@
+{
+  "id": "antler-pathzero",
+  "name": "Pathzero",
+  "slug": "pathzero",
+  "website": "https://pathzero.com",
+  "description": "Pathzero is a carbon accounting and management platform with a specialisation in financial institutions.",
+  "founded_year": 2020,
+  "location": "Australia",
+  "sector": "Energy and ClimateTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67de0b382b22c60912fcacb5_portfolio%252Fcompany%252F75946ff6-fa9e-49d1-b17d-aab8a8fa5810%252F1742605104678-Pathzero.avif",
+  "url": "https://www.antler.co/portfolio/pathzero",
+  "api": "https://antler-api.github.io/companies/pathzero.json"
+}

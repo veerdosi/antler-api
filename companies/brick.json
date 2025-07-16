@@ -1,0 +1,13 @@
+{
+  "id": "antler-brick",
+  "name": "Brick",
+  "slug": "brick",
+  "website": "https://www.onebrick.io/",
+  "description": "Brick is a financial API provider enabling tech companies in SEA to offer in-app financial services with just 1 line of code.",
+  "founded_year": 2020,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66b44bfd755c8735726c54b5_nPuLaM4uCuBrb7Kj5Q2oJ5D-pbZTFR_XHfQ-79VISbY.avif",
+  "url": "https://www.antler.co/portfolio/brick",
+  "api": "https://antler-api.github.io/companies/brick.json"
+}

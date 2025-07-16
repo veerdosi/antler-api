@@ -1,0 +1,13 @@
+{
+  "id": "antler-peckish",
+  "name": "Peckish",
+  "slug": "peckish",
+  "website": "https://iampeckish.com/",
+  "description": "AI stock takes from video in seconds — simplifying inventory for hospitality.",
+  "founded_year": 2023,
+  "location": "Netherlands",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67f50aefb8eb9bf5d4c472b9_portfolio%252Fcompany%252Fb31744e6-92c6-4eeb-89d8-35c0b3fb4b47%252F1728093446368-peckish.avif",
+  "url": "https://www.antler.co/portfolio/peckish",
+  "api": "https://antler-api.github.io/companies/peckish.json"
+}

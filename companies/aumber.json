@@ -1,0 +1,13 @@
+{
+  "id": "antler-aumber",
+  "name": "Aumber",
+  "slug": "aumber",
+  "website": "https://aumber.io/",
+  "description": "AuMBER is a cloud platform allowing anyone in the world to access any smart device for testing purposes through a network of crowd-sourced devices.",
+  "founded_year": 2022,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66b44bb71758a740c5905484_isZ1KC3aVoLuYaQp6OwMyeuMBaCvhALEnPPH8pjZ9VY.avif",
+  "url": "https://www.antler.co/portfolio/aumber",
+  "api": "https://antler-api.github.io/companies/aumber.json"
+}

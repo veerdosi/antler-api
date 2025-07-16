@@ -1,0 +1,13 @@
+{
+  "id": "antler-zupply",
+  "name": "zupply",
+  "slug": "zupply",
+  "website": "https://zupply.site",
+  "description": "zupply is Decarbonizing the built environment with AI-powered digital twins that automate the tracking, management, and circularity of building materials.",
+  "founded_year": 2022,
+  "location": "Denmark",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66e97268b868a0045ba4c8e0_portfolio%252Fcompany%252Fc53ea632-e94a-4cb2-9f52-57619f2136ba%252F1726575190232-zupply_logo_png.avif",
+  "url": "https://www.antler.co/portfolio/zupply",
+  "api": "https://antler-api.github.io/companies/zupply.json"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "antler-calmo",
+  "name": "Calmo",
+  "slug": "calmo",
+  "website": "https://getcalmo.com/",
+  "description": "Calmo builds AI agents for incident management. With Calmo, software engineers resolve incidents and production issues up to 80% faster, increasing productivity and reducing operational downtime.",
+  "founded_year": 2024,
+  "location": "Netherlands",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/6835b2fce1ab6f1438437cc4_portfolio%252Fcompany%252Fa470a369-f813-4e22-b23b-1d3caa0c2e39%252F1738233900453-image%25205%2520(1).avif",
+  "url": "https://www.antler.co/portfolio/calmo",
+  "api": "https://antler-api.github.io/companies/calmo.json"
+}

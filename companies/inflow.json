@@ -1,0 +1,13 @@
+{
+  "id": "antler-inflow",
+  "name": "Inflow",
+  "slug": "inflow",
+  "website": "https://joininflow.io/",
+  "description": "A supply chain and manufacturing platform for fashion brands",
+  "founded_year": 2022,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66b44c4b61873f1139fda7c9_v7Ve5f2z0Ux8D6lEadleZ8_eJaanuf7smb0mfmBxtCE.avif",
+  "url": "https://www.antler.co/portfolio/inflow",
+  "api": "https://antler-api.github.io/companies/inflow.json"
+}

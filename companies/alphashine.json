@@ -1,0 +1,13 @@
+{
+  "id": "antler-alphashine",
+  "name": "AlphaShine",
+  "slug": "alphashine",
+  "website": "https://www.alphashine.io/",
+  "description": "Digital subscription based for car detailing",
+  "founded_year": 2022,
+  "location": "Canada",
+  "sector": "ConsumerTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67dde2207f8ee3d80cea99ea_portfolio%252Fcompany%252F33ac514a-d9f7-475c-b3bc-321466062239%252F1733119212065-logo.avif",
+  "url": "https://www.antler.co/portfolio/alphashine",
+  "api": "https://antler-api.github.io/companies/alphashine.json"
+}

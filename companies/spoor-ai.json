@@ -1,0 +1,13 @@
+{
+  "id": "antler-spoor-ai",
+  "name": "Spoor AI",
+  "slug": "spoor-ai",
+  "website": "https://spoor.ai",
+  "description": "Enabling nature and industry to coexist.",
+  "founded_year": 2020,
+  "location": "Norway",
+  "sector": "Energy and ClimateTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67b497d7d44feccae7edb246_portfolio%252Fcompany%252F3ecb3ba1-1bf4-4166-8912-004b590c4ca1%252F1725420625874-logo.avif",
+  "url": "https://www.antler.co/portfolio/spoor-ai",
+  "api": "https://antler-api.github.io/companies/spoor-ai.json"
+}

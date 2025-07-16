@@ -1,0 +1,13 @@
+{
+  "id": "antler-earlytrade",
+  "name": "Earlytrade",
+  "slug": "earlytrade",
+  "website": "https://earlytrade.com/",
+  "description": "Working Capital Marketplace in APAC",
+  "founded_year": 2022,
+  "location": "Australia",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/68483655da7780f3e2d49d40_portfolio%252Fcompany%252F7f3bff47-1217-4301-a82a-0ecb7ce4242f%252F1749562956750-Earlytrade_Logo_Black_RGB-3.avif",
+  "url": "https://www.antler.co/portfolio/earlytrade",
+  "api": "https://antler-api.github.io/companies/earlytrade.json"
+}

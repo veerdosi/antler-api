@@ -1,0 +1,13 @@
+{
+  "id": "antler-monty",
+  "name": "Monty",
+  "slug": "monty",
+  "website": "https://monty-pro.com",
+  "description": "Full-stack sensor solutions to monitor, track and transform the physical world.",
+  "founded_year": 2024,
+  "location": "Australia",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/68761dcd659e1e14f4ca2fc1_portfolio%252Fcompany%252F6eb3d8af-b271-467a-a410-bc485d93685a%252F1752571286109-Email%2520Signatures%2520-%2520V21%2520(9).png",
+  "url": "https://www.antler.co/portfolio/monty",
+  "api": "https://antler-api.github.io/companies/monty.json"
+}

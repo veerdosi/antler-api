@@ -1,0 +1,13 @@
+{
+  "id": "antler-merx",
+  "name": "Merx",
+  "slug": "merx",
+  "website": "https://hellomerx.com/",
+  "description": "Merx provides conversational commerce AI-powered solutions to help D2C brands sell through messaging apps",
+  "founded_year": 2023,
+  "location": "Unknown",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66b44c039ea0dbbe3f4f1b37_H1qUWk_PcRfI9lZusFJNTAHo8RhSUr4YxT2edNZhMfs.avif",
+  "url": "https://www.antler.co/portfolio/merx",
+  "api": "https://antler-api.github.io/companies/merx.json"
+}

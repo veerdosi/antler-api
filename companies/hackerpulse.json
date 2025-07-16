@@ -1,0 +1,13 @@
+{
+  "id": "antler-hackerpulse",
+  "name": "HackerPulse",
+  "slug": "hackerpulse",
+  "website": "https://hackerpulse.xyz",
+  "description": "HackerPulse helps software engineers to showcase their skills using AI powered profiles. For companies, we provide a solution to a growing problem of talent filtering.",
+  "founded_year": 2024,
+  "location": "Unknown",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67b50c7e49929254d065a8c4_portfolio%252Fcompany%252F3ceb5c0d-fa7f-4092-9f96-71f1e632537f%252F1739918453037-portfolio_company_3ceb5c0d-fa7f-4092-9f96-71f1e632537f_1725606807403-logo.avif",
+  "url": "https://www.antler.co/portfolio/hackerpulse",
+  "api": "https://antler-api.github.io/companies/hackerpulse.json"
+}

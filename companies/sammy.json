@@ -1,0 +1,13 @@
+{
+  "id": "antler-sammy",
+  "name": "SAMMY",
+  "slug": "sammy",
+  "website": "https://sammy.club",
+  "description": "Generative canvas for productivity in relationship-driven roles",
+  "founded_year": 2024,
+  "location": "Unknown",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67b5b00b6f2feb1cc7817b12_teams%252F8bab2ec3-3db1-40d6-93c5-2aaf4ebf19ff%252Flogos%252FSammy%2520Logo.avif",
+  "url": "https://www.antler.co/portfolio/sammy",
+  "api": "https://antler-api.github.io/companies/sammy.json"
+}

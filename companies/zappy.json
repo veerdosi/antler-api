@@ -1,0 +1,13 @@
+{
+  "id": "antler-zappy",
+  "name": "Zappy",
+  "slug": "zappy",
+  "website": "https://agentzappy.com/",
+  "description": "Unified and affordable business communication tools for micro SMEs",
+  "founded_year": 2023,
+  "location": "Malaysia",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66b453dd16b554a922c864db_r3w5dkmkDTlENIbjGvSDtHV76g4ZlXBSPslmkae24Nc.avif",
+  "url": "https://www.antler.co/portfolio/zappy",
+  "api": "https://antler-api.github.io/companies/zappy.json"
+}

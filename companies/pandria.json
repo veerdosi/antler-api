@@ -1,0 +1,13 @@
+{
+  "id": "antler-pandria",
+  "name": "Pandria",
+  "slug": "pandria",
+  "website": "https://pandria.com/",
+  "description": "Pandria makes performance management easy and fair by taking the awkwardness out of continuous feedback",
+  "founded_year": 2023,
+  "location": "Netherlands",
+  "sector": "ConsumerTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67f433427aa344cb0ba2562c_portfolio%252Fcompany%252F12a92b0b-56b8-45a3-be44-72ce4dce4092%252F1725844289341-logo.avif",
+  "url": "https://www.antler.co/portfolio/pandria",
+  "api": "https://antler-api.github.io/companies/pandria.json"
+}

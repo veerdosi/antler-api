@@ -1,0 +1,13 @@
+{
+  "id": "antler-replyall",
+  "name": "ReplyAll",
+  "slug": "replyall",
+  "website": "https://replyall.in/",
+  "description": "ReplyAll is an apparel and lifestyle brand enabling a changing Urban India to live life on their terms.",
+  "founded_year": 2025,
+  "location": "India",
+  "sector": "ConsumerTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/6859b4adbd2835e2e05325d8_portfolio%252Fcompany%252Fa94ef549-7404-4411-9ccd-254f2afba37f%252F1750709382931-replyall_logo.jpeg",
+  "url": "https://www.antler.co/portfolio/replyall",
+  "api": "https://antler-api.github.io/companies/replyall.json"
+}

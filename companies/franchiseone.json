@@ -1,0 +1,13 @@
+{
+  "id": "antler-franchiseone",
+  "name": "FranchiseOne",
+  "slug": "franchiseone",
+  "website": "https://franchise.one",
+  "description": "All-in-one franchise enabler",
+  "founded_year": 2024,
+  "location": "Indonesia",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67b2d64c50aa46aaafd8dfc3_portfolio%252Fcompany%252Fb20c1dbd-b823-4ce2-a9f4-dca36b82defd%252F1725422036811-logo.avif",
+  "url": "https://www.antler.co/portfolio/franchiseone",
+  "api": "https://antler-api.github.io/companies/franchiseone.json"
+}

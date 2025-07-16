@@ -1,0 +1,13 @@
+{
+  "id": "antler-stephow-inc",
+  "name": "StepHow Inc.",
+  "slug": "stephow-inc",
+  "website": "https://stephow.me/",
+  "description": "AI-driven automation solutions for business manuals and processes",
+  "founded_year": 2023,
+  "location": "Korea",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/680087760208f2dba7960943_portfolio%252Fcompany%252Fdf601aeb-f088-4b38-a703-6bb56244aff5%252F1732869281253-%25EC%258A%25A4%25ED%2585%259D%25ED%2595%2598%25EC%259A%25B0%2520%25EB%25A1%259C%25EA%25B3%25A0_%25EA%25B0%2580%25EB%25A1%259C%25ED%2598%2595.avif",
+  "url": "https://www.antler.co/portfolio/stephow-inc",
+  "api": "https://antler-api.github.io/companies/stephow-inc.json"
+}

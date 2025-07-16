@@ -1,0 +1,13 @@
+{
+  "id": "antler-blink",
+  "name": "Blink",
+  "slug": "blink",
+  "website": "https://blink.co.id",
+  "description": "One-click checkout solution for multiple eCommerce sales channels",
+  "founded_year": 2022,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/658250c469891d5d19b52ec9_blink.png",
+  "url": "https://www.antler.co/portfolio/blink",
+  "api": "https://antler-api.github.io/companies/blink.json"
+}

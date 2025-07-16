@@ -1,0 +1,13 @@
+{
+  "id": "antler-drylabz",
+  "name": "DryLabz",
+  "slug": "drylabz",
+  "website": "https://www.drylabz.com/",
+  "description": "Turning unstructured health data into precision diagnostics so every patient gets the answers they need.",
+  "founded_year": 2024,
+  "location": "Germany",
+  "sector": "Health and BioTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/6842771ea4d1de08c3232378_portfolio%252Fcompany%252F6162a81b-a528-4e42-80e4-e0296b3ef038%252F1736936178635-DRYLABZ%2520Main%2520Logo%25202400x1800.avif",
+  "url": "https://www.antler.co/portfolio/drylabz",
+  "api": "https://antler-api.github.io/companies/drylabz.json"
+}

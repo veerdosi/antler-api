@@ -1,0 +1,13 @@
+{
+  "id": "antler-arus",
+  "name": "Arus",
+  "slug": "arus",
+  "website": "https://www.arus.aero/",
+  "description": "Transforming efficiency and safety at height with maintenance drones.",
+  "founded_year": 2024,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66b45331cd00697fc86ebcc5_eWJwJfzmipaBX1iTEvX1jQ45WRduD4BijCD3tiVXDEE.avif",
+  "url": "https://www.antler.co/portfolio/arus",
+  "api": "https://antler-api.github.io/companies/arus.json"
+}

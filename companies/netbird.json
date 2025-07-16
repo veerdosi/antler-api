@@ -1,0 +1,13 @@
+{
+  "id": "antler-netbird",
+  "name": "Netbird",
+  "slug": "netbird",
+  "website": "https://netbird.io",
+  "description": "netbird is a zero configuration VPN for fast-moving teams, building on Zerotrust technology.",
+  "founded_year": 2022,
+  "location": "Germany",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/682e2b3cf8f271b149920e66_portfolio%252Fcompany%252F491052af-497a-4e8f-afe8-1811ab204502%252F1725844236111-logo.avif",
+  "url": "https://www.antler.co/portfolio/netbird",
+  "api": "https://antler-api.github.io/companies/netbird.json"
+}

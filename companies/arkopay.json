@@ -1,0 +1,13 @@
+{
+  "id": "antler-arkopay",
+  "name": "ArkoPay",
+  "slug": "arkopay",
+  "website": "https://arkopay.com/",
+  "description": "One-stop financial solution for small-to-medium sized construction businesses in Indonesia",
+  "founded_year": 2023,
+  "location": "Indonesia",
+  "sector": "FinTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67ca87f4d014ce46d06fa559_portfolio%252Fcompany%252F88888a04-99d8-4aaf-a7f1-4c265d8d79cb%252F1725422039672-logo.avif",
+  "url": "https://www.antler.co/portfolio/arkopay",
+  "api": "https://antler-api.github.io/companies/arkopay.json"
+}

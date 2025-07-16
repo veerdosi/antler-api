@@ -1,0 +1,13 @@
+{
+  "id": "antler-nucanon",
+  "name": "Nucanon",
+  "slug": "nucanon",
+  "website": "https://www.stori.gg/",
+  "description": "Stori is an AI-enabled virtual world creator that lets you generate lore-consistent characters, places, and quests using a text description",
+  "founded_year": 2022,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67e4da70f21b2b7da80fba76_portfolio%252Fcompany%252F131deee9-2595-482b-8ced-81a99afba481%252F1743051372744-Z8DbGHw1QZAZyQ4ojKI7Jlrtjrs1714790453799_200x200.avif",
+  "url": "https://www.antler.co/portfolio/nucanon",
+  "api": "https://antler-api.github.io/companies/nucanon.json"
+}

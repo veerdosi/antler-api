@@ -1,0 +1,13 @@
+{
+  "id": "antler-boilr",
+  "name": "Boilr",
+  "slug": "boilr",
+  "website": "https://boilr.io",
+  "description": "Boilr is a portfolio company of Antler.",
+  "founded_year": 0,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66dc4dd70271492613196e54_Bi3iQjxnxuoTDZV2CVnAYpMP0p4nwIPXzmOPGamUqEE.avif",
+  "url": "https://www.antler.co/portfolio/boilr",
+  "api": "https://antler-api.github.io/companies/boilr.json"
+}

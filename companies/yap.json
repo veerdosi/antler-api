@@ -1,0 +1,13 @@
+{
+  "id": "antler-yap",
+  "name": "Yap",
+  "slug": "yap",
+  "website": "https://www.yap.co.jp/",
+  "description": "We're a team of experts dedicated to helping pharmaceutical companies successfully enter and thrive in the Japanese market / 私たちは、海外製薬会社の日本市場参入を様々な形でサポートをするプロフェッショナル集団です。",
+  "founded_year": 2023,
+  "location": "Japan",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67ddec5322ac4a6d90fc3af6_portfolio%252Fcompany%252Ffc7b7997-1468-4073-bcf9-e7820d9b5209%252F1732060117801-logo.avif",
+  "url": "https://www.antler.co/portfolio/yap",
+  "api": "https://antler-api.github.io/companies/yap.json"
+}

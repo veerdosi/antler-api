@@ -1,0 +1,13 @@
+{
+  "id": "antler-acanthis",
+  "name": "Acanthis",
+  "slug": "acanthis",
+  "website": "https://acanthis.io",
+  "description": "Acanthis is an integrated SaaS web application that provides SMBs with the insights and advice that they need in a way that they can understand.",
+  "founded_year": 2022,
+  "location": "Australia",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67ddf9efa18658c0950cbf18_portfolio%252Fcompany%252Ff4df55e4-b3d0-4ea2-a2ad-4d429d5b372f%252F1742600676245-acanthis.avif",
+  "url": "https://www.antler.co/portfolio/acanthis",
+  "api": "https://antler-api.github.io/companies/acanthis.json"
+}

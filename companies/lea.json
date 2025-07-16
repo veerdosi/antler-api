@@ -1,0 +1,13 @@
+{
+  "id": "antler-lea",
+  "name": "Lea",
+  "slug": "lea",
+  "website": "https://www.yourlea.io/",
+  "description": "Personalized learning experiences that are impactful for life-long learners, everywhere.",
+  "founded_year": 2023,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66b452b3af9f2927f3ed273c_1c8pQhtV9XVRX8k0EecSmvFHSvBE-iXc2bXmG4jndAI.avif",
+  "url": "https://www.antler.co/portfolio/lea",
+  "api": "https://antler-api.github.io/companies/lea.json"
+}

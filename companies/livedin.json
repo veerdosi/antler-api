@@ -1,0 +1,13 @@
+{
+  "id": "antler-livedin",
+  "name": "LivedIn",
+  "slug": "livedin",
+  "website": "https://livedin.co/",
+  "description": "Livedin is an AI-powered operating system for managing and scaling short-term rental properties.",
+  "founded_year": 2024,
+  "location": "Saudi Arabia",
+  "sector": "Real Estate and PropTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/685cfd93395ad6d283a13de1_portfolio%252Fcompany%252F4b72e592-a364-4ada-a14b-705bf078e34e%252F1750924681235-Color_Livedin.png",
+  "url": "https://www.antler.co/portfolio/livedin",
+  "api": "https://antler-api.github.io/companies/livedin.json"
+}

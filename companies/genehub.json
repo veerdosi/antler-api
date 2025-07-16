@@ -1,0 +1,13 @@
+{
+  "id": "antler-genehub",
+  "name": "Genehub",
+  "slug": "genehub",
+  "website": "https://www.genehub.co.uk/",
+  "description": "GeneHub transforms rare disease patient cohorts into research-ready databanks, all controlled by patients!",
+  "founded_year": 2022,
+  "location": "Unknown",
+  "sector": "Health and BioTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67d85cb357ba08d9b7bfec0a_portfolio%252Fcompany%252F709382da-fb14-4740-8cb0-c414536a3cb4%252F1725421590864-logo.avif",
+  "url": "https://www.antler.co/portfolio/genehub",
+  "api": "https://antler-api.github.io/companies/genehub.json"
+}

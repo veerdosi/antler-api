@@ -1,0 +1,13 @@
+{
+  "id": "antler-newell-road",
+  "name": "Newell Road",
+  "slug": "newell-road",
+  "website": "https://www.newellroad.com/",
+  "description": "AI insights for Strategy & Product teams – automating research, benchmarking, and GTM decisions",
+  "founded_year": 2024,
+  "location": "Malaysia",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67edf0e3a989fa4ee383ffec_portfolio%252Fcompany%252Fd618b77b-c802-4b4d-831f-459ca276d678%252F1743646809914-Brand%2520v4.svg",
+  "url": "https://www.antler.co/portfolio/newell-road",
+  "api": "https://antler-api.github.io/companies/newell-road.json"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "antler-plaace",
+  "name": "Plaace",
+  "slug": "plaace",
+  "website": "https://plaace.co",
+  "description": "Retail property tenant matching & insights platform",
+  "founded_year": 2020,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66b453d27c17d73572114bc1_-4NKy7UU7YgHt08SRXlYmufhGYRuzLFEwT2kF-OZ0zE.avif",
+  "url": "https://www.antler.co/portfolio/plaace",
+  "api": "https://antler-api.github.io/companies/plaace.json"
+}

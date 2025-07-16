@@ -1,0 +1,13 @@
+{
+  "id": "antler-cricinshots",
+  "name": "Cricinshots",
+  "slug": "cricinshots",
+  "website": "https://go.cricinshots.com/",
+  "description": "Cricinshots is a futuristic mobile cricket game set in the 30th century. Players traverse the universe, build intergalactic teams, and compete in strategic cricket gameplay within a Type 3 Kardashev civilization.",
+  "founded_year": 2022,
+  "location": "India",
+  "sector": "ConsumerTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/6857d7d686520e2a8a011949_portfolio%252Fcompany%252F55ad94c3-ff58-4979-9347-448dcdf8d93e%252F1750587338132-cricketclash_logo.jpeg",
+  "url": "https://www.antler.co/portfolio/cricinshots",
+  "api": "https://antler-api.github.io/companies/cricinshots.json"
+}

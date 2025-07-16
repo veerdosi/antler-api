@@ -1,0 +1,13 @@
+{
+  "id": "antler-casu",
+  "name": "Casu",
+  "slug": "casu",
+  "website": "https://www.casu.com.au",
+  "description": "We connect casual labourers with employers, enabling on-demand flexible work and workers at your fingertips!",
+  "founded_year": 2022,
+  "location": "Australia",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66dfffc6506bab030d5db257_portfolio%252Fcompany%252Fb0596837-a2e2-410d-861f-13b00431cb30%252F1725955889274-Casu_Logo_H_LightGreen.avif",
+  "url": "https://www.antler.co/portfolio/casu",
+  "api": "https://antler-api.github.io/companies/casu.json"
+}

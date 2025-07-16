@@ -1,0 +1,13 @@
+{
+  "id": "antler-posthuman",
+  "name": "Posthuman",
+  "slug": "posthuman",
+  "website": "https://www.weareposthuman.com/",
+  "description": "Posthuman is building a new category of autonomous intelligence — where goals become living systems that think, adapt, and act in real time, powered by structure, not stored knowledge",
+  "founded_year": 2025,
+  "location": "Norway",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/685941c32211a02909039234_teams%252Fcf1cb915-dc46-4e61-95a2-4212bb5b2507%252Flogos%252FCleanShot%25202025-06-20%2520at%252014.33.25.png",
+  "url": "https://www.antler.co/portfolio/posthuman",
+  "api": "https://antler-api.github.io/companies/posthuman.json"
+}

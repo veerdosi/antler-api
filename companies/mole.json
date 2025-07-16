@@ -1,0 +1,13 @@
+{
+  "id": "antler-mole",
+  "name": "Mole",
+  "slug": "mole",
+  "website": "https://mole.is/",
+  "description": "Mole is your networking superpower to take control of follow-ups and contact management—all from one place.",
+  "founded_year": 2023,
+  "location": "Vietnam",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67f885262b3500aa110f0228_portfolio%252Fcompany%252Fa1157b44-1e9c-4b46-9913-1ac624f22b18%252F1744340250198-Mole%2520Colour%2520Horizontal%2520Logo.avif",
+  "url": "https://www.antler.co/portfolio/mole",
+  "api": "https://antler-api.github.io/companies/mole.json"
+}

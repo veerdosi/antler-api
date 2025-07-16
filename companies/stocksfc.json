@@ -1,0 +1,13 @@
+{
+  "id": "antler-stocksfc",
+  "name": "StocksFC",
+  "slug": "stocksfc",
+  "website": "https://stocksfc.com/",
+  "description": "The Football Stock Market.",
+  "founded_year": 2023,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66e84a9e8ad7816fb40989ca_portfolio%252Fcompany%252Fa1c4629b-3c00-4cb0-89d9-714a2e93a36e%252F1725844266441-logo.avif",
+  "url": "https://www.antler.co/portfolio/stocksfc",
+  "api": "https://antler-api.github.io/companies/stocksfc.json"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "antler-groupr",
+  "name": "Groupr",
+  "slug": "groupr",
+  "website": "https://www.groupr.co/",
+  "description": "Predictive bulk delivery platform providing affordable necessities to low-income households spending $130B annually.",
+  "founded_year": 2024,
+  "location": "Unknown",
+  "sector": "ConsumerTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67aaa7b7b54ab706f9bec4d2_portfolio%252Fcompany%252F685765d6-3235-45d3-9cf8-e8112441aa3f%252F1739237262496-Logo%2520white%2520bg.avif",
+  "url": "https://www.antler.co/portfolio/groupr",
+  "api": "https://antler-api.github.io/companies/groupr.json"
+}

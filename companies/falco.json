@@ -1,0 +1,13 @@
+{
+  "id": "antler-falco",
+  "name": "Falco",
+  "slug": "falco",
+  "website": "https://www.falco.co/",
+  "description": "Enabling financial services firms to identify and analyse regulatory changes, efficiently.",
+  "founded_year": 2023,
+  "location": "Unknown",
+  "sector": "FinTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66b4534c2d2cb98add1e8c66_Kshv2mTtB_8aC8zcQenkDePTQiiDAx5LAlhcfamFoR8.avif",
+  "url": "https://www.antler.co/portfolio/falco",
+  "api": "https://antler-api.github.io/companies/falco.json"
+}

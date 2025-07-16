@@ -1,0 +1,13 @@
+{
+  "id": "antler-skoog",
+  "name": "Skoog",
+  "slug": "skoog",
+  "website": "https://skoog.earth",
+  "description": "Using remote sensing and AI to supply forest-based carbon credits at scale",
+  "founded_year": 2022,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66b448c7e2c055cb044e9782_pAN3lg2XME6qT3WBhY18kht8Qyxm5ErlQmRoXk_vhLA.avif",
+  "url": "https://www.antler.co/portfolio/skoog",
+  "api": "https://antler-api.github.io/companies/skoog.json"
+}

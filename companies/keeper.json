@@ -1,0 +1,13 @@
+{
+  "id": "antler-keeper",
+  "name": "Keeper",
+  "slug": "keeper",
+  "website": "https://www.keeper.co.in/",
+  "description": "Building a personal loan product suite using paid leaves as the underlying digital asset for salaried employees",
+  "founded_year": 2025,
+  "location": "India",
+  "sector": "FinTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/685be5faf141cb92dafac47c_portfolio%252Fcompany%252F9da0375c-86de-4af7-b441-955fb1e84109%252F1750853071663-1684500256141.jpeg",
+  "url": "https://www.antler.co/portfolio/keeper",
+  "api": "https://antler-api.github.io/companies/keeper.json"
+}

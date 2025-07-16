@@ -1,0 +1,13 @@
+{
+  "id": "antler-thruline",
+  "name": "Thruline",
+  "slug": "thruline",
+  "website": "https://redshift-app.com/",
+  "description": "Redshift is the personalized ERP to take your company from R&D to IPO.",
+  "founded_year": 2024,
+  "location": "Unknown",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67f85cbcd0c6ef1ed1d5e7f7_portfolio%252Fcompany%252F213ad90f-81e7-40a3-a0ba-9f9b286fa6b6%252F1744329905076-thruline.avif",
+  "url": "https://www.antler.co/portfolio/thruline",
+  "api": "https://antler-api.github.io/companies/thruline.json"
+}

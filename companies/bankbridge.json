@@ -1,0 +1,13 @@
+{
+  "id": "antler-bankbridge",
+  "name": "BankBridge",
+  "slug": "bankbridge",
+  "website": "https://bankbridge.uk",
+  "description": "Bridging the due diligence gap between financial institutions",
+  "founded_year": 2023,
+  "location": "Unknown",
+  "sector": "FinTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66b44c05f5b27c8981bc3e4d_1eWGRKNMJ4-VoMw5eKP9NEFjUWWVZZgMliu0ALu9Pcw.avif",
+  "url": "https://www.antler.co/portfolio/bankbridge",
+  "api": "https://antler-api.github.io/companies/bankbridge.json"
+}

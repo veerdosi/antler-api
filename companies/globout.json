@@ -1,0 +1,13 @@
+{
+  "id": "antler-globout",
+  "name": "Globout",
+  "slug": "globout",
+  "website": "https://www.globout.app/",
+  "description": "Globout is a portfolio company of Antler.",
+  "founded_year": 2024,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/674e4a42f9339aeaa017bea5_jDZXIHnVZTK9CSRHadUO7hryoj782vWYVtU4BWQbNXs.avif",
+  "url": "https://www.antler.co/portfolio/globout",
+  "api": "https://antler-api.github.io/companies/globout.json"
+}

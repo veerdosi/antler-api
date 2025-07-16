@@ -1,0 +1,13 @@
+{
+  "id": "antler-supafaya",
+  "name": "Supafaya",
+  "slug": "supafaya",
+  "website": "https://www.supafaya.com/",
+  "description": "Supafaya is a portfolio company of Antler.",
+  "founded_year": 2024,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67658017d0a67a32552aed7b_teams%252Ff12ff735-aa09-41d6-bee0-21daaf34e47d%252Flogos%252FONE%2520M.avif",
+  "url": "https://www.antler.co/portfolio/supafaya",
+  "api": "https://antler-api.github.io/companies/supafaya.json"
+}

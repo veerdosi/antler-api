@@ -1,0 +1,13 @@
+{
+  "id": "antler-kenko",
+  "name": "Kenko",
+  "slug": "kenko",
+  "website": "https://www.bookeeapp.com/",
+  "description": "AI-powered platform that automates operations, marketing, and sales for fitness studios.",
+  "founded_year": 2022,
+  "location": "India",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67f8f73ef507c8e40438f186_portfolio%252Fcompany%252F35db750a-4766-44ac-b206-e48cc9da8c0f%252F1744369454874-Bookee.avif",
+  "url": "https://www.antler.co/portfolio/kenko",
+  "api": "https://antler-api.github.io/companies/kenko.json"
+}

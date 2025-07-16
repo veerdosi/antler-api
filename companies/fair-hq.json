@@ -1,0 +1,13 @@
+{
+  "id": "antler-fair-hq",
+  "name": "Fair HQ",
+  "slug": "fair-hq",
+  "website": "https://fairhq.co/",
+  "description": "The DEI tech platform for fast-growing companies, powered by evidence, data & behavioural science.",
+  "founded_year": 2021,
+  "location": "Unknown",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67d85dc56ce1c13f43d90e29_portfolio%252Fcompany%252F7d5fc85c-4b63-4152-8816-06357517260d%252F1725421632813-logo.avif",
+  "url": "https://www.antler.co/portfolio/fair-hq",
+  "api": "https://antler-api.github.io/companies/fair-hq.json"
+}

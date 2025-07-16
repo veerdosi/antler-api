@@ -1,0 +1,13 @@
+{
+  "id": "antler-alea-health",
+  "name": "Alea Health",
+  "slug": "alea-health",
+  "website": "https://aleahealth.co/",
+  "description": "AI-assisted virtual mental health clinic, leveraging deep-learning, predictive analytics and large language models to provide advanced intake matching with the best therapist, measure care progress throughout therapy, and support clients between sessions and beyond therapy",
+  "founded_year": 2024,
+  "location": "United Arab Emirates",
+  "sector": "Health and BioTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67dfd242e333db482350eaf9_portfolio%252Fcompany%252F21c108a5-dca7-48ec-96ce-c44e1cc902d0%252F1729847459133-Screenshot_2024-10-25_at_1.10.23_PM-removebg-preview.avif",
+  "url": "https://www.antler.co/portfolio/alea-health",
+  "api": "https://antler-api.github.io/companies/alea-health.json"
+}

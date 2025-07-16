@@ -1,0 +1,13 @@
+{
+  "id": "antler-arki",
+  "name": "ARKI",
+  "slug": "arki",
+  "website": "https://www.getarki.com/",
+  "description": "AI search for construction to leverage internal data for automating future work",
+  "founded_year": 2023,
+  "location": "Canada",
+  "sector": "Real Estate and PropTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67c5f977105a8503c76a9ab1_portfolio%252Fcompany%252Fbe795252-2841-4f4d-a8cc-69a081550f5c%252F1736088191667-ARKI-Square-Framed-White.avif",
+  "url": "https://www.antler.co/portfolio/arki",
+  "api": "https://antler-api.github.io/companies/arki.json"
+}

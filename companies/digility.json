@@ -1,0 +1,13 @@
+{
+  "id": "antler-digility",
+  "name": "Digility",
+  "slug": "digility",
+  "website": "https://www.pricebase.se/",
+  "description": "Pricing optimization solution for SME manufacturers",
+  "founded_year": 2024,
+  "location": "Sweden",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67e195b00026492b6198f27c_portfolio%252Fcompany%252F98706bd9-0fb4-4a7e-8b7a-41e019772fc9%252F1742837145853-Screenshot%25202025-03-24%2520at%252018.25.37.avif",
+  "url": "https://www.antler.co/portfolio/digility",
+  "api": "https://antler-api.github.io/companies/digility.json"
+}

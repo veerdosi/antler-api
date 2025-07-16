@@ -1,0 +1,13 @@
+{
+  "id": "antler-homebase",
+  "name": "Homebase",
+  "slug": "homebase",
+  "website": "https://www.homebase.com.vn/",
+  "description": "Homebase's vision is to actualize each and every individual's dream of homeownership in Southeast Asia",
+  "founded_year": 2019,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66b45325749041dbb9532e90_PIezUQXBGjFg7jH2c3kQ1JJGw653pwlC0KCFMTH5Yyc.avif",
+  "url": "https://www.antler.co/portfolio/homebase",
+  "api": "https://antler-api.github.io/companies/homebase.json"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "antler-sova-health",
+  "name": "Sova Health",
+  "slug": "sova-health",
+  "website": "https://www.sova.health/",
+  "description": "Gut Health Company offering microbiome based testing, coaching and supplements",
+  "founded_year": 2023,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66b44a473cc1a38e893d94a2_KrzIs9eHxLvxtkToGK_PAiMU-4iwBqtyEtRDrBfhS5c.avif",
+  "url": "https://www.antler.co/portfolio/sova-health",
+  "api": "https://antler-api.github.io/companies/sova-health.json"
+}

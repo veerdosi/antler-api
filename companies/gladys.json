@@ -1,0 +1,13 @@
+{
+  "id": "antler-gladys",
+  "name": "Gladys",
+  "slug": "gladys",
+  "website": "https://www.gladys.care/",
+  "description": "Solving the Care Crisis",
+  "founded_year": 2023,
+  "location": "Unknown",
+  "sector": "Health and BioTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66b449cfba053280f92b0244_KxmzUGqlJjbI6ARYk614ZqjjpxgsJjJgQjTCOyh5twU.svg",
+  "url": "https://www.antler.co/portfolio/gladys",
+  "api": "https://antler-api.github.io/companies/gladys.json"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "antler-bootloader",
+  "name": "Bootloader",
+  "slug": "bootloader",
+  "website": "https://bootloader.studio",
+  "description": "Mixed reality game studio utilising AI and emotional intelligence.",
+  "founded_year": 2023,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66b4494e34c408d31c9ae9f6_pMeKEgpkmLrc1AoK0Rm6g9STYPu6cJOv6SLvFSARL5E.avif",
+  "url": "https://www.antler.co/portfolio/bootloader",
+  "api": "https://antler-api.github.io/companies/bootloader.json"
+}

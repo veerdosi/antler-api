@@ -1,0 +1,13 @@
+{
+  "id": "antler-raspberry-circle",
+  "name": "Raspberry Circle",
+  "slug": "raspberry-circle",
+  "website": "https://www.raspberrycircle.com/",
+  "description": "Raspberry Circle (previously Blueheart) is an app studio that creates and owns apps in the health & wellness space. Our aim is to scale horizontally across multiple areas within health through releasing and managing multiple consumer apps and doubling down on the outlier performers.",
+  "founded_year": 2019,
+  "location": "Unknown",
+  "sector": "Health and BioTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67d86085f4a4deb3251a95f0_portfolio%252Fcompany%252Fb799c9d4-2fa4-4503-9a84-00a96e016dab%252F1725421683395-logo.avif",
+  "url": "https://www.antler.co/portfolio/raspberry-circle",
+  "api": "https://antler-api.github.io/companies/raspberry-circle.json"
+}

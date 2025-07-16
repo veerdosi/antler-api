@@ -1,0 +1,13 @@
+{
+  "id": "antler-messengerco",
+  "name": "MessengerCo",
+  "slug": "messengerco",
+  "website": "https://messengerco.ai/",
+  "description": "One-stop corporate gifting platform designed to optimise B2B gifting across regions",
+  "founded_year": 2023,
+  "location": "Malaysia",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66b44a6adc415da467d2698a_IGp7HvXvnp7oKS6r7GvXK9qgxsVO5VESoOmCJwussbI.avif",
+  "url": "https://www.antler.co/portfolio/messengerco",
+  "api": "https://antler-api.github.io/companies/messengerco.json"
+}

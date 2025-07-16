@@ -1,0 +1,13 @@
+{
+  "id": "antler-twirl",
+  "name": "Twirl",
+  "slug": "twirl",
+  "website": "https://www.usetwirl.com/",
+  "description": "Twirl is a platform helping brands produce videos and images through content creators!",
+  "founded_year": 2022,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67d80e4df2859dd9b80455ca_portfolio%252Fcompany%252F02520045-a25a-444c-b97c-69a491883aec%252F1725421675223-logo.avif",
+  "url": "https://www.antler.co/portfolio/twirl",
+  "api": "https://antler-api.github.io/companies/twirl.json"
+}

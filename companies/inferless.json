@@ -1,0 +1,13 @@
+{
+  "id": "antler-inferless",
+  "name": "Inferless",
+  "slug": "inferless",
+  "website": "https://www.inferless.com/",
+  "description": "A serverless GPU inference platform that enables rapid, scalable deployment of machine learning models without infrastructure management.",
+  "founded_year": 2021,
+  "location": "Unknown",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/680feaceda86dd4fcca78ca9_portfolio%252Fcompany%252F9c3f4ce5-e854-4864-a72e-cbcf99f97fd0%252F1744371507403-Inferless.avif",
+  "url": "https://www.antler.co/portfolio/inferless",
+  "api": "https://antler-api.github.io/companies/inferless.json"
+}

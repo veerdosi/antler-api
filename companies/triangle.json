@@ -1,0 +1,13 @@
+{
+  "id": "antler-triangle",
+  "name": "Triangle",
+  "slug": "triangle",
+  "website": "https://trianglehealth.com/",
+  "description": "Unlocking emerging treatments for major medical conditions.",
+  "founded_year": 2025,
+  "location": "Unknown",
+  "sector": "Health and BioTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67a9daf5544c75182fae5fe5_teams%252F83c5fe49-4f8a-46a6-81b4-5eb4f8c94d30%252Flogos%252Ftriangle-logo-icon-still-large.avif",
+  "url": "https://www.antler.co/portfolio/triangle",
+  "api": "https://antler-api.github.io/companies/triangle.json"
+}

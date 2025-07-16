@@ -1,0 +1,13 @@
+{
+  "id": "antler-noxus",
+  "name": "Noxus",
+  "slug": "noxus",
+  "website": "https://www.noxus.ai/",
+  "description": "Noxus - One platform, all things Enterprise AI",
+  "founded_year": 2023,
+  "location": "Unknown",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67f449b39e22f5dee1426e7f_portfolio%252Fcompany%252F329d34b7-bb95-4ea5-a205-01af5ad41242%252F1736843766513-Noxus_logo.svg",
+  "url": "https://www.antler.co/portfolio/noxus",
+  "api": "https://antler-api.github.io/companies/noxus.json"
+}

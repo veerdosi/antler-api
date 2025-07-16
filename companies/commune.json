@@ -1,0 +1,13 @@
+{
+  "id": "antler-commune",
+  "name": "Commune",
+  "slug": "commune",
+  "website": "https://www.commune.cx/",
+  "description": "Commune helps great products and services succeed by automating customer interactions",
+  "founded_year": 2023,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66b44c12772167d03c067ea1_KOI_kG5GDrHeU-TXG0ewikEnvptXy4u-iaBlpz9CwvM.avif",
+  "url": "https://www.antler.co/portfolio/commune",
+  "api": "https://antler-api.github.io/companies/commune.json"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "antler-quest",
+  "name": "Quest",
+  "slug": "quest",
+  "website": "https://quest-inc.co/",
+  "description": "Quest is a request-based peer-to-peer platform where users can get assistance conveniently and quickly",
+  "founded_year": 2021,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66b44a95a5bb54a0d3831ef9__gekfQcrZ0CCYPmWja3wvUt4P2PnhsfNdjTJyq6dg_w.avif",
+  "url": "https://www.antler.co/portfolio/quest",
+  "api": "https://antler-api.github.io/companies/quest.json"
+}

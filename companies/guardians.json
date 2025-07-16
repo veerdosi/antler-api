@@ -1,0 +1,13 @@
+{
+  "id": "antler-guardians",
+  "name": "Guardians",
+  "slug": "guardians",
+  "website": "https://www.guardians.life/",
+  "description": "Instant medical care. Delivered. Get medical help within seconds. Join India's fastest medical emergency network.",
+  "founded_year": 2022,
+  "location": "India",
+  "sector": "Health and BioTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/6857e4fcef5a616552c2d052_portfolio%252Fcompany%252Fc4a423da-b44f-4211-a334-01bd9f592463%252F1750590699265-guardiansems_logo.jpeg",
+  "url": "https://www.antler.co/portfolio/guardians",
+  "api": "https://antler-api.github.io/companies/guardians.json"
+}

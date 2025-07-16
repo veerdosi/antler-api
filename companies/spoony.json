@@ -1,0 +1,13 @@
+{
+  "id": "antler-spoony",
+  "name": "Spoony",
+  "slug": "spoony",
+  "website": "https://spoony.app",
+  "description": "Spoony is safe space for neurodivergent, chronically ill & disabled people to make friends and find support",
+  "founded_year": 2024,
+  "location": "Australia",
+  "sector": "ConsumerTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67d95c5868e308838e4bcf29_portfolio%252Fcompany%252Ffd21593b-32c5-4346-b9a6-4205afed0f94%252F1738136612296-App-Icon-1024x1024.avif",
+  "url": "https://www.antler.co/portfolio/spoony",
+  "api": "https://antler-api.github.io/companies/spoony.json"
+}

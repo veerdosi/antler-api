@@ -1,0 +1,13 @@
+{
+  "id": "antler-beemi",
+  "name": "Beemi",
+  "slug": "beemi",
+  "website": "https://beemi.app/",
+  "description": "Beemi revolutionizes live streaming on social media by empowering creators with simple, engaging, interactive games, enhancing both streamer income and audience enjoyment",
+  "founded_year": 2023,
+  "location": "Kenya",
+  "sector": "ConsumerTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67c17c70f02df3612b5c5131_portfolio%252Fcompany%252Ff2c4d2b7-0b58-4dbf-a6d1-d459eb20ce9b%252F1740733280073-download%2520(1).avif",
+  "url": "https://www.antler.co/portfolio/beemi",
+  "api": "https://antler-api.github.io/companies/beemi.json"
+}

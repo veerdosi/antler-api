@@ -1,0 +1,13 @@
+{
+  "id": "antler-unsuit",
+  "name": "Unsuit",
+  "slug": "unsuit",
+  "website": "https://www.unsuit.io/",
+  "description": "Operating System for lawyers with 30 tools across diligence, compliance and litigation (AI-Legal Tech)",
+  "founded_year": 2024,
+  "location": "India",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67f3c0fbe6a54b45764ed485_portfolio%252Fcompany%252F0d9619b2-951e-4b74-9924-e4db4e815d74%252F1744027873987-Screenshot%25202025-04-07%2520at%25205.41.00%25E2%2580%25AFPM.avif",
+  "url": "https://www.antler.co/portfolio/unsuit",
+  "api": "https://antler-api.github.io/companies/unsuit.json"
+}

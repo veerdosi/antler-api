@@ -1,0 +1,13 @@
+{
+  "id": "antler-onstoq",
+  "name": "OnStoq",
+  "slug": "onstoq",
+  "website": "https://www.onstoq.com/",
+  "description": "Marketplace connecting professionals to technical material vendors through a functional interface that streamlines discovery.",
+  "founded_year": 2024,
+  "location": "Brazil",
+  "sector": "ConsumerTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/680aae6a183a228e96ed8dbc_portfolio%252Fcompany%252Fe467f0ce-0c93-4eaa-8e60-3c525cd07d6c%252F1745530463082-logo-new-orange.1ea4d4a3.avif",
+  "url": "https://www.antler.co/portfolio/onstoq",
+  "api": "https://antler-api.github.io/companies/onstoq.json"
+}

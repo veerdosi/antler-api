@@ -1,0 +1,13 @@
+{
+  "id": "antler-future-cow",
+  "name": "Future Cow",
+  "slug": "future-cow",
+  "website": "https://www.futurecow.com.br/",
+  "description": "Future Cow Technologies is a food-tech startup developing an innovative technology that produces real milk without cows, using precision fermentation.",
+  "founded_year": 2023,
+  "location": "Brazil",
+  "sector": "Health and BioTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/680960034cbb2aa547b116b0_portfolio%252Fcompany%252Fa0311687-fc8c-4f20-aab4-d10d0cb5d59a%252F1730917257904-LOGO-FUTURE-COW-PNG.avif",
+  "url": "https://www.antler.co/portfolio/future-cow",
+  "api": "https://antler-api.github.io/companies/future-cow.json"
+}

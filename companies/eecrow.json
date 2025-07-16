@@ -1,0 +1,13 @@
+{
+  "id": "antler-eecrow",
+  "name": "eecrow",
+  "slug": "eecrow",
+  "website": "https://www.eecrow.com",
+  "description": "eecrow is a digital escrow platform simplifying contracts and securing timely payments for freelancers and SMEs in the MENA region",
+  "founded_year": 2024,
+  "location": "United Arab Emirates",
+  "sector": "FinTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67dfb13806fcbc24ca9bfbbb_portfolio%252Fcompany%252F29941850-ce7f-454a-a9e4-a8a07560f11b%252F1732782666100-eecrow-logo.avif",
+  "url": "https://www.antler.co/portfolio/eecrow",
+  "api": "https://antler-api.github.io/companies/eecrow.json"
+}

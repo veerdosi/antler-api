@@ -1,0 +1,13 @@
+{
+  "id": "antler-finna",
+  "name": "Finna",
+  "slug": "finna",
+  "website": "https://www.finna.club",
+  "description": "All-in-one platform for solopreneurs to acquire clients, automate proposals and manage payments.",
+  "founded_year": 2023,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66b44ac043511c96514944d9_GxzH5WVZ1Xmd4ygnBvkb7a_RFE0_RGL0hKoPEP1lc44.avif",
+  "url": "https://www.antler.co/portfolio/finna",
+  "api": "https://antler-api.github.io/companies/finna.json"
+}

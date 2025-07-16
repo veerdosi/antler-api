@@ -1,0 +1,13 @@
+{
+  "id": "antler-icx",
+  "name": "Icx",
+  "slug": "icx",
+  "website": "https://icx.efrontcloud.com/antler",
+  "description": "Icx is a portfolio company of Antler.",
+  "founded_year": 0,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "",
+  "url": "https://www.antler.co/portfolio/icx",
+  "api": "https://antler-api.github.io/companies/icx.json"
+}

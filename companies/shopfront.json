@@ -1,0 +1,13 @@
+{
+  "id": "antler-shopfront",
+  "name": "Shopfront",
+  "slug": "shopfront",
+  "website": "https://www.shopfrontapp.co",
+  "description": "A single entry point to every marketplace ⚡️",
+  "founded_year": 2024,
+  "location": "Australia",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66da8d011b1ddf51acf36dac_portfolio%252Fcompany%252F63651fe7-f035-43d2-9762-ad7f826e5b89%252F1725598875245-Circle_Profile_Temp%2520(1).avif",
+  "url": "https://www.antler.co/portfolio/shopfront",
+  "api": "https://antler-api.github.io/companies/shopfront.json"
+}

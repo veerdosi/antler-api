@@ -1,0 +1,13 @@
+{
+  "id": "antler-visito",
+  "name": "Visito",
+  "slug": "visito",
+  "website": "https://www.visitoai.com/en",
+  "description": "AI receptionist for local businesses.",
+  "founded_year": 2024,
+  "location": "Unknown",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67f5d214775cee8071466074_portfolio%252Fcompany%252F5ec0b465-ecb1-44c0-9a08-974776fc5ac2%252F1744163216355-visito.avif",
+  "url": "https://www.antler.co/portfolio/visito",
+  "api": "https://antler-api.github.io/companies/visito.json"
+}

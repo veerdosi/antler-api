@@ -1,0 +1,13 @@
+{
+  "id": "antler-surplusloop",
+  "name": "SurplusLoop",
+  "slug": "surplusloop",
+  "website": "https://surplusloop.com/",
+  "description": "SurplusLoop is a Malaysia-based AI-powered B2B platform that autonomously manages industrial surplus - from identifying idle assets, to orchestrating seamless disposal, to delivering real-time sustainability reporting.",
+  "founded_year": 2024,
+  "location": "Malaysia",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/686ce3e6b700d48b14d04682_portfolio%252Fcompany%252Faacaa739-6b29-48c8-b9b8-f7a4910f20b6%252F1725422559010-logo.png",
+  "url": "https://www.antler.co/portfolio/surplusloop",
+  "api": "https://antler-api.github.io/companies/surplusloop.json"
+}

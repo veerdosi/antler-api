@@ -1,0 +1,13 @@
+{
+  "id": "antler-aiden",
+  "name": "Aiden",
+  "slug": "aiden",
+  "website": "https://getaiden.com",
+  "description": "AI-Assistant for Residential Property Management.",
+  "founded_year": 2024,
+  "location": "Germany",
+  "sector": "Real Estate and PropTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67b60e9cd66c0bddad2ac6fa_portfolio%252Fcompany%252Ff9b888b4-c274-49fd-8537-54343855c37e%252F1739373779936-Aiden%2520-%2520Linkedin%2520profile%2520picture%2520(1).avif",
+  "url": "https://www.antler.co/portfolio/aiden",
+  "api": "https://antler-api.github.io/companies/aiden.json"
+}

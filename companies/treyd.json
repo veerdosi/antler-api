@@ -1,0 +1,13 @@
+{
+  "id": "antler-treyd",
+  "name": "Treyd",
+  "slug": "treyd",
+  "website": "https://treyd.io",
+  "description": "Working capital operating system for B2B",
+  "founded_year": 2020,
+  "location": "Sweden",
+  "sector": "FinTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/68514f656a16b70198cfd84a_portfolio%252Fcompany%252F9c75a2fb-7943-4e20-a2cb-390f3e319de8%252F1750159191509-Logo_Black-1.png",
+  "url": "https://www.antler.co/portfolio/treyd",
+  "api": "https://antler-api.github.io/companies/treyd.json"
+}

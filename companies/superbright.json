@@ -1,0 +1,13 @@
+{
+  "id": "antler-superbright",
+  "name": "Superbright",
+  "slug": "superbright",
+  "website": "https://superbright.ai/",
+  "description": "Superbright is the world’s first AI employee for residential property management, automating everything property managers do from behind a desk—doing in minutes what usually takes days.",
+  "founded_year": 2024,
+  "location": "Canada",
+  "sector": "Real Estate and PropTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67b092b5b53261e0950015e4_portfolio%252Fcompany%252Fa5d7175f-f1cc-4b8d-b99f-4946c4d69679%252F1737468451862-sb-favicon.avif",
+  "url": "https://www.antler.co/portfolio/superbright",
+  "api": "https://antler-api.github.io/companies/superbright.json"
+}

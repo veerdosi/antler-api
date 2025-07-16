@@ -1,0 +1,13 @@
+{
+  "id": "antler-qeeper",
+  "name": "Qeeper",
+  "slug": "qeeper",
+  "website": "https://www.qeeper.co.uk/",
+  "description": "Qeeper is building a home services platform that homeowners and property managers love.",
+  "founded_year": 2023,
+  "location": "Unknown",
+  "sector": "Real Estate and PropTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67d863eaf4be8a2fcd551295_portfolio%252Fcompany%252Ff16957b8-afce-4efc-8432-e3f0d2fd187c%252F1725421679278-logo.avif",
+  "url": "https://www.antler.co/portfolio/qeeper",
+  "api": "https://antler-api.github.io/companies/qeeper.json"
+}

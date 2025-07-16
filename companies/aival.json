@@ -1,0 +1,13 @@
+{
+  "id": "antler-aival",
+  "name": "Aival",
+  "slug": "aival",
+  "website": "https://www.aival.io/",
+  "description": "Aival provides software to evaluate and monitor AI solutions in healthcare, enabling the adoption of safe and effective commercial products at scale.",
+  "founded_year": 2020,
+  "location": "Unknown",
+  "sector": "Health and BioTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67bf2a3a5ba3f4ff2ed4b4fc_portfolio%252Fcompany%252F78042931-e97b-4468-b46c-fb6a5e52c5cb%252F1725421551634-logo.avif",
+  "url": "https://www.antler.co/portfolio/aival",
+  "api": "https://antler-api.github.io/companies/aival.json"
+}

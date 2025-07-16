@@ -1,0 +1,13 @@
+{
+  "id": "antler-carers",
+  "name": "Carers",
+  "slug": "carers",
+  "website": "https://www.dearmomcare.co.kr",
+  "description": "Dear Mom Care provides premium childcare by licensed medical professionals.",
+  "founded_year": 2025,
+  "location": "Korea",
+  "sector": "Health and BioTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/68465ee233bfb1925490f03e_portfolio%252Fcompany%252F551d3ecb-a01e-420e-b8e2-daa39544b769%252F1749442229137-%25EC%25BC%2580%25EC%2596%25B4%25EB%259F%25AC%25EC%258A%25A4%2520%25EB%25A1%259C%25EA%25B3%25A0(500x500).avif",
+  "url": "https://www.antler.co/portfolio/carers",
+  "api": "https://antler-api.github.io/companies/carers.json"
+}

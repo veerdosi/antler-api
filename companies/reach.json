@@ -1,0 +1,13 @@
+{
+  "id": "antler-reach",
+  "name": "Reach",
+  "slug": "reach",
+  "website": "https://www.reachalts.com.au/",
+  "description": "Reach Alternative Investments is an investment platform, enabling investors to access best-in-class global private market funds",
+  "founded_year": 2021,
+  "location": "Australia",
+  "sector": "FinTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67e4dc032dcff49bf3e4fc5f_portfolio%252Fcompany%252Fc2fd4d4e-4e8c-45b3-acf1-95f27338fc63%252F1743051774349-reachalts_logo.avif",
+  "url": "https://www.antler.co/portfolio/reach",
+  "api": "https://antler-api.github.io/companies/reach.json"
+}

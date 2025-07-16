@@ -1,0 +1,13 @@
+{
+  "id": "antler-lemonado",
+  "name": "Lemonado",
+  "slug": "lemonado",
+  "website": "https://lemonado.io/",
+  "description": "No code app to build internal tools and automate processes",
+  "founded_year": 2019,
+  "location": "Sweden",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66b44afe148c9cd7c3a60183_vxXUznsPEY1xvJ-kFMgDQgS7YyZnSGijBJPTRGi96es.svg",
+  "url": "https://www.antler.co/portfolio/lemonado",
+  "api": "https://antler-api.github.io/companies/lemonado.json"
+}

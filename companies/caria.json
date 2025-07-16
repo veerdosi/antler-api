@@ -1,0 +1,13 @@
+{
+  "id": "antler-caria",
+  "name": "Caria",
+  "slug": "caria",
+  "website": "https://chorushealth.io",
+  "description": "Caria is a data-driven health platform that connects women to personalized care and a supportive community during menopause. By using data and AI, Caria reduces the inefficiency in women’s health journeys, saving them years of trial and error and misdiagnoses.",
+  "founded_year": 2020,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/65824ff1e283f1852b7fad2e_caria-dark-copy.svg",
+  "url": "https://www.antler.co/portfolio/caria",
+  "api": "https://antler-api.github.io/companies/caria.json"
+}

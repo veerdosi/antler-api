@@ -1,0 +1,13 @@
+{
+  "id": "antler-lombard-standard",
+  "name": "Lombard Standard",
+  "slug": "lombard-standard",
+  "website": "https://lombardstandard.com",
+  "description": "AI-powered Market Network for Commercial Real Estate (CRE) companies",
+  "founded_year": 2023,
+  "location": "Japan",
+  "sector": "Real Estate and PropTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67fc5ab355a3c1a9aa5f656f_portfolio%252Fcompany%252F793dfe65-9d37-473a-bb50-bb8b6711a135%252F1744591529569-White.avif",
+  "url": "https://www.antler.co/portfolio/lombard-standard",
+  "api": "https://antler-api.github.io/companies/lombard-standard.json"
+}

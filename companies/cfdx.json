@@ -1,0 +1,13 @@
+{
+  "id": "antler-cfdx",
+  "name": "CFDX",
+  "slug": "cfdx",
+  "website": "https://cfdx.io/",
+  "description": "CFDX aims to apply the liquid biopsy techniques used in early cancer detection to neurodegenerative diseases, enabling diagnosis decades before symptoms appear.",
+  "founded_year": 2023,
+  "location": "Unknown",
+  "sector": "Health and BioTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67b5afd7374c949ac089f51a_portfolio%252Fcompany%252F0806b65a-a75f-490f-bce6-83fc5bd3b028%252F1725421686978-logo.avif",
+  "url": "https://www.antler.co/portfolio/cfdx",
+  "api": "https://antler-api.github.io/companies/cfdx.json"
+}

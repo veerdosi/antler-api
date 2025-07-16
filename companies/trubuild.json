@@ -1,0 +1,13 @@
+{
+  "id": "antler-trubuild",
+  "name": "TruBuild",
+  "slug": "trubuild",
+  "website": "https://www.trubuild.io/",
+  "description": "AI-powered pre-construction platform leveraging Large Language Models to draft and review contracts and RFPs.",
+  "founded_year": 2024,
+  "location": "Saudi Arabia",
+  "sector": "Real Estate and PropTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/685cf2257af596c1e72f5191_portfolio%252Fcompany%252F4a1cde79-45d2-491b-a842-6cc160fbc7f5%252F1750921749545-Color_TruBuild.png",
+  "url": "https://www.antler.co/portfolio/trubuild",
+  "api": "https://antler-api.github.io/companies/trubuild.json"
+}

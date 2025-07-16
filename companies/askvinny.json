@@ -1,0 +1,13 @@
+{
+  "id": "antler-askvinny",
+  "name": "AskVinny",
+  "slug": "askvinny",
+  "website": "https://www.askvinny.co.uk/",
+  "description": "Automating property management with AI agents, AskVinny is streamlining tenant-landlord interactions and enhancing service delivery in the real estate sector.",
+  "founded_year": 2024,
+  "location": "Unknown",
+  "sector": "Real Estate and PropTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/6700900698c611022892d55b_portfolio%252Fcompany%252Feb2b7b8e-3c5e-4bbc-b963-3c6e81f2bdb1%252F1728090079180-askvinny_logo.avif",
+  "url": "https://www.antler.co/portfolio/askvinny",
+  "api": "https://antler-api.github.io/companies/askvinny.json"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "antler-peachies",
+  "name": "Peachies",
+  "slug": "peachies",
+  "website": "https://wearepeachies.com/",
+  "description": "Peachies is the UK's #1 rated and fastest-growing baby nappy brand. Peachies is redefining the category from the bottom up.",
+  "founded_year": 2024,
+  "location": "Unknown",
+  "sector": "ConsumerTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67add38e8e63d9af2b0832b2_portfolio%252Fcompany%252F4b2ffd48-5842-441e-a01d-8f184ed931a2%252F1725844296873-logo.svg",
+  "url": "https://www.antler.co/portfolio/peachies",
+  "api": "https://antler-api.github.io/companies/peachies.json"
+}

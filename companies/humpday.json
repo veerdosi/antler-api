@@ -1,0 +1,13 @@
+{
+  "id": "antler-humpday",
+  "name": "Humpday",
+  "slug": "humpday",
+  "website": "https://www.humpdaydating.com/",
+  "description": "Humpday is a one day a week offline dating app on a mission to end loneliness",
+  "founded_year": 2023,
+  "location": "Australia",
+  "sector": "ConsumerTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66daab903aa3a7a1077ad140_portfolio%252Fcompany%252Fd849029b-53a1-49f5-a7ba-b5fccbdf1dce%252F1725606665652-Humpday%2520App%2520Logo.avif",
+  "url": "https://www.antler.co/portfolio/humpday",
+  "api": "https://antler-api.github.io/companies/humpday.json"
+}

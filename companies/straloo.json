@@ -1,0 +1,13 @@
+{
+  "id": "antler-straloo",
+  "name": "Straloo",
+  "slug": "straloo",
+  "website": "https://www.straloo.com.br/",
+  "description": "Digital platform optimizing musculoskeletal care by reducing costs and improving clinical outcomes.",
+  "founded_year": 2023,
+  "location": "Brazil",
+  "sector": "Health and BioTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/680ab0d942acbaf43a84f01d_portfolio%252Fcompany%252F0e17e567-1d07-4234-84d8-2a8df65b4dbc%252F1725423841266-logo.avif",
+  "url": "https://www.antler.co/portfolio/straloo",
+  "api": "https://antler-api.github.io/companies/straloo.json"
+}

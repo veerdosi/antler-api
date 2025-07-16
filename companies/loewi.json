@@ -1,0 +1,13 @@
+{
+  "id": "antler-loewi",
+  "name": "Loewi",
+  "slug": "loewi",
+  "website": "https://loewi.fr/",
+  "description": "4.0 refurbishment platform for electric bicycles in Europe.",
+  "founded_year": 2024,
+  "location": "France",
+  "sector": "Industrials",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/682e29b6bd4f867b556363fd_portfolio%252Fcompany%252F6e5e95e2-7c75-4262-8f85-6682a0ad213f%252F1725844349107-logo.avif",
+  "url": "https://www.antler.co/portfolio/loewi",
+  "api": "https://antler-api.github.io/companies/loewi.json"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "antler-qai",
+  "name": "QAI",
+  "slug": "qai",
+  "website": "https://qaitech.ai/",
+  "description": "The AI Quality Assurance co-pilot for mobile software teams",
+  "founded_year": 2024,
+  "location": "Germany",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/684936a0dcc849b3f13b1932_portfolio%252Fcompany%252F74e94923-2ae4-44f0-ac9d-e44e96d860a4%252F1749628555654-Untitled%2520design-34.png",
+  "url": "https://www.antler.co/portfolio/qai",
+  "api": "https://antler-api.github.io/companies/qai.json"
+}

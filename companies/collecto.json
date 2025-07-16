@@ -1,0 +1,13 @@
+{
+  "id": "antler-collecto",
+  "name": "Collecto",
+  "slug": "collecto",
+  "website": "https://bizpe.co/",
+  "description": "Empowering SMBs by Solving Cash Flow and Payment Collection Challenges",
+  "founded_year": 2025,
+  "location": "India",
+  "sector": "FinTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/685be5487780a44edf9f2854_portfolio%252Fcompany%252F5d1837e9-cffb-4374-a5ff-0da2f9486d97%252F1750852747041-bizpe_logo.jpeg",
+  "url": "https://www.antler.co/portfolio/collecto",
+  "api": "https://antler-api.github.io/companies/collecto.json"
+}

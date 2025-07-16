@@ -1,0 +1,13 @@
+{
+  "id": "antler-skleo-health",
+  "name": "Skleo Health",
+  "slug": "skleo-health",
+  "website": "https://www.skleo.de/",
+  "description": "Giving healthcare access to people who need it.",
+  "founded_year": 2024,
+  "location": "Germany",
+  "sector": "Health and BioTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67f41872651b1bb733d9a460_portfolio%252Fcompany%252F814b3c9b-55a9-45ac-9d80-2e61c5c4fd6c%252F1726668739920-skleo_logo.avif",
+  "url": "https://www.antler.co/portfolio/skleo-health",
+  "api": "https://antler-api.github.io/companies/skleo-health.json"
+}

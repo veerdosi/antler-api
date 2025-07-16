@@ -1,0 +1,13 @@
+{
+  "id": "antler-vocaire",
+  "name": "Vocaire",
+  "slug": "vocaire",
+  "website": "https://vocaire.ai/",
+  "description": "AI-based journals for physiotherapy",
+  "founded_year": 2023,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/658243a9da023062654f2a7f_vocaire.webp",
+  "url": "https://www.antler.co/portfolio/vocaire",
+  "api": "https://antler-api.github.io/companies/vocaire.json"
+}

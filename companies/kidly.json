@@ -1,0 +1,13 @@
+{
+  "id": "antler-kidly",
+  "name": "Kidly",
+  "slug": "kidly",
+  "website": "https://kidly.app/",
+  "description": "Kidly, is an easy-to-use platform that enables the discovery and booking of children’s activities. It functions as a marketplace bringing together families and small businesses in the communities that serve them.",
+  "founded_year": 2023,
+  "location": "Australia",
+  "sector": "ConsumerTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67de0367c11ae10a5aa8d633_portfolio%252Fcompany%252Fc324a567-1c49-459f-86b5-2a15185820fb%252F1742603095618-kidly.avif",
+  "url": "https://www.antler.co/portfolio/kidly",
+  "api": "https://antler-api.github.io/companies/kidly.json"
+}

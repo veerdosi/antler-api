@@ -1,0 +1,13 @@
+{
+  "id": "antler-studynash",
+  "name": "StudyNash",
+  "slug": "studynash",
+  "website": "https://studynash.co/",
+  "description": "An online platform that connects students who want to study abroad with current international students and lets them apply to multiple universities",
+  "founded_year": 2023,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67e4ddf25c6284797d82ea20_portfolio%252Fcompany%252F29bc5094-c6e0-4f9c-b304-c3af01e1e693%252F1743052268334-studynash-navbar-logo.avif",
+  "url": "https://www.antler.co/portfolio/studynash",
+  "api": "https://antler-api.github.io/companies/studynash.json"
+}

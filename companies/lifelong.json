@@ -1,0 +1,13 @@
+{
+  "id": "antler-lifelong",
+  "name": "Lifelong",
+  "slug": "lifelong",
+  "website": "https://wearelifelong.com",
+  "description": "Building a plastic free future",
+  "founded_year": 2019,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66b4490785f43daadb55f75d_xpYXEN0iArtqgThOU4XyH1PclP2LlsBI3pf9zCbdrbQ.avif",
+  "url": "https://www.antler.co/portfolio/lifelong",
+  "api": "https://antler-api.github.io/companies/lifelong.json"
+}

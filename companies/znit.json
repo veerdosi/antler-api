@@ -1,0 +1,13 @@
+{
+  "id": "antler-znit",
+  "name": "ZNIT",
+  "slug": "znit",
+  "website": "https://www.znit.ai",
+  "description": "ZNIT.ai is a digital platform that integrates sustainable impact in the world with technological innovation.",
+  "founded_year": 2024,
+  "location": "Brazil",
+  "sector": "Energy and ClimateTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66b44bc739e1a64d8a47a853_qM9sFk6dEpEVkYbh_vlIYD-FcKy09dMaEa4YEJBNSkE.gif",
+  "url": "https://www.antler.co/portfolio/znit",
+  "api": "https://antler-api.github.io/companies/znit.json"
+}

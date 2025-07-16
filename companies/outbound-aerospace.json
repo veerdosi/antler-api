@@ -1,0 +1,13 @@
+{
+  "id": "antler-outbound-aerospace",
+  "name": "Outbound Aerospace",
+  "slug": "outbound-aerospace",
+  "website": "https://outbound.aero",
+  "description": "Designing and building next generation airplanes.",
+  "founded_year": 2024,
+  "location": "Unknown",
+  "sector": "Industrials",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66b44ad0f5b27c8981bab2f2_tJAoPTCC3m0qcdQhJO5AdHCsjZ_05h7LqtUk40cJ6u4.avif",
+  "url": "https://www.antler.co/portfolio/outbound-aerospace",
+  "api": "https://antler-api.github.io/companies/outbound-aerospace.json"
+}

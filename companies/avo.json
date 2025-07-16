@@ -1,0 +1,13 @@
+{
+  "id": "antler-avo",
+  "name": "avo",
+  "slug": "avo",
+  "website": "https://www.avo.so/",
+  "description": "Intelligent systems for crypto trading.",
+  "founded_year": 2024,
+  "location": "Canada",
+  "sector": "FinTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67ac4ec6078cf712cda45296_portfolio%252Fcompany%252Fe8125425-5308-44b9-9b39-3de67fe144c8%252F1739345490357-1.avif",
+  "url": "https://www.antler.co/portfolio/avo",
+  "api": "https://antler-api.github.io/companies/avo.json"
+}

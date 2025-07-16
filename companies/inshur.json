@@ -1,0 +1,13 @@
+{
+  "id": "antler-inshur",
+  "name": "Inshur",
+  "slug": "inshur",
+  "website": "https://inshur.com/",
+  "description": "Commercial auto insurance for the gig economy",
+  "founded_year": 2023,
+  "location": "Unknown",
+  "sector": "FinTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/684838a20c5042f686497617_portfolio%252Fcompany%252F5f66fe7d-bd13-447b-93fe-16828ecd6b4c%252F1749563514628-inshur%2520logo.avif",
+  "url": "https://www.antler.co/portfolio/inshur",
+  "api": "https://antler-api.github.io/companies/inshur.json"
+}

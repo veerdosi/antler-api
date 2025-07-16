@@ -1,0 +1,13 @@
+{
+  "id": "antler-techeasy",
+  "name": "TechEasy",
+  "slug": "techeasy",
+  "website": "https://techeasy.ca/",
+  "description": "Provides nationwide, on-demand, expert tech and IT support for home electronics",
+  "founded_year": 2022,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/674d4ef84f17e87f3cc306d4_portfolio%252Fcompany%252Ffb6512cf-2017-4f97-ac94-edc564ead77b%252F1733119273450-logo.avif",
+  "url": "https://www.antler.co/portfolio/techeasy",
+  "api": "https://antler-api.github.io/companies/techeasy.json"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "antler-ceepay",
+  "name": "CeePay",
+  "slug": "ceepay",
+  "website": "https://www.ceepay.co/",
+  "description": "An All-in-one cloud payment suite for all businesses.",
+  "founded_year": 2023,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66b45406a0fc46cc0ab9208c_IcFXimwrp4hWz3KEKFk9eebDhBbmQ8v2vO8NCnVwChM.avif",
+  "url": "https://www.antler.co/portfolio/ceepay",
+  "api": "https://antler-api.github.io/companies/ceepay.json"
+}

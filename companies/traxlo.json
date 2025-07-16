@@ -1,0 +1,13 @@
+{
+  "id": "antler-traxlo",
+  "name": "Traxlo",
+  "slug": "traxlo",
+  "website": "https://traxlo.com",
+  "description": "Task based gig-work marketplace",
+  "founded_year": 2020,
+  "location": "Sweden",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/685124d6f9b2b37c0a334caa_portfolio%252Fcompany%252F3c31dcec-1a6c-479e-a1ee-5dc5f4cdbe4f%252F1750148298755-59c976_e1b848426c2e4cd7b8c22059b16bd6b6~mv2.png",
+  "url": "https://www.antler.co/portfolio/traxlo",
+  "api": "https://antler-api.github.io/companies/traxlo.json"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "antler-quickapay",
+  "name": "QuickaPay",
+  "slug": "quickapay",
+  "website": "https://www.quickapay.com",
+  "description": "QuickaPay is a financial services hub built for small and medium-sized service businesses that offers payments, flexible financing, and real-time analytics making it easy to run and manage your business.",
+  "founded_year": 2019,
+  "location": "Australia",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67ef5802a0acd0f38954650e_portfolio%252Fcompany%252F71e74b06-0131-45ae-be18-394e8711100b%252F1743738866078-2382_quicka_1280x720_v4.avif",
+  "url": "https://www.antler.co/portfolio/quickapay",
+  "api": "https://antler-api.github.io/companies/quickapay.json"
+}

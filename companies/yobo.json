@@ -1,0 +1,13 @@
+{
+  "id": "antler-yobo",
+  "name": "YOBO",
+  "slug": "yobo",
+  "website": "https://www.yobo.id",
+  "description": "YOBO (Your Own Business Online) is an AI-powered sales CRM and marketing automation platform that helps offline and omnichannel businesses drive repeat sales, customer retention, and personalized engagement—all seamlessly integrated with WhatsApp and payments.",
+  "founded_year": 2024,
+  "location": "Indonesia",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67ca9078688f084b97d68a6d_portfolio%252Fcompany%252F4ae8fd2c-6c6d-4186-b505-ab65e9e510f4%252F1725422433632-logo.avif",
+  "url": "https://www.antler.co/portfolio/yobo",
+  "api": "https://antler-api.github.io/companies/yobo.json"
+}

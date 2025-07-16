@@ -1,0 +1,13 @@
+{
+  "id": "antler-maekersuite",
+  "name": "Maekersuite",
+  "slug": "maekersuite",
+  "website": "https://maekersuite.com",
+  "description": "Maekersuite is a data-driven and AI-enabled content creation platform that analyzes millions of content pieces online to learn what stories work best.",
+  "founded_year": 2020,
+  "location": "Unknown",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67d85c4efc4aa127a1d99c08_portfolio%252Fcompany%252F6eebfcd0-6339-4f8d-96d1-5274be7f52da%252F1725421661187-logo.avif",
+  "url": "https://www.antler.co/portfolio/maekersuite",
+  "api": "https://antler-api.github.io/companies/maekersuite.json"
+}

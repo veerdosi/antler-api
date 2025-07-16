@@ -1,0 +1,13 @@
+{
+  "id": "antler-houseeazy",
+  "name": "HouseEazy",
+  "slug": "houseeazy",
+  "website": "https://houseeazy.com/",
+  "description": "HouseEazy is a digital platform transforming home resale with transparency, simplicity, and speed.",
+  "founded_year": 2023,
+  "location": "India",
+  "sector": "Real Estate and PropTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67f3c11bb461a3332724e0f7_portfolio%252Fcompany%252F9b36dc4e-64b6-42fd-affd-c1156044083d%252F1744027892146-HouseEazy.avif",
+  "url": "https://www.antler.co/portfolio/houseeazy",
+  "api": "https://antler-api.github.io/companies/houseeazy.json"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "antler-vlightup-inc",
+  "name": "Vlightup Inc.",
+  "slug": "vlightup-inc",
+  "website": "https://trustauthy.jp/",
+  "description": "Building trust in the web3 ecosystem using global satellite navigation to ensure accountability, privacy, and secure crypto transactions",
+  "founded_year": 2025,
+  "location": "Japan",
+  "sector": "FinTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67d3dd82fe0f50d9ad81b332_portfolio%252Fcompany%252Fa6dec6e6-d6a0-405b-a003-1408e7555a69%252F1741937333090-Vlightup%25E6%25AD%25A3%25E6%2596%25B9%25E5%25BD%25A2%25E3%2583%25AD%25E3%2582%25B3%25E3%2582%2599.avif",
+  "url": "https://www.antler.co/portfolio/vlightup-inc",
+  "api": "https://antler-api.github.io/companies/vlightup-inc.json"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "antler-truclimate",
+  "name": "TruClimate",
+  "slug": "truclimate",
+  "website": "https://truclimate.earth",
+  "description": "B2B SaaS and marketplace solutions for companies & project developers to track and reduce carbon emission",
+  "founded_year": 2022,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67cac5e3308858b569adc848_portfolio%252Fcompany%252Fbc8a0159-ff31-4b75-870f-63368be08025%252F1725422573871-logo.avif",
+  "url": "https://www.antler.co/portfolio/truclimate",
+  "api": "https://antler-api.github.io/companies/truclimate.json"
+}

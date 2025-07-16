@@ -1,0 +1,13 @@
+{
+  "id": "antler-yolda",
+  "name": "Yolda",
+  "slug": "yolda",
+  "website": "https://yolda.kr/",
+  "description": "O2O platform service to find and monetise hidden spaces in your closet",
+  "founded_year": 2022,
+  "location": "Korea",
+  "sector": "ConsumerTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/680087a4172640d60901c40e_portfolio%252Fcompany%252F717b326c-828d-4d2a-a796-c9045fad8fa6%252F1732613632110-logo.avif",
+  "url": "https://www.antler.co/portfolio/yolda",
+  "api": "https://antler-api.github.io/companies/yolda.json"
+}

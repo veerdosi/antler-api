@@ -1,0 +1,13 @@
+{
+  "id": "antler-tapline",
+  "name": "Tapline",
+  "slug": "tapline",
+  "website": "https://tapline.io",
+  "description": "Digital funding platform providing subscription-based companies access to instant capital",
+  "founded_year": 2021,
+  "location": "Germany",
+  "sector": "FinTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/68495e1cadf6939df9637706_portfolio%252Fcompany%252F49ef7292-382d-4c4d-8484-a3c8e2529c57%252F1749550522767-tapline_logo_2x.png",
+  "url": "https://www.antler.co/portfolio/tapline",
+  "api": "https://antler-api.github.io/companies/tapline.json"
+}

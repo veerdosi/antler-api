@@ -1,0 +1,13 @@
+{
+  "id": "antler-watson",
+  "name": "Watson",
+  "slug": "watson",
+  "website": "https://www.watsonliving.com",
+  "description": "Watson makes rent rewarding. We enable landlords to offer their residents cash back on rent, along with deals for local and online merchants. Landlords get increased leasing velocity and tenant retention. Renters get a way to build equity by paying rent. Neighborhood businesses get local, sustained traffic. Online brands get exposure to movers with high spending intent. Our vision is a more equitable housing model for 100mm renters, landlords, and neighborhood businesses.",
+  "founded_year": 2020,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66d6df5f8fab1d12d34745a7_MPwda_6sdLg68my-1kBq7PYpamoveYZ6mu7zVA4eGp4.svg",
+  "url": "https://www.antler.co/portfolio/watson",
+  "api": "https://antler-api.github.io/companies/watson.json"
+}

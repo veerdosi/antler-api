@@ -1,0 +1,13 @@
+{
+  "id": "antler-kora",
+  "name": "Kora",
+  "slug": "kora",
+  "website": "https://koraagri.com/",
+  "description": "Integrated Co-Farming company that focuses on empowering farmers through post-harvesting technology",
+  "founded_year": 2023,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67cac41c590123f866dbeaa8_portfolio%252Fcompany%252F67e0d4b9-4cf7-4ef0-8aa1-fc82ac780cab%252F1725422117791-logo.avif",
+  "url": "https://www.antler.co/portfolio/kora",
+  "api": "https://antler-api.github.io/companies/kora.json"
+}

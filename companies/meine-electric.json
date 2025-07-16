@@ -1,0 +1,13 @@
+{
+  "id": "antler-meine-electric",
+  "name": "MEINE Electric",
+  "slug": "meine-electric",
+  "website": "https://meineelectric.com/",
+  "description": "MEINE Electric is building the solution to limitless decentralized energy with cutting-edge metal-air fuel cell technology.",
+  "founded_year": 2024,
+  "location": "India",
+  "sector": "Energy and ClimateTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67ee795c5dfda166277e0c4b_portfolio%252Fcompany%252F5745d9e4-771e-4189-af62-4a2f9ceb4fa3%252F1739111833135-MEINE%2520Electric_Logo_Light.avif",
+  "url": "https://www.antler.co/portfolio/meine-electric",
+  "api": "https://antler-api.github.io/companies/meine-electric.json"
+}

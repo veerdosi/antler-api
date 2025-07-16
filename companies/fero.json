@@ -1,0 +1,13 @@
+{
+  "id": "antler-fero",
+  "name": "FERO",
+  "slug": "fero",
+  "website": "https://www.feropaymentscience.com/",
+  "description": "Personalisation of the checkout experience",
+  "founded_year": 0,
+  "location": "Netherlands",
+  "sector": "FinTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67f3c3ef4d53ff57befb7a03_portfolio%252Fcompany%252F0669529c-f2d8-4b4f-942d-9d2088876da3%252F1725844206429-logo.svg",
+  "url": "https://www.antler.co/portfolio/fero",
+  "api": "https://antler-api.github.io/companies/fero.json"
+}

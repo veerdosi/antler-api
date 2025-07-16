@@ -1,0 +1,13 @@
+{
+  "id": "antler-canterly",
+  "name": "Canterly",
+  "slug": "canterly",
+  "website": "https://canterly.com",
+  "description": "🐎 The intelligent platform for equestrian businesses—seamlessly manage horses, people, spaces, products, scheduling, and revenue.",
+  "founded_year": 2024,
+  "location": "Singapore",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67ebb5d13e5c525de300050a_portfolio%252Fcompany%252Ff6300f10-6049-4329-9d71-e20dfd48ac80%252F1743500745974-Canterly_logo_final.avif",
+  "url": "https://www.antler.co/portfolio/canterly",
+  "api": "https://antler-api.github.io/companies/canterly.json"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "antler-nearound",
+  "name": "Nearound",
+  "slug": "nearound",
+  "website": "https://nearound.co",
+  "description": "비프랜차이즈 카페 대상 신규고객 유입 및 세일즈/프로모션 플랫폼",
+  "founded_year": 2023,
+  "location": "Korea",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/68008664d12cb068700b99f4_portfolio%252Fcompany%252Fc7b81998-a3ea-43a5-8eb9-4594fb316304%252F1732613587139-logo.avif",
+  "url": "https://www.antler.co/portfolio/nearound",
+  "api": "https://antler-api.github.io/companies/nearound.json"
+}

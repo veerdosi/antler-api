@@ -1,0 +1,13 @@
+{
+  "id": "antler-brieff",
+  "name": "Brieff",
+  "slug": "brieff",
+  "website": "https://brieff.io/",
+  "description": "Brieff is a SaaS product that helps accountants enhance and scale their advisory services.",
+  "founded_year": 2022,
+  "location": "Australia",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67ddfb2c22a21207482c1b15_portfolio%252Fcompany%252F2339d4fd-76b4-4d2e-a7e4-520008745cb9%252F1742600993618-brieff.avif",
+  "url": "https://www.antler.co/portfolio/brieff",
+  "api": "https://antler-api.github.io/companies/brieff.json"
+}

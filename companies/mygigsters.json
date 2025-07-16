@@ -1,0 +1,13 @@
+{
+  "id": "antler-mygigsters",
+  "name": "MyGigsters",
+  "slug": "mygigsters",
+  "website": "https://www.mygigsters.com.au/",
+  "description": "Tax and Accouting partner for the Gig worker",
+  "founded_year": 2022,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67e4da3dfc0630e19a00dbdf_portfolio%252Fcompany%252F398242e8-7253-4aac-9392-7583d6994765%252F1743051315834-images.avif",
+  "url": "https://www.antler.co/portfolio/mygigsters",
+  "api": "https://antler-api.github.io/companies/mygigsters.json"
+}

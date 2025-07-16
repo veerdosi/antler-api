@@ -1,0 +1,13 @@
+{
+  "id": "antler-tradeface",
+  "name": "TradeFace",
+  "slug": "tradeface",
+  "website": "https://tradeface.in/",
+  "description": "Making commercial sense of the b2b e-commerce opportunity.",
+  "founded_year": 2025,
+  "location": "India",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/6859a521c63ca3d4820786da_portfolio%252Fcompany%252F6f44ea68-1a60-46ab-97ba-24d61104601d%252F1750705402772-tradeface_b2b_logo.jpeg",
+  "url": "https://www.antler.co/portfolio/tradeface",
+  "api": "https://antler-api.github.io/companies/tradeface.json"
+}

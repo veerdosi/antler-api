@@ -1,0 +1,13 @@
+{
+  "id": "antler-gapai",
+  "name": "Gapai",
+  "slug": "gapai",
+  "website": "https://gapai.id/",
+  "description": "Connect Indonesian workers to offshore job opportunities",
+  "founded_year": 2022,
+  "location": "Indonesia",
+  "sector": "ConsumerTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67c7cda20d59f8fb431e92bb_portfolio%252Fcompany%252F91a5865d-472f-4062-a33d-8a5a5e3069d7%252F1725422283141-logo.avif",
+  "url": "https://www.antler.co/portfolio/gapai",
+  "api": "https://antler-api.github.io/companies/gapai.json"
+}

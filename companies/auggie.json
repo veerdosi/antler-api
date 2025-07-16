@@ -1,0 +1,13 @@
+{
+  "id": "antler-auggie",
+  "name": "Auggie",
+  "slug": "auggie",
+  "website": "https://auggieai.com.au/",
+  "description": "The retention engine for dentistry unlocking millions in lost revenue.",
+  "founded_year": 2025,
+  "location": "Australia",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/684912e6d53157b6b6ccc535_portfolio%252Fcompany%252F85399916-e32e-437e-bd22-86d8aaf6dd64%252F1749178040297-auggie%2520white%2520(Presentation)-2.png",
+  "url": "https://www.antler.co/portfolio/auggie",
+  "api": "https://antler-api.github.io/companies/auggie.json"
+}

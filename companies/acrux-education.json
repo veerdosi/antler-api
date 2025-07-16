@@ -1,0 +1,13 @@
+{
+  "id": "antler-acrux-education",
+  "name": "Acrux Education",
+  "slug": "acrux-education",
+  "website": "https://teacherea.com",
+  "description": "Acrux Education revolutionises Maths education with AI-powered assessment marking, saving teachers time and enhancing student performance. Explore our innovative platform tailored to global curriculums.",
+  "founded_year": 2023,
+  "location": "Australia",
+  "sector": "ConsumerTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66e021094fe49df4fa09401b_portfolio%252Fcompany%252Feba203b2-5cb7-4809-bc4e-df685491c87a%252F1725964447026-ACRUX%2520Logo%2520-%2520Clear%2520-%2520750x450.avif",
+  "url": "https://www.antler.co/portfolio/acrux-education",
+  "api": "https://antler-api.github.io/companies/acrux-education.json"
+}

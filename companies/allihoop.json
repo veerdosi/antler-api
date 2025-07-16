@@ -1,0 +1,13 @@
+{
+  "id": "antler-allihoop",
+  "name": "Allihoop",
+  "slug": "allihoop",
+  "website": "https://www.allihoop.se/",
+  "description": "Allihoop is a technology enabled co-living brand offering flexible urban living in cities for professionals on the move.",
+  "founded_year": 2020,
+  "location": "Sweden",
+  "sector": "Real Estate and PropTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66b4525f3cfc76f2cb32ef1f_n8OcLLSZvlywJz_-z-nOGLS_sMKrPdvga7mmgTbIzqk.avif",
+  "url": "https://www.antler.co/portfolio/allihoop",
+  "api": "https://antler-api.github.io/companies/allihoop.json"
+}

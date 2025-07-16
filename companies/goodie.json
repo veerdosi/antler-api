@@ -1,0 +1,13 @@
+{
+  "id": "antler-goodie",
+  "name": "Goodie",
+  "slug": "goodie",
+  "website": "https://goodie-web.vercel.app",
+  "description": "Goodie is a complete wholesale platform that helps restaurateurs easily meet MOQ's and find competitively priced wholesale restaurant supplies.",
+  "founded_year": 2022,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66b4499188aca54bbcfcbb79_Rg0V4b3PuK1McKtObho_CaJOZlUM7FOx1ikoZk3y2yE.avif",
+  "url": "https://www.antler.co/portfolio/goodie",
+  "api": "https://antler-api.github.io/companies/goodie.json"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "antler-beyond-robotics",
+  "name": "Beyond Robotics",
+  "slug": "beyond-robotics",
+  "website": "https://www.beyond-robotics.ai",
+  "description": "3D AI Vision-based Mobile Robot for Harvesting Fruits/Vegetables",
+  "founded_year": 2024,
+  "location": "Korea",
+  "sector": "Industrials",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66cec4f4c7ca8c45db09a40d_teams%252Fc4598bf3-30ca-4dd5-b92c-ba9145c7144d%252Flogos%252F%25EB%25A1%259C%25EA%25B3%25A03_300.avif",
+  "url": "https://www.antler.co/portfolio/beyond-robotics",
+  "api": "https://antler-api.github.io/companies/beyond-robotics.json"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "antler-propcode",
+  "name": "PropCode",
+  "slug": "propcode",
+  "website": "https://propcode.com.au",
+  "description": "Using the power of artificial intelligence to untangle the web of urban planning regulations",
+  "founded_year": 2022,
+  "location": "Australia",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67e4db71004f25ca28b65a72_portfolio%252Fcompany%252F494664f4-93bb-42f5-83ed-29a89902e53d%252F1743051616119-logo-Bs_HPsIv.avif",
+  "url": "https://www.antler.co/portfolio/propcode",
+  "api": "https://antler-api.github.io/companies/propcode.json"
+}

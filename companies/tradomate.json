@@ -1,0 +1,13 @@
+{
+  "id": "antler-tradomate",
+  "name": "Tradomate",
+  "slug": "tradomate",
+  "website": "https://tradomate.one/",
+  "description": "A trade analysis and automation platform for financial markets aiming to become the next gen broker",
+  "founded_year": 2024,
+  "location": "India",
+  "sector": "FinTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67ee7bef3f2de94d8948e621_teams%252F0a862382-b16f-416a-a93f-44aad5dc1e57%252Flogos%252FTradomate-logomark-(Dark-BG).avif",
+  "url": "https://www.antler.co/portfolio/tradomate",
+  "api": "https://antler-api.github.io/companies/tradomate.json"
+}

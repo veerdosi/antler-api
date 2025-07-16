@@ -1,0 +1,13 @@
+{
+  "id": "antler-biota",
+  "name": "Biota",
+  "slug": "biota",
+  "website": "https://www.biota-labs.com/",
+  "description": "Unlocking the data potential of wastewater.",
+  "founded_year": 2024,
+  "location": "Unknown",
+  "sector": "Health and BioTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66b44c2597325534b15cff80_TPfCZLUz5MfuYlyhAkpraTDE1m14YrkGMJP2ISGtRMU.avif",
+  "url": "https://www.antler.co/portfolio/biota",
+  "api": "https://antler-api.github.io/companies/biota.json"
+}

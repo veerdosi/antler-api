@@ -1,0 +1,13 @@
+{
+  "id": "antler-savvie",
+  "name": "Savvie",
+  "slug": "savvie",
+  "website": "https://savvie.io",
+  "description": "An ML-powered all-in-one operational tool helping cafes and bakeries optimize their bottom line",
+  "founded_year": 2020,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66b44b69e2c055cb0451f8c8_oe64f7vHouc4QVI4Ws8uNkuP-I97SMYgQqgNAWKkzIQ.avif",
+  "url": "https://www.antler.co/portfolio/savvie",
+  "api": "https://antler-api.github.io/companies/savvie.json"
+}

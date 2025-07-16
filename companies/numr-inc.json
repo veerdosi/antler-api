@@ -1,0 +1,13 @@
+{
+  "id": "antler-numr-inc",
+  "name": "Numr Inc.",
+  "slug": "numr-inc",
+  "website": "https://www.numrcxm.com/",
+  "description": "Using AI to understand customer feelings, we create focused strategies to raise sales and lower churn",
+  "founded_year": 2024,
+  "location": "Canada",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/674d4f23cf6d61d6aeea1662_portfolio%252Fcompany%252Fadf21228-c9de-4b14-9827-6efd56736ce8%252F1725422751532-logo.avif",
+  "url": "https://www.antler.co/portfolio/numr-inc",
+  "api": "https://antler-api.github.io/companies/numr-inc.json"
+}

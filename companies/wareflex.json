@@ -1,0 +1,13 @@
+{
+  "id": "antler-wareflex",
+  "name": "Wareflex",
+  "slug": "wareflex",
+  "website": "https://www.wareflex.io/en",
+  "description": "B2B logistics platform for logistics services such as warehousing and transport",
+  "founded_year": 2022,
+  "location": "Vietnam",
+  "sector": "Industrials",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67f5e3511ff48cadbb5dc6dc_portfolio%252Fcompany%252F3338fb84-bd74-4c04-a296-b72bf5cb6917%252F1744167736223-Wareflex-primary.avif",
+  "url": "https://www.antler.co/portfolio/wareflex",
+  "api": "https://antler-api.github.io/companies/wareflex.json"
+}

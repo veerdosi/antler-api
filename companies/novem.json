@@ -1,0 +1,13 @@
+{
+  "id": "antler-novem",
+  "name": "novem",
+  "slug": "novem",
+  "website": "https://novem.no",
+  "description": "Data visualization for coders",
+  "founded_year": 2023,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66eb128050d730d63c970fcb_portfolio%252Fcompany%252Fe92fc9e3-55b9-402a-98de-02b7d7b87e78%252F1726681699420-novem_logo_resized.png",
+  "url": "https://www.antler.co/portfolio/novem",
+  "api": "https://antler-api.github.io/companies/novem.json"
+}

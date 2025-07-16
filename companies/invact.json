@@ -1,0 +1,13 @@
+{
+  "id": "antler-invact",
+  "name": "Invact",
+  "slug": "invact",
+  "website": "https://invact.com/",
+  "description": "Skilling unemployed graduates in specialised areas using Metaverse",
+  "founded_year": 2022,
+  "location": "India",
+  "sector": "ConsumerTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/6857d2622679f68695c95739_portfolio%252Fcompany%252Fbeb81afe-1cdc-4cc6-a3af-eaf7c45bd3ed%252F1750585937612-invacthq_logo.jpeg",
+  "url": "https://www.antler.co/portfolio/invact",
+  "api": "https://antler-api.github.io/companies/invact.json"
+}

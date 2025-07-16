@@ -1,0 +1,13 @@
+{
+  "id": "antler-claro",
+  "name": "Claro",
+  "slug": "claro",
+  "website": "https://getclaro.ai/",
+  "description": "Claro turns your operational data chaos into clarity—automating enrichment, classification, and decision-ready structuring.",
+  "founded_year": 2024,
+  "location": "Germany",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/684aac0e31ad466cce4038a1_portfolio%252Fcompany%252F88979821-2065-414d-bb12-368bf9d1367e%252F1725422962848-logo.png",
+  "url": "https://www.antler.co/portfolio/claro",
+  "api": "https://antler-api.github.io/companies/claro.json"
+}

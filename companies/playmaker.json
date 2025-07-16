@@ -1,0 +1,13 @@
+{
+  "id": "antler-playmaker",
+  "name": "PlayMaker",
+  "slug": "playmaker",
+  "website": "https://www.playmaker-software.com/",
+  "description": "Smarter sports sponsorships, automated from deal creation to execution.",
+  "founded_year": 2024,
+  "location": "Unknown",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67a10ec9728b92d7e5bcd1a8_teams%252F3482ff6f-c030-4ab7-a6ec-965293ce5b19%252Flogos%252FPM_SQ_Dark.avif",
+  "url": "https://www.antler.co/portfolio/playmaker",
+  "api": "https://antler-api.github.io/companies/playmaker.json"
+}

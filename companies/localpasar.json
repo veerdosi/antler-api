@@ -1,0 +1,13 @@
+{
+  "id": "antler-localpasar",
+  "name": "LocalPasar",
+  "slug": "localpasar",
+  "website": "https://localpasar.com/",
+  "description": "Reinventing agricultural supply chains as a next-gen digital wholesaler connecting farmers directly to restaurants—delivering traceable produce with peak freshness and superior nutrition.",
+  "founded_year": 2025,
+  "location": "Malaysia",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/681c1712e9b9d4aee8fc9023_portfolio%252Fcompany%252F7e405f87-06e1-4377-b551-3bbe87952bec%252F1746671327327-LocalPasar%2520Logo%2520(PNG).avif",
+  "url": "https://www.antler.co/portfolio/localpasar",
+  "api": "https://antler-api.github.io/companies/localpasar.json"
+}

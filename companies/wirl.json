@@ -1,0 +1,13 @@
+{
+  "id": "antler-wirl",
+  "name": "WIRL",
+  "slug": "wirl",
+  "website": "https://wirl.app/",
+  "description": "Mental wellbeing app fuelled by food. Experience that happy, healthy feeling by nourishing your gut:brain axis. WIRL is an entirely new, science backed way of eating that boosts your mood through food.",
+  "founded_year": 2021,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67d8e5ae9b355912b8e47788_portfolio%252Fcompany%252Fac67b6bd-f9ba-42e3-80b9-074aab4782a3%252F1742267803842-wirlapp_logo.avif",
+  "url": "https://www.antler.co/portfolio/wirl",
+  "api": "https://antler-api.github.io/companies/wirl.json"
+}

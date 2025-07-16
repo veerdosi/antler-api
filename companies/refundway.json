@@ -1,0 +1,13 @@
+{
+  "id": "antler-refundway",
+  "name": "Refundway",
+  "slug": "refundway",
+  "website": "https://www.refundway.com/",
+  "description": "Instant refunds provider for Indonesia",
+  "founded_year": 2022,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/658254f1a96d9a60bf8c64d8_Refundway.png",
+  "url": "https://www.antler.co/portfolio/refundway",
+  "api": "https://antler-api.github.io/companies/refundway.json"
+}

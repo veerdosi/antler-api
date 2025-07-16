@@ -1,0 +1,13 @@
+{
+  "id": "antler-fractiv",
+  "name": "Fractiv",
+  "slug": "fractiv",
+  "website": "https://fractiv.io",
+  "description": "Fractiv is an art tech software that fractionalises art sales for galleries and auction houses",
+  "founded_year": 2022,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66b45416a5bb54a0d38ebf7d_mxXNUgknFL0jTkUiTA5JYuSJeJlT_2pdZQHBZ_X-jkI.avif",
+  "url": "https://www.antler.co/portfolio/fractiv",
+  "api": "https://antler-api.github.io/companies/fractiv.json"
+}

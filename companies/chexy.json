@@ -1,0 +1,13 @@
+{
+  "id": "antler-chexy",
+  "name": "Chexy",
+  "slug": "chexy",
+  "website": "https://www.chexy.co/",
+  "description": "Tenant-facing payments platform that allows renters to earn rewards & build credit on rent",
+  "founded_year": 2022,
+  "location": "Canada",
+  "sector": "Real Estate and PropTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67dde23eacfb1b0126d5b77e_portfolio%252Fcompany%252F7756f4e0-3afd-4d06-a55d-ace49fe1d3d6%252F1733119220832-logo.avif",
+  "url": "https://www.antler.co/portfolio/chexy",
+  "api": "https://antler-api.github.io/companies/chexy.json"
+}

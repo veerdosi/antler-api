@@ -1,0 +1,13 @@
+{
+  "id": "antler-enkel",
+  "name": "Enkel",
+  "slug": "enkel",
+  "website": "https://www.enkelenergi.dk/",
+  "description": "Connecting EVs with power markets.",
+  "founded_year": 2024,
+  "location": "Denmark",
+  "sector": "Energy and ClimateTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67b5f3dbfcd2f0a5340225f3_portfolio%252Fcompany%252Fd63bb70d-17e4-43c9-8f10-0a25bbf8faf9%252F1730235677113-Enkel_LOGO-28.avif",
+  "url": "https://www.antler.co/portfolio/enkel",
+  "api": "https://antler-api.github.io/companies/enkel.json"
+}

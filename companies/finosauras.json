@@ -1,0 +1,13 @@
+{
+  "id": "antler-finosauras",
+  "name": "Finosauras",
+  "slug": "finosauras",
+  "website": "https://www.finosauras.com/",
+  "description": "AI-powered platform that validates stock tips and trading insights in real-time, empowering retail traders with trust, transparency, and actionable intelligence.",
+  "founded_year": 2025,
+  "location": "India",
+  "sector": "FinTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/685be6d0d3ab16e159c5ee74_portfolio%252Fcompany%252Fd61d8284-0091-4a14-b454-51d0d8a89142%252F1750853296637-finosauras_logo.jpeg",
+  "url": "https://www.antler.co/portfolio/finosauras",
+  "api": "https://antler-api.github.io/companies/finosauras.json"
+}

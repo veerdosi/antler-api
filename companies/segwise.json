@@ -1,0 +1,13 @@
+{
+  "id": "antler-segwise",
+  "name": "Segwise",
+  "slug": "segwise",
+  "website": "https://www.segwise.ai/",
+  "description": "Data monitoring and alerting simplified for product and growth teams Managing voluminous data has become incredibly complex leading to lost insights that are largely dependent on the individual expertise. With the proliferation of growth teams and the complexity of data, Segwise's co-pilot platform enables growth marketing teams to automatically crunch data into granular cohorts and provide insights prioritized by impact.",
+  "founded_year": 2023,
+  "location": "India",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67f3c3ed0dcf77cada1ab576_portfolio%252Fcompany%252F63c87274-71e4-4e63-ada1-a162f6228024%252F1744028634829-Segwise.avif",
+  "url": "https://www.antler.co/portfolio/segwise",
+  "api": "https://antler-api.github.io/companies/segwise.json"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "antler-dear-monday",
+  "name": "Dear Monday",
+  "slug": "dear-monday",
+  "website": "https://www.dearmonday.io",
+  "description": "One-stop Workation solution for business",
+  "founded_year": 2022,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/6747b2b31a0869bcabbb976b_portfolio%252Fcompany%252F182948e7-529f-41f1-be03-c2b2cdaffea5%252F1732613576525-logo.png",
+  "url": "https://www.antler.co/portfolio/dear-monday",
+  "api": "https://antler-api.github.io/companies/dear-monday.json"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "antler-leetify",
+  "name": "Leetify",
+  "slug": "leetify",
+  "website": "https://leetify.com",
+  "description": "Coaching software for gamers (Counter-Strike 2)",
+  "founded_year": 2020,
+  "location": "Sweden",
+  "sector": "ConsumerTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66b45391efd8fad03690661c_wlX4iMLwM0qirhJ99XkTeZl9N9E_rAOEKER9jhFZVzE.avif",
+  "url": "https://www.antler.co/portfolio/leetify",
+  "api": "https://antler-api.github.io/companies/leetify.json"
+}

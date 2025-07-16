@@ -1,0 +1,13 @@
+{
+  "id": "antler-greybox",
+  "name": "Greybox",
+  "slug": "greybox",
+  "website": "https://greybox.app",
+  "description": "Greybox enables you to think in 3D space — design, iterate, and collaborate on 3D projects, no expertise needed.",
+  "founded_year": 2024,
+  "location": "Netherlands",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67a1c2abcee178be6d939bdd_portfolio%252Fcompany%252F54bdfcc7-8dde-4e74-b4c6-ee4d1067a473%252F1738653975051-monogram_white.avif",
+  "url": "https://www.antler.co/portfolio/greybox",
+  "api": "https://antler-api.github.io/companies/greybox.json"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "antler-robominder",
+  "name": "Robominder",
+  "slug": "robominder",
+  "website": "https://robominder.ai",
+  "description": "Elevating industrial robot uptime with AI-powered computer vision.",
+  "founded_year": 2023,
+  "location": "Unknown",
+  "sector": "Industrials",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66b44bd35426e373511971fc_TchRkHHqBbedFwq0f00zMDij51gGjYD70sU6XrRmsd0.avif",
+  "url": "https://www.antler.co/portfolio/robominder",
+  "api": "https://antler-api.github.io/companies/robominder.json"
+}

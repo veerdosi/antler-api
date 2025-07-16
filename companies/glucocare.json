@@ -1,0 +1,13 @@
+{
+  "id": "antler-glucocare",
+  "name": "Glucocare",
+  "slug": "glucocare",
+  "website": "https://www.glucocare.ai/",
+  "description": "GlucoCare aims to provide a painless way for health-conscious consumers to measure their risk of diabetes.",
+  "founded_year": 2023,
+  "location": "Indonesia",
+  "sector": "Health and BioTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67bd8b829182f64ceb385007_portfolio%252Fcompany%252Fb6fb4ff7-a048-4d7c-aa14-368209cde184%252F1740475242011-Asset%25201.png",
+  "url": "https://www.antler.co/portfolio/glucocare",
+  "api": "https://antler-api.github.io/companies/glucocare.json"
+}

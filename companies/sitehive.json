@@ -1,0 +1,13 @@
+{
+  "id": "antler-sitehive",
+  "name": "SiteHive",
+  "slug": "sitehive",
+  "website": "https://sitehive.co/",
+  "description": "SiteHive transforms how people manage environmental impact in construction. We harness modern technology and innovative ideas to deliver an environmental management solution that’s already used on over 50 major construction projects.",
+  "founded_year": 2019,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67e4dd513b70b565cd82362b_portfolio%252Fcompany%252Fd532c9a7-a347-4dc2-8ae4-21d5b75ffa7b%252F1743052104965-SiteHiveLogo_Horizontal_DarkOrangeGradient.avif",
+  "url": "https://www.antler.co/portfolio/sitehive",
+  "api": "https://antler-api.github.io/companies/sitehive.json"
+}

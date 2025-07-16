@@ -1,0 +1,13 @@
+{
+  "id": "antler-paperlab",
+  "name": "PaperLab",
+  "slug": "paperlab",
+  "website": "https://www.paperlab.ai/",
+  "description": "Enabling researchers and R&D teams to extract insights from thousands of complex documents in minutes.",
+  "founded_year": 2024,
+  "location": "Australia",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67a304427ded44987a7080cb_portfolio%252Fcompany%252F6d489cf9-6069-4f5c-85d6-deb6b2afca80%252F1738736692291-PaperLab%2520Rounded%2520Logo.avif",
+  "url": "https://www.antler.co/portfolio/paperlab",
+  "api": "https://antler-api.github.io/companies/paperlab.json"
+}

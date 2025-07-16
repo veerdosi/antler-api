@@ -1,0 +1,13 @@
+{
+  "id": "antler-merlin-bi",
+  "name": "Merlin BI",
+  "slug": "merlin-bi",
+  "website": "https://www.merlinbi.com/",
+  "description": "Merlin BI is an AI solution that enhances business intelligence by offering industry-centric actionable insights so managers can focus on growing their business. Merlin addresses key challenges in enterprise data analytics such as providing contextual dashboards, bridging the analyst-leadership communication gap, and managing scaling costs. Our solution integrates smoothly with existing data systems, offering a complete view of business operations, and addressing a variety of management pain points including customer conversion and retention, revenue analysis and attribution, user segmentation and risk analysis, among others. By combining machine learning and large language models with domain expertise Merlin can translate complex data into strategic and actionable insights in simple English.",
+  "founded_year": 2023,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/674d4eeda8678ea3d99559f3_portfolio%252Fcompany%252F2b7e73ae-2310-41a0-9f21-c2647cdb6512%252F1733119264662-logo.avif",
+  "url": "https://www.antler.co/portfolio/merlin-bi",
+  "api": "https://antler-api.github.io/companies/merlin-bi.json"
+}

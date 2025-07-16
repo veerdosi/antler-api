@@ -1,0 +1,13 @@
+{
+  "id": "antler-synthax",
+  "name": "Synthax",
+  "slug": "synthax",
+  "website": "https://synthax.ai",
+  "description": "Automating healthcare admin, so doctors can focus on the patient.",
+  "founded_year": 2024,
+  "location": "Unknown",
+  "sector": "Health and BioTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67c5bb481e7a41098b120de1_portfolio%252Fcompany%252Fe37665e1-3b25-45da-a385-d9ec674728b4%252F1741011737664-synthax_logo_solid%25201.svg",
+  "url": "https://www.antler.co/portfolio/synthax",
+  "api": "https://antler-api.github.io/companies/synthax.json"
+}

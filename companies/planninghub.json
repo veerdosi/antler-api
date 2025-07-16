@@ -1,0 +1,13 @@
+{
+  "id": "antler-planninghub",
+  "name": "PlanningHub",
+  "slug": "planninghub",
+  "website": "https://planning-hub.com/",
+  "description": "AI-powered instant planning insights for property development",
+  "founded_year": 2023,
+  "location": "Unknown",
+  "sector": "Real Estate and PropTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66b44bf074ee497e16a2eb6a_32l_WhY5XnNojbfFk6wzLYzV5wT3aKQcgPm6CuWlhno.avif",
+  "url": "https://www.antler.co/portfolio/planninghub",
+  "api": "https://antler-api.github.io/companies/planninghub.json"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "antler-docufen",
+  "name": "Docufen",
+  "slug": "docufen",
+  "website": "https://docufen.com",
+  "description": "Docufen simplifies the process of compliant data entry by allowing users to input text and attachments directly in Microsoft Word, eliminating the need for manual paper-based regulated entry.",
+  "founded_year": 2023,
+  "location": "Australia",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67de0ca174da23a812e5cd4e_portfolio%252Fcompany%252Fde629a52-7b2a-451b-a248-cd10607a219f%252F1742605466971-docufen.avif",
+  "url": "https://www.antler.co/portfolio/docufen",
+  "api": "https://antler-api.github.io/companies/docufen.json"
+}

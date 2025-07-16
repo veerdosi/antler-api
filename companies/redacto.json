@@ -1,0 +1,13 @@
+{
+  "id": "antler-redacto",
+  "name": "Redacto",
+  "slug": "redacto",
+  "website": "https://www.redacto.io/",
+  "description": "Redacto is a provider of software privacy solutions. The company will enable customers to be compliant with GDPR, DPDP, and similar regulations.",
+  "founded_year": 2025,
+  "location": "India",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/685beeda152523da4abad402_portfolio%252Fcompany%252F703aa39a-11e8-4df3-ac44-978b0c668db9%252F1750855312185-redacto_io_logo.jpeg",
+  "url": "https://www.antler.co/portfolio/redacto",
+  "api": "https://antler-api.github.io/companies/redacto.json"
+}

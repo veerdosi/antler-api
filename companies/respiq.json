@@ -1,0 +1,13 @@
+{
+  "id": "antler-respiq",
+  "name": "RespiQ",
+  "slug": "respiq",
+  "website": "https://respiq.com/",
+  "description": "Smart breath testing for personalized health management.",
+  "founded_year": 2019,
+  "location": "Netherlands",
+  "sector": "Health and BioTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67f507a259d90dc41f1c7b21_portfolio%252Fcompany%252F81938d23-b01e-4874-b653-57284a65f60b%252F1725844256563-logo.avif",
+  "url": "https://www.antler.co/portfolio/respiq",
+  "api": "https://antler-api.github.io/companies/respiq.json"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "antler-kima",
+  "name": "Kima",
+  "slug": "kima",
+  "website": "https://www.kima.coach/",
+  "description": "Elite-level basketball training in your pocket, any time, any court.",
+  "founded_year": 2025,
+  "location": "Finland",
+  "sector": "ConsumerTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/68622dbb83cf62086c005d9e_teams%252F365b6791-7237-4d04-8434-e58d12717c10%252Flogos%252FIMG_0124.png",
+  "url": "https://www.antler.co/portfolio/kima",
+  "api": "https://antler-api.github.io/companies/kima.json"
+}

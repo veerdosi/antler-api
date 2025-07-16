@@ -1,0 +1,13 @@
+{
+  "id": "antler-power-dime",
+  "name": "Power Dime",
+  "slug": "power-dime",
+  "website": "https://powerdime.io/",
+  "description": "AI and Smart Contracts enabled digital ecosystem that helps companies invest in renewable energy",
+  "founded_year": 2024,
+  "location": "Canada",
+  "sector": "Energy and ClimateTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/675df20567d84bfd2ec308fd_teams%252F0f98f905-77b2-4b20-a1c3-3c8bc00df312%252Flogos%252FScreenshot%25202024-11-26%2520203655.avif",
+  "url": "https://www.antler.co/portfolio/power-dime",
+  "api": "https://antler-api.github.io/companies/power-dime.json"
+}

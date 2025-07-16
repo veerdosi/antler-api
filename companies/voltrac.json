@@ -1,0 +1,13 @@
+{
+  "id": "antler-voltrac",
+  "name": "Voltrac",
+  "slug": "voltrac",
+  "website": "https://voltrac.eu/",
+  "description": "Autonomous infrastructure for farming and frontline logistics",
+  "founded_year": 2024,
+  "location": "Spain",
+  "sector": "Industrials",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/6849a00cad17114bf7118f3a_portfolio%252Fcompany%252Ffc916679-2558-4fd4-bb3d-c5f6d657a1c0%252F1725423043117-logo.png",
+  "url": "https://www.antler.co/portfolio/voltrac",
+  "api": "https://antler-api.github.io/companies/voltrac.json"
+}

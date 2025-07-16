@@ -1,0 +1,13 @@
+{
+  "id": "antler-hirebound",
+  "name": "Hirebound",
+  "slug": "hirebound",
+  "website": "https://hirebound.io/",
+  "description": "HireBound is an AI recruiter that helps high-volume staffing firms save 50% of their time by automating candidate discovery, engagement, screening, and scheduling.",
+  "founded_year": 2024,
+  "location": "India",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67a8b4f635d51771afaa8990_portfolio%252Fcompany%252F08b31895-e134-44a6-9275-fc0b42db93f2%252F1739109559012-hireboundlogo.svg",
+  "url": "https://www.antler.co/portfolio/hirebound",
+  "api": "https://antler-api.github.io/companies/hirebound.json"
+}

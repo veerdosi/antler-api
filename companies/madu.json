@@ -1,0 +1,13 @@
+{
+  "id": "antler-madu",
+  "name": "Madu",
+  "slug": "madu",
+  "website": "https://www.madu.ai",
+  "description": "MADU is a software solution that helps to discover products within visual content and turn them into an instant shopping experience.",
+  "founded_year": 2022,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67e4da01d9b6d6d9a9aa5c52_portfolio%252Fcompany%252Fccd45dfd-217c-4699-9480-66dbeb6f557e%252F1743051253369-maduagency_cover.avif",
+  "url": "https://www.antler.co/portfolio/madu",
+  "api": "https://antler-api.github.io/companies/madu.json"
+}

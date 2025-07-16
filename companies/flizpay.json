@@ -1,0 +1,13 @@
+{
+  "id": "antler-flizpay",
+  "name": "FLIZpay",
+  "slug": "flizpay",
+  "website": "https://www.flizpay.de/",
+  "description": "FLIZpay is a payment method that is free for 90% of businesses while rewarding consumers with savings through cashback, creating a win-win for everyone.",
+  "founded_year": 2024,
+  "location": "Germany",
+  "sector": "FinTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/684807752570b3d6df387d75_portfolio%252Fcompany%252F13b4d568-56bd-4366-805e-5b63740ac00a%252F1726583892646-High-DPI%2520(Retina)_%2520icon-256x256.(png_jpg).avif",
+  "url": "https://www.antler.co/portfolio/flizpay",
+  "api": "https://antler-api.github.io/companies/flizpay.json"
+}

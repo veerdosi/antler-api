@@ -1,0 +1,13 @@
+{
+  "id": "antler-codeintegrity",
+  "name": "CodeIntegrity",
+  "slug": "codeintegrity",
+  "website": "https://codeintegrity.ai",
+  "description": "Automate technical debt reduction with AI.",
+  "founded_year": 2024,
+  "location": "Unknown",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67ad37ea400c8b7a853f0f74_teams%252F81f31412-5df0-4224-8b41-dd76c8aa2c9e%252Flogos%252Fprogramming-lemur-wearing-a-wizards-hat.avif",
+  "url": "https://www.antler.co/portfolio/codeintegrity",
+  "api": "https://antler-api.github.io/companies/codeintegrity.json"
+}

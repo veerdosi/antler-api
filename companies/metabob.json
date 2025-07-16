@@ -1,0 +1,13 @@
+{
+  "id": "antler-metabob",
+  "name": "Metabob",
+  "slug": "metabob",
+  "website": "https://metabob.com",
+  "description": "Metabob is your all-in-one assistant to track and improve developer productivity by drawing on the experience of millions of software developers with their AI-assisted static code analysis.",
+  "founded_year": 2021,
+  "location": "Unknown",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67009e3a25e6482d07bcdb17_portfolio%252Fcompany%252F0e136eb6-48c1-4cbd-aa6c-017f65006464%252F1728093697893-metabob.avif",
+  "url": "https://www.antler.co/portfolio/metabob",
+  "api": "https://antler-api.github.io/companies/metabob.json"
+}

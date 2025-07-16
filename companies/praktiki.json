@@ -1,0 +1,13 @@
+{
+  "id": "antler-praktiki",
+  "name": "Praktiki",
+  "slug": "praktiki",
+  "website": "https://praktiki.io/",
+  "description": "Duolingo for Doctors",
+  "founded_year": 2024,
+  "location": "Unknown",
+  "sector": "Health and BioTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67cf153c332c44c83abc78b4_portfolio%252Fcompany%252Fe389cfb5-0abe-4b0b-84f3-7ee202b25559%252F1741624624472-Asset%25202.png",
+  "url": "https://www.antler.co/portfolio/praktiki",
+  "api": "https://antler-api.github.io/companies/praktiki.json"
+}

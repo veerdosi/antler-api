@@ -1,0 +1,13 @@
+{
+  "id": "antler-apnibus",
+  "name": "ApniBus",
+  "slug": "apnibus",
+  "website": "https://apnibus.com/",
+  "description": "A just-in-time booking, ticketing and fleet solution for the 30 million daily intercity travelers",
+  "founded_year": 2021,
+  "location": "India",
+  "sector": "ConsumerTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67f8f67c45eeda711aaacd96_portfolio%252Fcompany%252F90b7c324-6fac-4262-a2fe-7fc898a16c21%252F1744369235897-Apnibus.avif",
+  "url": "https://www.antler.co/portfolio/apnibus",
+  "api": "https://antler-api.github.io/companies/apnibus.json"
+}

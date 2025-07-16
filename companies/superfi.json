@@ -1,0 +1,13 @@
+{
+  "id": "antler-superfi",
+  "name": "SuperFi",
+  "slug": "superfi",
+  "website": "https://www.joinsuperfi.com/",
+  "description": "SuperFi helps people to stay on top of their bills and out of problem debt.",
+  "founded_year": 2021,
+  "location": "Unknown",
+  "sector": "FinTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/6790bf57cda69bcc2a7b8553_portfolio%252Fcompany%252Fc4884be4-6767-44e3-b866-14da0bcc5925%252F1737539347147-Logo_square_colour%2520(1).avif",
+  "url": "https://www.antler.co/portfolio/superfi",
+  "api": "https://antler-api.github.io/companies/superfi.json"
+}

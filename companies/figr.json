@@ -1,0 +1,13 @@
+{
+  "id": "antler-figr",
+  "name": "Figr",
+  "slug": "figr",
+  "website": "https://figr.design/",
+  "description": "Autopilot for design research. UI/UX designers spend countless hours on research and design. Figr uses AI to build a full-stack co-pilot for end-to-end design work, from research to coding. The team combines Moksh's product design expertise with Chirag's machine learning background.",
+  "founded_year": 2023,
+  "location": "India",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/685a6591083848e58dc0eb48_portfolio%252Fcompany%252Fa1566a55-8835-4317-9d5f-ac7507486086%252F1744028579968-Figr.jpeg",
+  "url": "https://www.antler.co/portfolio/figr",
+  "api": "https://antler-api.github.io/companies/figr.json"
+}

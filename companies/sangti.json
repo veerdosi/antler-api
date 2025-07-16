@@ -1,0 +1,13 @@
+{
+  "id": "antler-sangti",
+  "name": "Sangti",
+  "slug": "sangti",
+  "website": "https://sangti.tech/home",
+  "description": "Sangti is a Logistics focused climate tech platform providing tools and capabilities for companies to measure their shipment emissions, identify actions to decarbonize and activate low-carbon delivery options.",
+  "founded_year": 2023,
+  "location": "India",
+  "sector": "Energy and ClimateTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/6857d82954eb488604938d5f_portfolio%252Fcompany%252F656ffc33-edfc-4c26-8ee9-5b6886d8cf31%252F1750587418768-sangti_logo.jpeg",
+  "url": "https://www.antler.co/portfolio/sangti",
+  "api": "https://antler-api.github.io/companies/sangti.json"
+}

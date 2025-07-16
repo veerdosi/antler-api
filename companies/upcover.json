@@ -1,0 +1,13 @@
+{
+  "id": "antler-upcover",
+  "name": "Upcover",
+  "slug": "upcover",
+  "website": "https://www.upcover.com.au",
+  "description": "upcover is bringing business insurance for independent contractors, startups and SME's into the 21st century, by offering plug and play business insurance solutions to any startup, business, platform or marketplace.",
+  "founded_year": 2019,
+  "location": "Australia",
+  "sector": "FinTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67de04730eed1dd8bd2fc1eb_portfolio%252Fcompany%252F65422dfb-998f-40f7-9c16-0db7824d70b0%252F1742603372470-Upcover.avif",
+  "url": "https://www.antler.co/portfolio/upcover",
+  "api": "https://antler-api.github.io/companies/upcover.json"
+}

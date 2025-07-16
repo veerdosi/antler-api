@@ -1,0 +1,13 @@
+{
+  "id": "antler-noetic",
+  "name": "Noetic",
+  "slug": "noetic",
+  "website": "https://noetic.health/",
+  "description": "Noetic is the first end to end platform for adult neurodivergence, offering fast and affordable screening, diagnosis and personalised support.",
+  "founded_year": 2023,
+  "location": "Unknown",
+  "sector": "Health and BioTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67d861cabd09d327f839fe79_portfolio%252Fcompany%252Fc1b04086-e027-4b25-9d39-42ab04d8359e%252F1725421668383-logo.avif",
+  "url": "https://www.antler.co/portfolio/noetic",
+  "api": "https://antler-api.github.io/companies/noetic.json"
+}

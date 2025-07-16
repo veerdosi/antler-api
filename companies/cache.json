@@ -1,0 +1,13 @@
+{
+  "id": "antler-cache",
+  "name": "Cache",
+  "slug": "cache",
+  "website": "https://cacheinyourcloset.com/",
+  "description": "Reselling clothes made as easy as buying them.",
+  "founded_year": 2024,
+  "location": "Canada",
+  "sector": "ConsumerTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/678549fe7db5a28bee414be4_portfolio%252Fcompany%252Fd0b095ae-7c69-4aa7-b6ce-924557330a0d%252F1736786888117-Cache%2520Logo.avif",
+  "url": "https://www.antler.co/portfolio/cache",
+  "api": "https://antler-api.github.io/companies/cache.json"
+}

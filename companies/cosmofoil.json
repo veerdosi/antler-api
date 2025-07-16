@@ -1,0 +1,13 @@
+{
+  "id": "antler-cosmofoil",
+  "name": "CosmoFoil",
+  "slug": "cosmofoil",
+  "website": "https://g.cosmofoil.com/",
+  "description": "AI co-pilot for the airline industry",
+  "founded_year": 2024,
+  "location": "Sweden",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/6756d4b9f7af03dfc4e6ea53_portfolio%252Fcompany%252F396b6997-299f-43b3-99b4-425fb3305466%252F1733743782380-cosmofoil_logo_name.avif",
+  "url": "https://www.antler.co/portfolio/cosmofoil",
+  "api": "https://antler-api.github.io/companies/cosmofoil.json"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "antler-lovable",
+  "name": "Lovable",
+  "slug": "lovable",
+  "website": "https://lovable.dev/",
+  "description": "No code AI software engineer",
+  "founded_year": 2023,
+  "location": "Sweden",
+  "sector": "ConsumerTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/6851226eb7a03a9f0b24a0be_portfolio%252Fcompany%252F25f33d35-23fe-4e15-959c-b1fe2cf7e756%252F1750147684757-logoblack.svg",
+  "url": "https://www.antler.co/portfolio/lovable",
+  "api": "https://antler-api.github.io/companies/lovable.json"
+}

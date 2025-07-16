@@ -1,0 +1,13 @@
+{
+  "id": "antler-moneta",
+  "name": "Moneta",
+  "slug": "moneta",
+  "website": "https://moneta.sg/",
+  "description": "AI-driven risk management platform for lenders",
+  "founded_year": 2024,
+  "location": "Indonesia",
+  "sector": "FinTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67c5b66291f57170dc9ab9b5_portfolio%252Fcompany%252Fc893155a-8a5a-411c-9363-a4c663011abf%252F1741010521182-image%2520(25).avif",
+  "url": "https://www.antler.co/portfolio/moneta",
+  "api": "https://antler-api.github.io/companies/moneta.json"
+}

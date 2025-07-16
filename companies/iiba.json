@@ -1,0 +1,13 @@
+{
+  "id": "antler-iiba",
+  "name": "iiba",
+  "slug": "iiba",
+  "website": "https://corporate.iiba.space/",
+  "description": "iiba is a parenting review platform built on the foundation of the reputation economy and token economy / iibaは、評価経済×トークンエコノミーを基盤とした子育て系口コミ情報プラットフォームです",
+  "founded_year": 2023,
+  "location": "Japan",
+  "sector": "ConsumerTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67ddebf7bd4d385ddd7cbe29_portfolio%252Fcompany%252F5cc861e3-6fab-42fe-b5ba-b8b289f8d2f4%252F1732060110571-logo.avif",
+  "url": "https://www.antler.co/portfolio/iiba",
+  "api": "https://antler-api.github.io/companies/iiba.json"
+}

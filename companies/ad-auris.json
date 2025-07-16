@@ -1,0 +1,13 @@
+{
+  "id": "antler-ad-auris",
+  "name": "Ad Auris",
+  "slug": "ad-auris",
+  "website": "https://www.ad-auris.com",
+  "description": "Ad Auris is a portfolio company of Antler.",
+  "founded_year": 2021,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66d6ddcdc1069612d50729ee_wXGezFrRr_AqeDD5GFz1ZATjkGCd7cktKe4KgEsLRLE.svg",
+  "url": "https://www.antler.co/portfolio/ad-auris",
+  "api": "https://antler-api.github.io/companies/ad-auris.json"
+}

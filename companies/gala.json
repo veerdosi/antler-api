@@ -1,0 +1,13 @@
+{
+  "id": "antler-gala",
+  "name": "Gala",
+  "slug": "gala",
+  "website": "https://galaglp1.com",
+  "description": "The leading platform for GLP-1 treatment management.",
+  "founded_year": 2024,
+  "location": "Unknown",
+  "sector": "Health and BioTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67ad17f0838a83e4dd39ceb0_portfolio%252Fcompany%252F79eda0ee-bd38-4f49-96bf-6e4ad398658e%252F1739396950390-logo-square%2520(2).avif",
+  "url": "https://www.antler.co/portfolio/gala",
+  "api": "https://antler-api.github.io/companies/gala.json"
+}

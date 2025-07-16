@@ -1,0 +1,13 @@
+{
+  "id": "antler-bndr",
+  "name": "bndr",
+  "slug": "bndr",
+  "website": "https://bndrapp.com",
+  "description": "bndr is a portfolio company of Antler.",
+  "founded_year": 2025,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/68503f1558df3b730f320a51_teams%252F3d9fedb5-1136-4377-9fbb-b63763a5f161%252Flogos%252Flogo2.png",
+  "url": "https://www.antler.co/portfolio/bndr",
+  "api": "https://antler-api.github.io/companies/bndr.json"
+}

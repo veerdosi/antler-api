@@ -1,0 +1,13 @@
+{
+  "id": "antler-airmo",
+  "name": "Airmo",
+  "slug": "airmo",
+  "website": "https://airmo.io",
+  "description": "A new approach to locate, quantify and track methane emissions for net-0 future.",
+  "founded_year": 2023,
+  "location": "Germany",
+  "sector": "Energy and ClimateTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/68597b86266a13f4688620c0_portfolio%252Fcompany%252F48643dda-a475-4f87-a1b6-1500f94178c3%252F1725844301818-logo.png",
+  "url": "https://www.antler.co/portfolio/airmo",
+  "api": "https://antler-api.github.io/companies/airmo.json"
+}

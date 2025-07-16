@@ -1,0 +1,13 @@
+{
+  "id": "antler-chronicare",
+  "name": "ChroniCare",
+  "slug": "chronicare",
+  "website": "https://chronicare.io",
+  "description": "Peer community and tracking app for chronic disease patients.",
+  "founded_year": 2025,
+  "location": "Denmark",
+  "sector": "Health and BioTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/686d2b7487d2b9b3032be753_portfolio%252Fcompany%252F7b216263-b016-494b-aeb9-6aad34c83231%252F1751984992179-textLogoBig.png",
+  "url": "https://www.antler.co/portfolio/chronicare",
+  "api": "https://antler-api.github.io/companies/chronicare.json"
+}

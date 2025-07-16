@@ -1,0 +1,13 @@
+{
+  "id": "antler-qash",
+  "name": "Qash",
+  "slug": "qash",
+  "website": "https://www.qash.ai/",
+  "description": "Qash enables individuals in unstable economies to save, spend, and invest in the United States by democratizing access to the U.S. banking system.",
+  "founded_year": 2024,
+  "location": "Netherlands",
+  "sector": "FinTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/68315767834153dd24ee53b5_portfolio%252Fcompany%252Fa0e9db24-46e9-4fe5-b9d5-abe4eedaa96c%252F1748063921280-Qash_Logos_Qash_Imagotipo_4.avif",
+  "url": "https://www.antler.co/portfolio/qash",
+  "api": "https://antler-api.github.io/companies/qash.json"
+}

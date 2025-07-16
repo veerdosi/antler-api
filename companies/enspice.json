@@ -1,0 +1,13 @@
+{
+  "id": "antler-enspice",
+  "name": "EnSpice",
+  "slug": "enspice",
+  "website": "https://www.enspice.com",
+  "description": "Enspice offers nutrient enhanced spices with 13 vitamins and 8 minerals. They also promote food equity by providing a nutrient-dense meal for a malnourished child for each Enspice that is sold.",
+  "founded_year": 2021,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66d6defe6f0482aa08bcba54_mGEJvGyqJNuSAB1CirGq_yxwS3qEtL65Z-8CW9fy9Fk.avif",
+  "url": "https://www.antler.co/portfolio/enspice",
+  "api": "https://antler-api.github.io/companies/enspice.json"
+}

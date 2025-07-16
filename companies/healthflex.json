@@ -1,0 +1,13 @@
+{
+  "id": "antler-healthflex",
+  "name": "Healthflex",
+  "slug": "healthflex",
+  "website": "https://www.stance.health/",
+  "description": "Pain and recovery management company assisted by hardware & software focused on MSK health",
+  "founded_year": 2023,
+  "location": "India",
+  "sector": "Health and BioTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/6857dac3972dfa690aee14d6_portfolio%252Fcompany%252Fc552d0f3-7f2e-410f-a7f0-a04d7000cade%252F1750588004880-1696916036846.jpeg",
+  "url": "https://www.antler.co/portfolio/healthflex",
+  "api": "https://antler-api.github.io/companies/healthflex.json"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "antler-shiplinker",
+  "name": "ShipLinker",
+  "slug": "shiplinker",
+  "website": "https://www.shiplinker.co/",
+  "description": "ShipLinker is a portfolio company of Antler.",
+  "founded_year": 2024,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67657fb5624a9b165d70999e_teams%252Fa8fc82a3-0aa2-4b1a-8a82-b1f5090dd5ca%252Flogos%252Ficononly.avif",
+  "url": "https://www.antler.co/portfolio/shiplinker",
+  "api": "https://antler-api.github.io/companies/shiplinker.json"
+}

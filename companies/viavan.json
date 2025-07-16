@@ -1,0 +1,13 @@
+{
+  "id": "antler-viavan",
+  "name": "Viavan",
+  "slug": "viavan",
+  "website": "https://viavan.com.br/",
+  "description": "Automating operations to boost efficiency and ensure safer journeys for school van drivers and students.",
+  "founded_year": 2024,
+  "location": "Brazil",
+  "sector": "ConsumerTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/680ab6c12dc91858f0cd2d83_portfolio%252Fcompany%252Ff7d1f479-22ea-45e5-bf57-afd724b35430%252F1729139363583-logo.avif",
+  "url": "https://www.antler.co/portfolio/viavan",
+  "api": "https://antler-api.github.io/companies/viavan.json"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "antler-foodini",
+  "name": "Foodini",
+  "slug": "foodini",
+  "website": "https://www.getfoodini.com/",
+  "description": "Foodini connects people with dietary needs to the venues and menu items most suitable for them",
+  "founded_year": 2022,
+  "location": "Australia",
+  "sector": "ConsumerTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67de01c4431518296c4d5204_portfolio%252Fcompany%252Ff6c5dd1e-7f2b-4056-9dbb-969fb55c3d07%252F1742602597696-foodini.avif",
+  "url": "https://www.antler.co/portfolio/foodini",
+  "api": "https://antler-api.github.io/companies/foodini.json"
+}

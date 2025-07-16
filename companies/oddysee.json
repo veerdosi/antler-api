@@ -1,0 +1,13 @@
+{
+  "id": "antler-oddysee",
+  "name": "Oddysee",
+  "slug": "oddysee",
+  "website": "https://www.oddysee.co/",
+  "description": "Oddysee makes travelling with friends effortless. Discover, plan, and book all from one app.",
+  "founded_year": 2022,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66b44a4d8f3a49b61b287908_aVmnwd9zfsGdZuoDa4-qekWXkj_J7uKdwEaHtqUqH_I.avif",
+  "url": "https://www.antler.co/portfolio/oddysee",
+  "api": "https://antler-api.github.io/companies/oddysee.json"
+}

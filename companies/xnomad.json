@@ -1,0 +1,13 @@
+{
+  "id": "antler-xnomad",
+  "name": "xNomad",
+  "slug": "xnomad",
+  "website": "https://xnomad.co",
+  "description": "Marketplace for short-term rental spaces",
+  "founded_year": 2019,
+  "location": "Sweden",
+  "sector": "Real Estate and PropTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66b453356081b0d03ea89777_kvoRaPbS5tGYZpUEyMQlSR3pFlwsG0mHfc2lD5G9HgQ.avif",
+  "url": "https://www.antler.co/portfolio/xnomad",
+  "api": "https://antler-api.github.io/companies/xnomad.json"
+}

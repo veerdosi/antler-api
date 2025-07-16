@@ -1,0 +1,13 @@
+{
+  "id": "antler-crafty",
+  "name": "Crafty",
+  "slug": "crafty",
+  "website": "https://crafty.so/",
+  "description": "AI to help enterprise sales teams increase RFP win rates, and reduce time spent on RFP responses by 90%.",
+  "founded_year": 2023,
+  "location": "Australia",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67ddff8fc51b87e3e93f50d0_portfolio%252Fcompany%252F4daad5d1-a5ec-4ebd-8d39-af6ce8b4098f%252F1742602121449-Crafty%2520AI.avif",
+  "url": "https://www.antler.co/portfolio/crafty",
+  "api": "https://antler-api.github.io/companies/crafty.json"
+}

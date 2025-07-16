@@ -1,0 +1,13 @@
+{
+  "id": "antler-trace",
+  "name": "Trace",
+  "slug": "trace",
+  "website": "https://www.our-trace.com",
+  "description": "trace makes it easy and rewarding for anyone to become carbon neutral. We help consumers, employees and consumer brands measure and offset their carbon footprint and track and share their impact.",
+  "founded_year": 2020,
+  "location": "Australia",
+  "sector": "Energy and ClimateTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67ef56880c10440b55cef29b_portfolio%252Fcompany%252F1f1baaf6-a077-44d7-b237-37d5eb4c8383%252F1743738488266-5f74274ba1191555da7c64b0_Trace%2520logo%2520-%2520green%2520no%2520background.avif",
+  "url": "https://www.antler.co/portfolio/trace",
+  "api": "https://antler-api.github.io/companies/trace.json"
+}

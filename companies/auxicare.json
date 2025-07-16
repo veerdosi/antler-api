@@ -1,0 +1,13 @@
+{
+  "id": "antler-auxicare",
+  "name": "Auxicare",
+  "slug": "auxicare",
+  "website": "https://www.auxicare.fr",
+  "description": "Enable at-home care for all seniors, thanks to independent caregivers",
+  "founded_year": 2024,
+  "location": "France",
+  "sector": "Health and BioTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/682e28627a069dd900df0099_portfolio%252Fcompany%252F569c379f-723c-490e-ab86-84a8bc877ab8%252F1725844145861-logo.avif",
+  "url": "https://www.antler.co/portfolio/auxicare",
+  "api": "https://antler-api.github.io/companies/auxicare.json"
+}

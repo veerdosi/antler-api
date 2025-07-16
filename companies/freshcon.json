@@ -1,0 +1,13 @@
+{
+  "id": "antler-freshcon",
+  "name": "Freshcon",
+  "slug": "freshcon",
+  "website": "https://www.freshcon.net/",
+  "description": "Simplifying home cooking with ready-to-cook foods starting with staples.",
+  "founded_year": 2025,
+  "location": "India",
+  "sector": "ConsumerTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67f8f8edc511085fbd3610e9_portfolio%252Fcompany%252F621b30d6-8cd7-450e-8de0-241e5d4dea96%252F1744369866788-FreshCon.avif",
+  "url": "https://www.antler.co/portfolio/freshcon",
+  "api": "https://antler-api.github.io/companies/freshcon.json"
+}

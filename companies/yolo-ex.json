@@ -1,0 +1,13 @@
+{
+  "id": "antler-yolo-ex",
+  "name": "Yolo.ex",
+  "slug": "yolo-ex",
+  "website": "https://www.yoloex.io/",
+  "description": "Game-based financial market database platform for millennial investors",
+  "founded_year": 2020,
+  "location": "Australia",
+  "sector": "FinTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67ddfe256283bd333fd0cef7_portfolio%252Fcompany%252F301f5802-d8c4-4ff3-8739-9e8e7012e6a9%252F1742601657534-yolo-ex.avif",
+  "url": "https://www.antler.co/portfolio/yolo-ex",
+  "api": "https://antler-api.github.io/companies/yolo-ex.json"
+}

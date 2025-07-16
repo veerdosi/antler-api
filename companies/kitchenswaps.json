@@ -1,0 +1,13 @@
+{
+  "id": "antler-kitchenswaps",
+  "name": "Kitchenswaps",
+  "slug": "kitchenswaps",
+  "website": "https://kitchenswaps.com",
+  "description": "Starting your food business within 48 hours.",
+  "founded_year": 2021,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66b44bdf1758a740c5908d68_OWVw8r8Ru4YOAQB4e73PlYLrjYddV3S2g7JOdPH-CHo.avif",
+  "url": "https://www.antler.co/portfolio/kitchenswaps",
+  "api": "https://antler-api.github.io/companies/kitchenswaps.json"
+}

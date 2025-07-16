@@ -1,0 +1,13 @@
+{
+  "id": "antler-rhevolut",
+  "name": "Rhevolut",
+  "slug": "rhevolut",
+  "website": "https://rhevolut.com",
+  "description": "Rhevolut makes recruitment ridiculously simple by rethinking CVs and matchmaking between companies and talents.",
+  "founded_year": 2023,
+  "location": "Brazil",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/680aaf6b1e3833b30c8b912d_portfolio%252Fcompany%252Fcf9f48f0-3215-43cb-9ec3-30fbf64a6134%252F1725423835542-logo.avif",
+  "url": "https://www.antler.co/portfolio/rhevolut",
+  "api": "https://antler-api.github.io/companies/rhevolut.json"
+}

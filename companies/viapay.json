@@ -1,0 +1,13 @@
+{
+  "id": "antler-viapay",
+  "name": "ViaPay",
+  "slug": "viapay",
+  "website": "https://viapay.com.au/",
+  "description": "Powering business with order-to-cash automation.",
+  "founded_year": 2024,
+  "location": "Australia",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/68127e363fe1ea40ecd19f56_portfolio%252Fcompany%252F9f20c9e0-ff09-442b-8f15-d1b9d1be95ca%252F1738735812031-logo3.avif",
+  "url": "https://www.antler.co/portfolio/viapay",
+  "api": "https://antler-api.github.io/companies/viapay.json"
+}

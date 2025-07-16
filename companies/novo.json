@@ -1,0 +1,13 @@
+{
+  "id": "antler-novo",
+  "name": "NOVO",
+  "slug": "novo",
+  "website": "https://novo.eco",
+  "description": "NOVO empowers banks to analyze, plan and finance energy renovation of real estate.",
+  "founded_year": 2022,
+  "location": "Germany",
+  "sector": "Energy and ClimateTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/682e2b5630c911532f0b440a_portfolio%252Fcompany%252F41064701-c2ae-4f2d-ad35-1d7fa5a190e0%252F1725844237983-logo.avif",
+  "url": "https://www.antler.co/portfolio/novo",
+  "api": "https://antler-api.github.io/companies/novo.json"
+}

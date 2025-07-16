@@ -1,0 +1,13 @@
+{
+  "id": "antler-govy",
+  "name": "Govy",
+  "slug": "govy",
+  "website": "https://govy.com.br/",
+  "description": "Empowering businesses to navigate Brazil's public procurement landscape.",
+  "founded_year": 2024,
+  "location": "Brazil",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/680961f2627d641db847bef0_portfolio%252Fcompany%252F496cbc1a-2a8d-428b-b3e7-74ad8ffc45b0%252F1729139353959-logo.avif",
+  "url": "https://www.antler.co/portfolio/govy",
+  "api": "https://antler-api.github.io/companies/govy.json"
+}

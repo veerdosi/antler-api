@@ -1,0 +1,13 @@
+{
+  "id": "antler-carenow",
+  "name": "CareNow",
+  "slug": "carenow",
+  "website": "https://www.carenow.id/",
+  "description": "Pay for any medical treatment in instalments",
+  "founded_year": 2022,
+  "location": "Indonesia",
+  "sector": "FinTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67c7cc242a63ab969c9789e9_portfolio%252Fcompany%252Fd1956081-e3fd-4641-8fb7-17d6febc062e%252F1725422153357-logo.avif",
+  "url": "https://www.antler.co/portfolio/carenow",
+  "api": "https://antler-api.github.io/companies/carenow.json"
+}

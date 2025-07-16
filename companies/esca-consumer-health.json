@@ -1,0 +1,13 @@
+{
+  "id": "antler-esca-consumer-health",
+  "name": "ESCA Consumer Health",
+  "slug": "esca-consumer-health",
+  "website": "https://escahealth.com/#main",
+  "description": "Empowering Self Care for Modern Lifestyles.",
+  "founded_year": 2025,
+  "location": "India",
+  "sector": "ConsumerTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/6859c249b41428b6f02c165c_portfolio%252Fcompany%252Fd3746499-1e55-4e44-8476-d49415dbf017%252F1750712850641-escahealth_logo.jpeg",
+  "url": "https://www.antler.co/portfolio/esca-consumer-health",
+  "api": "https://antler-api.github.io/companies/esca-consumer-health.json"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "antler-talkblue",
+  "name": "Talkblue",
+  "slug": "talkblue",
+  "website": "https://talkblue.com.br/",
+  "description": "TalkBlue is a conversational e-commerce platform. The merchant easily connects the stock and starts selling 24 hours a day on the WhatsApp channel",
+  "founded_year": 2023,
+  "location": "Brazil",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/680ab45e68649f9ca86e5e93_portfolio%252Fcompany%252Faede05df-178e-4ad2-ad62-390c8062c21b%252F1725423844343-logo.avif",
+  "url": "https://www.antler.co/portfolio/talkblue",
+  "api": "https://antler-api.github.io/companies/talkblue.json"
+}

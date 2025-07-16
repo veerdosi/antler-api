@@ -1,0 +1,13 @@
+{
+  "id": "antler-sorted",
+  "name": "Sorted",
+  "slug": "sorted",
+  "website": "https://www.sortedtech.io/",
+  "description": "Sorted is building AI-powered solutions to help waste management companies mechanically sort their recyclable materials.",
+  "founded_year": 2022,
+  "location": "Unknown",
+  "sector": "Energy and ClimateTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67d861705a7247156474266c_portfolio%252Fcompany%252Fbfd09926-7422-42ac-a866-568238a71f88%252F1725421708835-logo.avif",
+  "url": "https://www.antler.co/portfolio/sorted",
+  "api": "https://antler-api.github.io/companies/sorted.json"
+}

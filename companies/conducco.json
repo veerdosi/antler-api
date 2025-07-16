@@ -1,0 +1,13 @@
+{
+  "id": "antler-conducco",
+  "name": "Conducco",
+  "slug": "conducco",
+  "website": "https://www.conducco.com/",
+  "description": "Building the largest insurance and benefits distribution platform for companies and their employees",
+  "founded_year": 2024,
+  "location": "Brazil",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/680955ed22973c5d4fe3315f_portfolio%252Fcompany%252F3025f409-90ca-481b-90b5-cd47ab878cba%252F1729139360487-logo.avif",
+  "url": "https://www.antler.co/portfolio/conducco",
+  "api": "https://antler-api.github.io/companies/conducco.json"
+}

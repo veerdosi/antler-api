@@ -1,0 +1,13 @@
+{
+  "id": "antler-weathermind",
+  "name": "WeatherMind",
+  "slug": "weathermind",
+  "website": "https://www.weathermind.ai/",
+  "description": "AI-powered property damage assessment for quick relief following natural disasters.",
+  "founded_year": 2023,
+  "location": "France",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/682e2acaa52040e2035ae337_portfolio%252Fcompany%252F5b4a1524-e7f4-4b63-a62a-7df5f1e915d7%252F1725844359100-logo.avif",
+  "url": "https://www.antler.co/portfolio/weathermind",
+  "api": "https://antler-api.github.io/companies/weathermind.json"
+}

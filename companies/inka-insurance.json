@@ -1,0 +1,13 @@
+{
+  "id": "antler-inka-insurance",
+  "name": "Inka Insurance",
+  "slug": "inka-insurance",
+  "website": "https://www.inkasure.com/",
+  "description": "We simplify insurance so that you get coverage that works for you with no jargon, no confusion—just clarity and protection that fits your life, not the other way around.",
+  "founded_year": 2024,
+  "location": "India",
+  "sector": "FinTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/685a68c8aaee0a935d0235ac_portfolio%252Fcompany%252Fd1bbb5ec-0bb0-45fb-94de-b6ecdce8f861%252F1750755501780-insurancepadosi_logo.jpeg",
+  "url": "https://www.antler.co/portfolio/inka-insurance",
+  "api": "https://antler-api.github.io/companies/inka-insurance.json"
+}

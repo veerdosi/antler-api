@@ -1,0 +1,13 @@
+{
+  "id": "antler-scale-energy",
+  "name": "Scale Energy",
+  "slug": "scale-energy",
+  "website": "https://www.scale-energy.eco",
+  "description": "To enable the energy transition at scale, we are building Europes largest decentralised power grid, utilising existing infrastructure of industrial sites.",
+  "founded_year": 2024,
+  "location": "Germany",
+  "sector": "Energy and ClimateTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67f4f444d441ccc14cf7e696_portfolio%252Fcompany%252Fd099f221-23d9-44e1-a98e-a62983e7044d%252F1726617212786-scaleenergy_logo.avif",
+  "url": "https://www.antler.co/portfolio/scale-energy",
+  "api": "https://antler-api.github.io/companies/scale-energy.json"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "antler-renude",
+  "name": "Renude",
+  "slug": "renude",
+  "website": "https://renude.co/",
+  "description": "Renude is an AI-powered service empowering smarter consumer purchasing by offering personalised skincare advice at scale.",
+  "founded_year": 2022,
+  "location": "Unknown",
+  "sector": "ConsumerTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67d864267d09b9d22866d139_portfolio%252Fcompany%252Ffa563e1e-5f33-4a43-ad0d-9850d61de8d2%252F1725421691896-logo.avif",
+  "url": "https://www.antler.co/portfolio/renude",
+  "api": "https://antler-api.github.io/companies/renude.json"
+}

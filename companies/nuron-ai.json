@@ -1,0 +1,13 @@
+{
+  "id": "antler-nuron-ai",
+  "name": "Nuron.AI",
+  "slug": "nuron-ai",
+  "website": "https://nuronai.org",
+  "description": "The last back-office hire you'll ever need. AI agentic workflows to autonomously transform unstructured data chaos into intelligence.",
+  "founded_year": 2024,
+  "location": "Canada",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/6772a0523d4a9ae9cb3fd224_portfolio%252Fcompany%252F0d68ad64-95bb-46b8-9eb4-5ad6620deb5e%252F1735565363164-WhatsApp%2520Image%25202024-10-19%2520at%252011.00.09%2520PM.svg",
+  "url": "https://www.antler.co/portfolio/nuron-ai",
+  "api": "https://antler-api.github.io/companies/nuron-ai.json"
+}

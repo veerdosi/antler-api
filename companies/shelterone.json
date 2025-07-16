@@ -1,0 +1,13 @@
+{
+  "id": "antler-shelterone",
+  "name": "ShelterOne",
+  "slug": "shelterone",
+  "website": "https://shelter-one.co.jp/",
+  "description": "ShelterOne is building an integrated evacuation shelter operation platform to provide a decent life to all disaster victims.",
+  "founded_year": 2025,
+  "location": "Japan",
+  "sector": "Industrials",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67d44cbbbfc58a0a417d4c20_portfolio%252Fcompany%252F773c1726-a9de-4d39-b8e8-85fa8930ca29%252F1741958876541-%257B6A61DB30-0928-4632-BD86-58BE9099A2A2%257D.avif",
+  "url": "https://www.antler.co/portfolio/shelterone",
+  "api": "https://antler-api.github.io/companies/shelterone.json"
+}

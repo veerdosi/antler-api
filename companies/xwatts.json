@@ -1,0 +1,13 @@
+{
+  "id": "antler-xwatts",
+  "name": "xWatts",
+  "slug": "xwatts",
+  "website": "https://www.xwatts.co/",
+  "description": "xWatts is an intelligent energy management software that reduces energy costs and emissions in commercial buildings.",
+  "founded_year": 2022,
+  "location": "Unknown",
+  "sector": "Energy and ClimateTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67d80fa612c799ce7aaba676_portfolio%252Fcompany%252F0d6feb66-ded0-4447-b390-73bfac3ec369%252F1725421747775-logo.avif",
+  "url": "https://www.antler.co/portfolio/xwatts",
+  "api": "https://antler-api.github.io/companies/xwatts.json"
+}

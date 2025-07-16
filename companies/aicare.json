@@ -1,0 +1,13 @@
+{
+  "id": "antler-aicare",
+  "name": "AiCare",
+  "slug": "aicare",
+  "website": "https://aicare.co.ke",
+  "description": "AiCare combines IoT and AI to give motor insurance companies the most accurate risk assessment of their policyholders.",
+  "founded_year": 2021,
+  "location": "Kenya",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67c559a42328c936d1abe41e_portfolio%252Fcompany%252F89b6634c-f05f-468d-b680-b486a18ab8c2%252F1740986697145-getaicare_logo.avif",
+  "url": "https://www.antler.co/portfolio/aicare",
+  "api": "https://antler-api.github.io/companies/aicare.json"
+}

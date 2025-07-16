@@ -1,0 +1,13 @@
+{
+  "id": "antler-itair",
+  "name": "Itair",
+  "slug": "itair",
+  "website": "https://www.itair.io",
+  "description": "Helping creators monetize videos in minutes with AI-generated shopfronts.",
+  "founded_year": 2024,
+  "location": "Unknown",
+  "sector": "ConsumerTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66d8f5d3f29ac63cd2f5906d_portfolio%252Fcompany%252F7aa717d3-d347-41e2-95d3-3361d27d4260%252F1725494708399-itair_logo.avif",
+  "url": "https://www.antler.co/portfolio/itair",
+  "api": "https://antler-api.github.io/companies/itair.json"
+}

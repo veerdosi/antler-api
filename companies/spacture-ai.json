@@ -1,0 +1,13 @@
+{
+  "id": "antler-spacture-ai",
+  "name": "Spacture AI",
+  "slug": "spacture-ai",
+  "website": "https://www.spacture.ai",
+  "description": "Spacture AI is a portfolio company of Antler.",
+  "founded_year": 2023,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66b44a00a0fc46cc0aad059f_teams%252Ff2428e84-5cb6-48cf-9b97-8aa08e3a2a20%252Flogos%252FBlue%25404x.avif",
+  "url": "https://www.antler.co/portfolio/spacture-ai",
+  "api": "https://antler-api.github.io/companies/spacture-ai.json"
+}

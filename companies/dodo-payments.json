@@ -1,0 +1,13 @@
+{
+  "id": "antler-dodo-payments",
+  "name": "Dodo Payments",
+  "slug": "dodo-payments",
+  "website": "https://dodopayments.com",
+  "description": "A cross border payments orchestrator layer with a Merchant of Record service to provide local payment options to their customers",
+  "founded_year": 2024,
+  "location": "India",
+  "sector": "FinTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67ee791ca82402db8d71b9b8_teams%252F2e49e7be-1f6a-4115-9dd6-106b45c19ab9%252Flogos%252FDodo%2520Pyaments%2520Logo.avif",
+  "url": "https://www.antler.co/portfolio/dodo-payments",
+  "api": "https://antler-api.github.io/companies/dodo-payments.json"
+}

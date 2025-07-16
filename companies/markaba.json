@@ -1,0 +1,13 @@
+{
+  "id": "antler-markaba",
+  "name": "Markaba",
+  "slug": "markaba",
+  "website": "https://markaba.sa/",
+  "description": "Smarter car sales for Saudi Arabia through seamless integration of dealerships, lenders, and marketplaces on a unified digital platform.",
+  "founded_year": 2025,
+  "location": "Saudi Arabia",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/685cfdb3e7143b88947c235d_portfolio%252Fcompany%252Fd958e54f-4e4e-4961-a013-88003c60448c%252F1750924713215-Color_Markaba.png",
+  "url": "https://www.antler.co/portfolio/markaba",
+  "api": "https://antler-api.github.io/companies/markaba.json"
+}

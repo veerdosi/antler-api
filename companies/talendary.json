@@ -1,0 +1,13 @@
+{
+  "id": "antler-talendary",
+  "name": "Talendary",
+  "slug": "talendary",
+  "website": "https://www.talendary.com/",
+  "description": "Enabling recruiters to focus on meaningful human connections",
+  "founded_year": 2023,
+  "location": "Sweden",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67e196cca72b482dd1ad9468_portfolio%252Fcompany%252Fbbf66c1b-febf-47f7-b888-0d8ebea75e7c%252F1742837442162-b493b511-f02b-4629-b9e8-050046dce068.avif",
+  "url": "https://www.antler.co/portfolio/talendary",
+  "api": "https://antler-api.github.io/companies/talendary.json"
+}

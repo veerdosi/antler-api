@@ -1,0 +1,13 @@
+{
+  "id": "antler-vente-ai",
+  "name": "Vente AI",
+  "slug": "vente-ai",
+  "website": "https://www.vente.ai/",
+  "description": "Vente AI is where recruiters go to win new clients, in less time.",
+  "founded_year": 2024,
+  "location": "Unknown",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67926a45eec39531c9bdf107_portfolio%252Fcompany%252F8f310c44-3d31-4536-a7b4-40be3630b194%252F1737648448782-ventehires.avif",
+  "url": "https://www.antler.co/portfolio/vente-ai",
+  "api": "https://antler-api.github.io/companies/vente-ai.json"
+}

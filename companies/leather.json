@@ -1,0 +1,13 @@
+{
+  "id": "antler-leather",
+  "name": "Leather",
+  "slug": "leather",
+  "website": "https://leather.tv",
+  "description": "Leather replaces the audio you hear on live-broadcast television sports with the best live-sports commentary on the planet; algorithmically live-sync'd to your tv & streamed from mobile to your wireless speakers.",
+  "founded_year": 2020,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66d6ddc55c9102a52b96b0c0_gLJTHYPZPg8wXDzGXtpeOcpcE1ScqQWxQ9ekBJh8NP4.avif",
+  "url": "https://www.antler.co/portfolio/leather",
+  "api": "https://antler-api.github.io/companies/leather.json"
+}

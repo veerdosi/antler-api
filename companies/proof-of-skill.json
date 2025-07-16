@@ -1,0 +1,13 @@
+{
+  "id": "antler-proof-of-skill",
+  "name": "Proof Of Skill",
+  "slug": "proof-of-skill",
+  "website": "https://proofofskill.org",
+  "description": "Proof of Skill is a decentralized protocol where experts collectively authenticate an individual’s skills to issue Digital Skill Credentials known as Proof of Skill that are trusted, scalable and cost effective. Proof of skill wants to be the skill data repository and become the default skill & credential verification platform for white collar jobs. Eventually, Proof of Skill wants to move global/beyond white collar leveraging Beckn/ONEST bringing down the cost of screening candidates across roles at scale to <$1 which will unlock mass adoption.",
+  "founded_year": 2024,
+  "location": "India",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67ee79e595a13623845e8dc0_teams%252F1341f483-1b6d-4799-95bd-a2e49aab7d55%252Flogos%252FScreenshot%25202024-01-25%2520at%252012.15.53.avif",
+  "url": "https://www.antler.co/portfolio/proof-of-skill",
+  "api": "https://antler-api.github.io/companies/proof-of-skill.json"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "antler-theseus",
+  "name": "Theseus",
+  "slug": "theseus",
+  "website": "https://www.theseus-ai.com/",
+  "description": "Leveraging conversation data to support capital markets players in their client insights.",
+  "founded_year": 2023,
+  "location": "France",
+  "sector": "FinTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/682e2a208a48d69b0c578ad8_portfolio%252Fcompany%252F9f6f1920-02e4-4def-bed3-83e215edf0c0%252F1725844353946-logo.avif",
+  "url": "https://www.antler.co/portfolio/theseus",
+  "api": "https://antler-api.github.io/companies/theseus.json"
+}

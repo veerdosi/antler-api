@@ -1,0 +1,13 @@
+{
+  "id": "antler-trustai",
+  "name": "TrustAI",
+  "slug": "trustai",
+  "website": "https://gettrust.ai",
+  "description": "Operator of an artificial intelligence (AI) research lab intended to solve the critical technical challenge of building superhuman intelligence. The company integrates safety with capability development, aiming to create a superintelligent system that can scale safely.",
+  "founded_year": 2024,
+  "location": "Unknown",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/6875e8d4e7cf905128bb4608_portfolio%252Fcompany%252Fa7df60af-cb8b-4da3-834c-459b059d9897%252F1752557768003-icon%2520(5).png",
+  "url": "https://www.antler.co/portfolio/trustai",
+  "api": "https://antler-api.github.io/companies/trustai.json"
+}

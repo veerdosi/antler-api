@@ -1,0 +1,13 @@
+{
+  "id": "antler-healthpro",
+  "name": "HealthPro",
+  "slug": "healthpro",
+  "website": "https://www.healthpro.id/",
+  "description": "On demand Automation platform of vetted healthcare workers for Hospitals & Clinics",
+  "founded_year": 2022,
+  "location": "Indonesia",
+  "sector": "Health and BioTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67c67764c4c08d219d05fd52_portfolio%252Fcompany%252F8287f80b-8d36-4076-b224-73350bf2633c%252F1725422170707-logo.avif",
+  "url": "https://www.antler.co/portfolio/healthpro",
+  "api": "https://antler-api.github.io/companies/healthpro.json"
+}

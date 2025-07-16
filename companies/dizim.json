@@ -1,0 +1,13 @@
+{
+  "id": "antler-dizim",
+  "name": "Dizim",
+  "slug": "dizim",
+  "website": "https://dizim.ai/",
+  "description": "AI marketing agency that helps fashion brands engage with their customers through personalized and automated customer experiences on omni-channels",
+  "founded_year": 2023,
+  "location": "Vietnam",
+  "sector": "ConsumerTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67fdc7baeeada0f164fc3c92_portfolio%252Fcompany%252F3c7f2676-f2cd-4b7f-97c2-efd7317f2111%252F1744684981295-Dizim%2520Logo.avif",
+  "url": "https://www.antler.co/portfolio/dizim",
+  "api": "https://antler-api.github.io/companies/dizim.json"
+}

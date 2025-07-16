@@ -1,0 +1,13 @@
+{
+  "id": "antler-arca",
+  "name": "ARCA",
+  "slug": "arca",
+  "website": "https://arca.eco",
+  "description": "Revolutionizing recycling through advanced waste sorting solutions.",
+  "founded_year": 2024,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66b4520dda8c02bdf2008e16_5t4JFlHTdEzskdn6AU6zEXHrXupvWMS5E5tk8LCExV4.avif",
+  "url": "https://www.antler.co/portfolio/arca",
+  "api": "https://antler-api.github.io/companies/arca.json"
+}

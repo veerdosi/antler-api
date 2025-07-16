@@ -1,0 +1,13 @@
+{
+  "id": "antler-breyta",
+  "name": "Breyta",
+  "slug": "breyta",
+  "website": "https://breyta.io",
+  "description": "Accelerate revenue by unifying product, customer and billing data.",
+  "founded_year": 2021,
+  "location": "Norway",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67ee347da750048d6507485f_portfolio%252Fcompany%252Fe853a625-1cc9-4e6f-836e-277a6c5fa64f%252F1743664198482-Logo_Breyta_RGB.svg",
+  "url": "https://www.antler.co/portfolio/breyta",
+  "api": "https://antler-api.github.io/companies/breyta.json"
+}

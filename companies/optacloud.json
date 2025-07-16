@@ -1,0 +1,13 @@
+{
+  "id": "antler-optacloud",
+  "name": "Optacloud",
+  "slug": "optacloud",
+  "website": "https://www.optacloud.ai/",
+  "description": "ML-powered cloud optimization to reduce cloud bills, minimize latency with zero engineering effort.",
+  "founded_year": 2023,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66b44b7c61873f1139fca260_Xe0Vat6mZwIWeBHLjX8nh1AGDcFRZhOQ_BiG3v6tLQY.avif",
+  "url": "https://www.antler.co/portfolio/optacloud",
+  "api": "https://antler-api.github.io/companies/optacloud.json"
+}

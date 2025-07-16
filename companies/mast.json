@@ -1,0 +1,13 @@
+{
+  "id": "antler-mast",
+  "name": "Mast",
+  "slug": "mast",
+  "website": "https://usemast.com",
+  "description": "Mast is building a cloud-native mortgage origination system designed to help lenders process applications faster.",
+  "founded_year": 2020,
+  "location": "Unknown",
+  "sector": "FinTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67b5cf74cc4953812e2407a7_portfolio%252Fcompany%252Fdf547b2d-5fda-4927-b86b-36a40168d7a6%252F1725421663780-logo.avif",
+  "url": "https://www.antler.co/portfolio/mast",
+  "api": "https://antler-api.github.io/companies/mast.json"
+}

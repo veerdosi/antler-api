@@ -1,0 +1,13 @@
+{
+  "id": "antler-onemarket",
+  "name": "ONEMARKET",
+  "slug": "onemarket",
+  "website": "https://onemarket.bz",
+  "description": "World’s first exchange that transforms shipping containers into a tradable commodity",
+  "founded_year": 2022,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66b4491a75ac47278dbeeb7b_rHDYRIGemfLHwS4X--G5ZCMdp4huXH46Vr_dk3V1LVk.avif",
+  "url": "https://www.antler.co/portfolio/onemarket",
+  "api": "https://antler-api.github.io/companies/onemarket.json"
+}

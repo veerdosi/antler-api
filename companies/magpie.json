@@ -1,0 +1,13 @@
+{
+  "id": "antler-magpie",
+  "name": "Magpie",
+  "slug": "magpie",
+  "website": "https://getmagpie.ai/",
+  "description": "Magpie is an AI-driven platform that automates quality assessments and coaching for customer support teams, unlocking insights and enhancing performance across all support channels.",
+  "founded_year": 2024,
+  "location": "Netherlands",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/6835b2c100dcbdc90e15268b_portfolio%252Fcompany%252F7b7dc38a-a702-4047-9a2c-6e0899d9daf0%252F1736500946404-https___3f2e6f031ba60a3b33eb0cdd9c5aaa92.cdn.bubble.io_f1715172269845x292763322655405630_brand.avif",
+  "url": "https://www.antler.co/portfolio/magpie",
+  "api": "https://antler-api.github.io/companies/magpie.json"
+}

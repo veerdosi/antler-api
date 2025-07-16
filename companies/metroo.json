@@ -1,0 +1,13 @@
+{
+  "id": "antler-metroo",
+  "name": "Metroo",
+  "slug": "metroo",
+  "website": "https://metroo.dev/",
+  "description": "Metroo is a portfolio company of Antler.",
+  "founded_year": 2025,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/687084ba9e274340cbc09a34_teams%252Fefea650c-2de3-4a9c-a7e8-38261efb7bec%252Flogos%252FmetrooLogo.png",
+  "url": "https://www.antler.co/portfolio/metroo",
+  "api": "https://antler-api.github.io/companies/metroo.json"
+}

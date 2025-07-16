@@ -1,0 +1,13 @@
+{
+  "id": "antler-airballoon",
+  "name": "Airballoon",
+  "slug": "airballoon",
+  "website": "https://airballoon.app",
+  "description": "Anchor Deal : Business authentication and brokerage platform for online business",
+  "founded_year": 2023,
+  "location": "Korea",
+  "sector": "ConsumerTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/680085c0cabb5501c5968399_portfolio%252Fcompany%252F2610cb2d-2acb-4fb4-8d15-d395174ccf4a%252F1725421415845-logo.png",
+  "url": "https://www.antler.co/portfolio/airballoon",
+  "api": "https://antler-api.github.io/companies/airballoon.json"
+}

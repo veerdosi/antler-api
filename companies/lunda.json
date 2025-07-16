@@ -1,0 +1,13 @@
+{
+  "id": "antler-lunda",
+  "name": "Lunda",
+  "slug": "lunda",
+  "website": "https://www.lunda.ai/",
+  "description": "AI for sales.",
+  "founded_year": 2024,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66b4491451f88a520eb82d55_MfDP0c1hOOSH7KS4f0mTqS7G01I-9KStJT0JKwHUDsg.avif",
+  "url": "https://www.antler.co/portfolio/lunda",
+  "api": "https://antler-api.github.io/companies/lunda.json"
+}

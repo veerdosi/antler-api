@@ -1,0 +1,13 @@
+{
+  "id": "antler-otee",
+  "name": "OTee",
+  "slug": "otee",
+  "website": "https://otee.io",
+  "description": "DeepTech bringing a disruptive paradigm shift to Industrial Automation with Virtual PLCs.",
+  "founded_year": 2023,
+  "location": "Norway",
+  "sector": "Industrials",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67b5a8ad4cf736d8b4fc4f56_portfolio%252Fcompany%252F869b92c3-0f44-4dec-94c1-b2c3c0ec6df7%252F1739706558879-Reverse%2520logo%2520for%2520white%2520backgrounds.avif",
+  "url": "https://www.antler.co/portfolio/otee",
+  "api": "https://antler-api.github.io/companies/otee.json"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "antler-nexobot",
+  "name": "Nexobot",
+  "slug": "nexobot",
+  "website": "https://nexobot.com.au",
+  "description": "Nexobot has developed a scalable, cost-efficient robotic sorting system. Transforming the economics of warehouse automation and enabling immediate returns for customers in a traditionally labour-intensive sector.",
+  "founded_year": 2024,
+  "location": "Australia",
+  "sector": "Industrials",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/6705f2564a8c662647b85478_portfolio%252Fcompany%252F1fe7e2f5-4f7b-4915-be82-25c1a64a438c%252F1728442883192-Untitled-1.jpeg",
+  "url": "https://www.antler.co/portfolio/nexobot",
+  "api": "https://antler-api.github.io/companies/nexobot.json"
+}

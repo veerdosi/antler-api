@@ -1,0 +1,13 @@
+{
+  "id": "antler-glaize",
+  "name": "Glaize",
+  "slug": "glaize",
+  "website": "https://glaize.co/",
+  "description": "Glaize is the cure to the manicure. We're a D2C brand that's using technology to make gel manicures easier, faster and healthier for women.",
+  "founded_year": 2020,
+  "location": "Unknown",
+  "sector": "ConsumerTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67d85882b0320c24fd780fb0_portfolio%252Fcompany%252F4d247971-80e4-4071-9f89-39bc9d853cc4%252F1725421617591-logo.avif",
+  "url": "https://www.antler.co/portfolio/glaize",
+  "api": "https://antler-api.github.io/companies/glaize.json"
+}

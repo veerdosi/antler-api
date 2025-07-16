@@ -1,0 +1,13 @@
+{
+  "id": "antler-zibra",
+  "name": "Zibra",
+  "slug": "zibra",
+  "website": "https://www.simplyzibra.com.au/",
+  "description": "An over-the-top digital wallet that helps you take control of your spending and drives your dollar further.",
+  "founded_year": 2021,
+  "location": "Australia",
+  "sector": "FinTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67de0acce69725241829d337_portfolio%252Fcompany%252F0cc634c7-b8d7-44c7-a2e6-f0f37189244c%252F1742604997749-SimplyZibra.avif",
+  "url": "https://www.antler.co/portfolio/zibra",
+  "api": "https://antler-api.github.io/companies/zibra.json"
+}

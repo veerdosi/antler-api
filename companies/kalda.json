@@ -1,0 +1,13 @@
+{
+  "id": "antler-kalda",
+  "name": "Kalda",
+  "slug": "kalda",
+  "website": "https://www.kalda.co/",
+  "description": "Kalda is an LGBTQ mental health app providing video therapy sessions and therapeutic journaling.",
+  "founded_year": 2021,
+  "location": "Unknown",
+  "sector": "Health and BioTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67d85b45cfa639e6df7254ef_portfolio%252Fcompany%252F55642c48-b5b3-4671-9f8b-68af1fe0fa81%252F1725421622222-logo.avif",
+  "url": "https://www.antler.co/portfolio/kalda",
+  "api": "https://antler-api.github.io/companies/kalda.json"
+}

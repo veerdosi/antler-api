@@ -1,0 +1,13 @@
+{
+  "id": "antler-elixir",
+  "name": "Elixir",
+  "slug": "elixir",
+  "website": "https://www.joinelixir.club/",
+  "description": "Earn rewards for every positive investment you make towards your health.",
+  "founded_year": 2025,
+  "location": "India",
+  "sector": "FinTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/685aafcefd521f4bb1d2665c_portfolio%252Fcompany%252F61b54a2c-511c-40df-9a9d-bd70f829d0b2%252F1750773528137-joinelixir_logo.jpeg",
+  "url": "https://www.antler.co/portfolio/elixir",
+  "api": "https://antler-api.github.io/companies/elixir.json"
+}

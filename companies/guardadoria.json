@@ -1,0 +1,13 @@
+{
+  "id": "antler-guardadoria",
+  "name": "Guardadoria",
+  "slug": "guardadoria",
+  "website": "https://guardadoria.com.br/",
+  "description": "Guardadoria is an end of life planning platform to help people handle with emotional, operational e financial questions that emerge after life.",
+  "founded_year": 2023,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66b44ad46388b1e71678e05a_UY4eQqO9EO-6QKmGNJQ7LSE80GzInLOG9N8wcKylRyA.avif",
+  "url": "https://www.antler.co/portfolio/guardadoria",
+  "api": "https://antler-api.github.io/companies/guardadoria.json"
+}

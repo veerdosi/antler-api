@@ -1,0 +1,13 @@
+{
+  "id": "antler-modoyo",
+  "name": "Modoyo",
+  "slug": "modoyo",
+  "website": "https://modoyo.com",
+  "description": "Game Studio building the next great FPS.",
+  "founded_year": 2020,
+  "location": "Sweden",
+  "sector": "ConsumerTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/68514ea4fa2dc8ab82e6e040_portfolio%252Fcompany%252F9c53e2ad-d1e6-4b15-b56f-5aef37706536%252F1750158966691-Company-Logo_Modoyo.png",
+  "url": "https://www.antler.co/portfolio/modoyo",
+  "api": "https://antler-api.github.io/companies/modoyo.json"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "antler-huddled",
+  "name": "Huddled",
+  "slug": "huddled",
+  "website": "https://www.huddled.net/",
+  "description": "Huddled is an AI-powered Slack for students.",
+  "founded_year": 2023,
+  "location": "Australia",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/6705cb887fe6846a242b0932_portfolio%252Fcompany%252F18ddcb46-2788-46d9-8707-e36a68a40b56%252F1728432776751-Huddled_Square_logo_AntlerHub.avif",
+  "url": "https://www.antler.co/portfolio/huddled",
+  "api": "https://antler-api.github.io/companies/huddled.json"
+}

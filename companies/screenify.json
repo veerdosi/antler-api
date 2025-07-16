@@ -1,0 +1,13 @@
+{
+  "id": "antler-screenify",
+  "name": "Screenify",
+  "slug": "screenify",
+  "website": "https://www.screenify.ai",
+  "description": "Surfacing top candidates through in-depth, human-like AI interviews.",
+  "founded_year": 2023,
+  "location": "Unknown",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67f5d09bc5fad9c8371787fc_portfolio%252Fcompany%252F06ab77b4-1103-450e-b91a-b350ffd74f0f%252F1744162964263-screenify.avif",
+  "url": "https://www.antler.co/portfolio/screenify",
+  "api": "https://antler-api.github.io/companies/screenify.json"
+}

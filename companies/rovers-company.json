@@ -1,0 +1,13 @@
+{
+  "id": "antler-rovers-company",
+  "name": "Rovers Company",
+  "slug": "rovers-company",
+  "website": "https://therovers.net/",
+  "description": "Providing Optimized Crop across border through agricultural IP",
+  "founded_year": 2023,
+  "location": "Korea",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/680086d3f755acfb5ddf6ca6_portfolio%252Fcompany%252F2dc067ae-48c7-40ac-9a99-c002b7efeaec%252F1733879759218-%25EB%25A1%259C%25EB%25B2%2584%25EC%258A%25A4.avif",
+  "url": "https://www.antler.co/portfolio/rovers-company",
+  "api": "https://antler-api.github.io/companies/rovers-company.json"
+}

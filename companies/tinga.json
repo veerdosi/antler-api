@@ -1,0 +1,13 @@
+{
+  "id": "antler-tinga",
+  "name": "Tinga",
+  "slug": "tinga",
+  "website": "https://tingatrade.com",
+  "description": "Boost communication efficiency",
+  "founded_year": 2021,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66b44a35ba053280f92b972b_RYjLPehgkmnV0p12U3js4Bpe1SJ5CRqBczac5uf9bgk.avif",
+  "url": "https://www.antler.co/portfolio/tinga",
+  "api": "https://antler-api.github.io/companies/tinga.json"
+}

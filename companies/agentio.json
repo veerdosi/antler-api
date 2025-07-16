@@ -1,0 +1,13 @@
+{
+  "id": "antler-agentio",
+  "name": "Agentio",
+  "slug": "agentio",
+  "website": "https://agentio.com/",
+  "description": "Agentio aims to be the programmatic ad network for professional content creators, and becoming the future of celebrity partnership.",
+  "founded_year": 2023,
+  "location": "Unknown",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67009b7a8320a06d98d900d1_agentio.svg",
+  "url": "https://www.antler.co/portfolio/agentio",
+  "api": "https://antler-api.github.io/companies/agentio.json"
+}

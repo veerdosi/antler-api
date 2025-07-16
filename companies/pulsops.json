@@ -1,0 +1,13 @@
+{
+  "id": "antler-pulsops",
+  "name": "PulsOps",
+  "slug": "pulsops",
+  "website": "https://pulsops.com/",
+  "description": "No code SaaS platform for business performance monitoring (Winding Down)",
+  "founded_year": 2022,
+  "location": "India",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/6857e37223787397d88e24a3_portfolio%252Fcompany%252F25668ad1-3cd0-4006-be7f-ec337d690b16%252F1750590309529-pulsops_logo.jpeg",
+  "url": "https://www.antler.co/portfolio/pulsops",
+  "api": "https://antler-api.github.io/companies/pulsops.json"
+}

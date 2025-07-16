@@ -1,0 +1,13 @@
+{
+  "id": "antler-plans",
+  "name": "PLans",
+  "slug": "plans",
+  "website": "https://www.with-plans.com/en",
+  "description": "A digital platform that connects women with health professionals for better family planning services",
+  "founded_year": 2023,
+  "location": "Indonesia",
+  "sector": "Health and BioTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67c7d082c17617ce2d6946c2_portfolio%252Fcompany%252F57bf039f-8a75-41de-ad34-0ab929eb62c5%252F1725422241432-logo.avif",
+  "url": "https://www.antler.co/portfolio/plans",
+  "api": "https://antler-api.github.io/companies/plans.json"
+}

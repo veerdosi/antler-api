@@ -1,0 +1,13 @@
+{
+  "id": "antler-physikit",
+  "name": "Physikit",
+  "slug": "physikit",
+  "website": "https://physikit.com",
+  "description": "Physikit enables health and fitness apps to integrate the power of at-home collection and subsequent laboratory analysis of human bio-fluids such as blood blood, saliva, urine.",
+  "founded_year": 2022,
+  "location": "Germany",
+  "sector": "Health and BioTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/682dcc606ce0946ff95605b2_portfolio%252Fcompany%252F7fb58891-b834-418a-8d04-195acf9fb4de%252F1725844292474-logo.avif",
+  "url": "https://www.antler.co/portfolio/physikit",
+  "api": "https://antler-api.github.io/companies/physikit.json"
+}

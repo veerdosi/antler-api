@@ -1,0 +1,13 @@
+{
+  "id": "antler-tennis-finance",
+  "name": "Tennis Finance",
+  "slug": "tennis-finance",
+  "website": "https://www.tennisfinance.com",
+  "description": "Automated Collections for Accounts Receivable through AI-driven collections via phone, text, and email.",
+  "founded_year": 2022,
+  "location": "Unknown",
+  "sector": "FinTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67f5d0f4236d7c6a951e7dda_portfolio%252Fcompany%252F4bfcb73f-2a79-4b34-bdaa-0cdb5e085603%252F1725607009941-logo.avif",
+  "url": "https://www.antler.co/portfolio/tennis-finance",
+  "api": "https://antler-api.github.io/companies/tennis-finance.json"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "antler-raylife",
+  "name": "RayLife",
+  "slug": "raylife",
+  "website": "https://www.raylife.co/",
+  "description": "Next-gen biowearable to unlock noninvasive, 24/7 blood analysis",
+  "founded_year": 2025,
+  "location": "Unknown",
+  "sector": "Health and BioTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/68375ba79b8ecf6755d33990_teams%252F9f5125ab-c6ef-48d8-b56a-1716b703564c%252Flogos%252FPicture1.avif",
+  "url": "https://www.antler.co/portfolio/raylife",
+  "api": "https://antler-api.github.io/companies/raylife.json"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "antler-earlybird",
+  "name": "Earlybird",
+  "slug": "earlybird",
+  "website": "https://www.earlybirdapp.co/",
+  "description": "Earlybird redefines the role of a financial confidant for founders, positioning itself as your ultimate Business Financial Friend (BFF). An AI-powered finance co-pilot that doubles up as an accountant or first Chief Financial Officer, providing financial operations tailored to your growth stage.",
+  "founded_year": 2024,
+  "location": "Singapore",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67ff1bd2b1a97818846d0b1e_portfolio%252Fcompany%252F3e6059a5-a8fc-4ae5-b1a5-a0ac75e21135%252F1744772043597-earlybirdapp_logo.avif",
+  "url": "https://www.antler.co/portfolio/earlybird",
+  "api": "https://antler-api.github.io/companies/earlybird.json"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "antler-rampable",
+  "name": "Rampable",
+  "slug": "rampable",
+  "website": "https://rampable.co/",
+  "description": "Enabling fast, fee-transparent crypto-to-fiat payments with a seamless on-and-off ramp platform.",
+  "founded_year": 2023,
+  "location": "Indonesia",
+  "sector": "FinTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67ca8f0f15c9d5658a8eaffc_portfolio%252Fcompany%252F1b3f9cd2-8845-4198-93dd-be588e5de273%252F1725422398284-logo.avif",
+  "url": "https://www.antler.co/portfolio/rampable",
+  "api": "https://antler-api.github.io/companies/rampable.json"
+}

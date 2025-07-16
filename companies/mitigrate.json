@@ -1,0 +1,13 @@
+{
+  "id": "antler-mitigrate",
+  "name": "Mitigrate",
+  "slug": "mitigrate",
+  "website": "https://mitigrate.com",
+  "description": "Flood risk management and prevention software in insurance",
+  "founded_year": 2021,
+  "location": "Norway",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67bf30f2076987e716d4e217_portfolio%252Fcompany%252F6d387a71-bef3-4f41-80bf-0fe6c5ffc768%252F1740582880045-NewLogo-Ivorymist_Vertical.avif",
+  "url": "https://www.antler.co/portfolio/mitigrate",
+  "api": "https://antler-api.github.io/companies/mitigrate.json"
+}

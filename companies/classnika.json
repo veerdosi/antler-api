@@ -1,0 +1,13 @@
+{
+  "id": "antler-classnika",
+  "name": "Classnika",
+  "slug": "classnika",
+  "website": "https://www.classnika.com",
+  "description": "Classnika is reimagining remote education with a fully integrated platform which creates a rich, engaging, and safe e-learning experience that is as effective as in-person learning.",
+  "founded_year": 2021,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67e4d9a25088ae6a46e430a3_portfolio%252Fcompany%252Fe323862d-b839-4f46-9b4e-eea851163e6a%252F1743051157025-Screen-Shot-2021-10-30-at-10.44.16-am.avif",
+  "url": "https://www.antler.co/portfolio/classnika",
+  "api": "https://antler-api.github.io/companies/classnika.json"
+}

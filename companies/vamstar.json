@@ -1,0 +1,13 @@
+{
+  "id": "antler-vamstar",
+  "name": "Vamstar",
+  "slug": "vamstar",
+  "website": "https://vamstar.io",
+  "description": "Vamstar is the AI-enabled B2B tendering, market access, and sourcing platform for pharmaceutical and MedTech products.",
+  "founded_year": 2019,
+  "location": "Unknown",
+  "sector": "Health and BioTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/6830ba360d59f74e4883cf84_portfolio%252Fcompany%252F9dc3c5f4-faa9-4b30-9248-13337c514eb9%252F1748023810376-Vamstar%2520Latest%2520Logo.avif",
+  "url": "https://www.antler.co/portfolio/vamstar",
+  "api": "https://antler-api.github.io/companies/vamstar.json"
+}

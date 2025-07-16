@@ -1,0 +1,13 @@
+{
+  "id": "antler-sollective",
+  "name": "Sollective",
+  "slug": "sollective",
+  "website": "https://www.sollective.jp/",
+  "description": "Independent professionals, meet a new level of opportunity.",
+  "founded_year": 2024,
+  "location": "Japan",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67d8cf2036027922d0e12af3_portfolio%252Fcompany%252F1fc5caae-64aa-4e46-a966-16e777e1fc1d%252F1742262034630-240809_sollective_logo_square.avif",
+  "url": "https://www.antler.co/portfolio/sollective",
+  "api": "https://antler-api.github.io/companies/sollective.json"
+}

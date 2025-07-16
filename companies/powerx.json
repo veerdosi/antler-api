@@ -1,0 +1,13 @@
+{
+  "id": "antler-powerx",
+  "name": "PowerX",
+  "slug": "powerx",
+  "website": "https://powerx.co",
+  "description": "PowerX is the Nest for water heating. Its plug-and-play unit runs heaters more efficiently and converts them to utility-grade thermal batteries for grid balancing. PowerX is risk-free and attaches in minutes to 90% of existing water heaters. It saves users up to 65% on water heating cost and significantly reduces CO2 emissions. With PowerX, users save on energy expenses, utilities save by using water heaters as batteries for load balancing, and private grid companies pay for usage data",
+  "founded_year": 2020,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/658254f3c6e43237e7d76dd8_download-(5).avif",
+  "url": "https://www.antler.co/portfolio/powerx",
+  "api": "https://antler-api.github.io/companies/powerx.json"
+}

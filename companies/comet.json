@@ -1,0 +1,13 @@
+{
+  "id": "antler-comet",
+  "name": "Comet",
+  "slug": "comet",
+  "website": "https://comet.rocks",
+  "description": "Agentic Commerce Interfaces for D2C eCom brands",
+  "founded_year": 0,
+  "location": "Germany",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/684938753aa27204ba5b369e_portfolio%252Fcompany%252F6d4c9245-a870-4e38-b2f8-5e0507afc327%252F1737647597364-Frame%2520454.png",
+  "url": "https://www.antler.co/portfolio/comet",
+  "api": "https://antler-api.github.io/companies/comet.json"
+}

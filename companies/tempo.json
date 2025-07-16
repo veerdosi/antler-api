@@ -1,0 +1,13 @@
+{
+  "id": "antler-tempo",
+  "name": "Tempo",
+  "slug": "tempo",
+  "website": "https://www.tempojapan.com/",
+  "description": "Tempo enhances athletes potential by providing end-to-end solutions, from social media management to sponsorship networks./ Tempoは世界中のスポーツイベントの視聴者ポテンシャルを解き放つ",
+  "founded_year": 2023,
+  "location": "Japan",
+  "sector": "ConsumerTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67009a92e4d97c6efa366c45_portfolio%252Fcompany%252Fd6d430bd-c43c-48a0-9ebe-f56d1b0f4414%252F1728092681992-tempo.avif",
+  "url": "https://www.antler.co/portfolio/tempo",
+  "api": "https://antler-api.github.io/companies/tempo.json"
+}

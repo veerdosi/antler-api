@@ -1,0 +1,13 @@
+{
+  "id": "antler-dolprop",
+  "name": "Dolprop",
+  "slug": "dolprop",
+  "website": "https://dolprop.se",
+  "description": "Hydropropulsion system based on biomimicry of dolphins",
+  "founded_year": 2020,
+  "location": "Sweden",
+  "sector": "Energy and ClimateTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66b44c4461873f1139fd9b40_mYquKCsSL7L9X-Y38eHRaZoUQCugcFaR1y1Le8lV9E8.avif",
+  "url": "https://www.antler.co/portfolio/dolprop",
+  "api": "https://antler-api.github.io/companies/dolprop.json"
+}

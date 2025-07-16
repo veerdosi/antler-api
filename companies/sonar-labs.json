@@ -1,0 +1,13 @@
+{
+  "id": "antler-sonar-labs",
+  "name": "Sonar Labs",
+  "slug": "sonar-labs",
+  "website": "https://www.sonarlabs.ai/",
+  "description": "Project management software (construction SaaS) for construction companies.",
+  "founded_year": 2024,
+  "location": "India",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/6857edb4e456972183a9e133_portfolio%252Fcompany%252F5d72acef-ad27-49ed-a5e2-6e9f67cdf78b%252F1750592922286-sonarlabs_logo.jpeg",
+  "url": "https://www.antler.co/portfolio/sonar-labs",
+  "api": "https://antler-api.github.io/companies/sonar-labs.json"
+}

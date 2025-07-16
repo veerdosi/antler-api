@@ -1,0 +1,13 @@
+{
+  "id": "antler-pancakeai",
+  "name": "PancakeAI",
+  "slug": "pancakeai",
+  "website": "https://www.pancakeai.tech/",
+  "description": "The AI analyst for customer feedback. Know what to build next.",
+  "founded_year": 2024,
+  "location": "Sweden",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/680744663a1bc9a7d6768076_portfolio%252Fcompany%252F60449c3c-c971-4da0-8973-b5545deb7db5%252F1745306700697-5JnzWQ00h6DaWITONXCx1jyjtV4.avif",
+  "url": "https://www.antler.co/portfolio/pancakeai",
+  "api": "https://antler-api.github.io/companies/pancakeai.json"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "antler-celzo",
+  "name": "Celzo",
+  "slug": "celzo",
+  "website": "https://www.celzodrink.com",
+  "description": "The World's First Functional Agua Fresca.",
+  "founded_year": 2022,
+  "location": "Unknown",
+  "sector": "ConsumerTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67f5cda6233d542084077a69_portfolio%252Fcompany%252F19cef247-1c95-41a8-8028-5ffd2845da9e%252F1725421854360-logo.avif",
+  "url": "https://www.antler.co/portfolio/celzo",
+  "api": "https://antler-api.github.io/companies/celzo.json"
+}

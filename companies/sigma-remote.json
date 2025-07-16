@@ -1,0 +1,13 @@
+{
+  "id": "antler-sigma-remote",
+  "name": "Sigma Remote",
+  "slug": "sigma-remote",
+  "website": "https://www.sigmaremote.com/",
+  "description": "Global payroll meets financial access for contractors everywhere.",
+  "founded_year": 2024,
+  "location": "Unknown",
+  "sector": "FinTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67abb90a8d9b834b56540b3a_teams%252F6eb9ecc1-5808-429b-8a7e-1ea9002a398f%252Flogos%252FSimple%2520Logo%2520(1).avif",
+  "url": "https://www.antler.co/portfolio/sigma-remote",
+  "api": "https://antler-api.github.io/companies/sigma-remote.json"
+}

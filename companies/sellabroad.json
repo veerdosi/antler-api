@@ -1,0 +1,13 @@
+{
+  "id": "antler-sellabroad",
+  "name": "SellAbroad",
+  "slug": "sellabroad",
+  "website": "https://sellabroad.io/",
+  "description": "Enabling e-commerce brands to scale globally via cross-border logistics, market integrations, and AI-led demand generation.",
+  "founded_year": 2025,
+  "location": "Saudi Arabia",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/685cfd64e7143b88947c11ce_portfolio%252Fcompany%252F7dfd3d12-fe96-4cb1-8d24-bc7ff20f492f%252F1750924633640-Color_SellAbroad.png",
+  "url": "https://www.antler.co/portfolio/sellabroad",
+  "api": "https://antler-api.github.io/companies/sellabroad.json"
+}

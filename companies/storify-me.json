@@ -1,0 +1,13 @@
+{
+  "id": "antler-storify-me",
+  "name": "Storify.me",
+  "slug": "storify-me",
+  "website": "https://storify.me/",
+  "description": "storify.me is a performance-driven creator's network that connects brands with creators of micro content. The platform applies predictive analytics to rank and remunerate creators according to their ability to influence purchase decisions.",
+  "founded_year": 2021,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66b44a27faa4ca4102c5d8d2_bgaV1bz8Q2qzJQxcq_pwwpbV8we3cfHQ4ONBPD4EbAQ.avif",
+  "url": "https://www.antler.co/portfolio/storify-me",
+  "api": "https://antler-api.github.io/companies/storify-me.json"
+}

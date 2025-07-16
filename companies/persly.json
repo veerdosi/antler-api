@@ -1,0 +1,13 @@
+{
+  "id": "antler-persly",
+  "name": "Persly",
+  "slug": "persly",
+  "website": "https://perslyai.com",
+  "description": "Personalized AI healthcare chatbot that delivers tailored medical insights by integrating personal health records (PHR) and leveraging advanced LLM technology.",
+  "founded_year": 2025,
+  "location": "Korea",
+  "sector": "Health and BioTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67dab4ac2cf1f7cb7544bce7_teams%252Fee4aa444-b577-47e2-af51-27b0ac7323c0%252Flogos%252FLogo.avif",
+  "url": "https://www.antler.co/portfolio/persly",
+  "api": "https://antler-api.github.io/companies/persly.json"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "antler-spotlite",
+  "name": "Spotlite",
+  "slug": "spotlite",
+  "website": "https://spotlite.global",
+  "description": "Revolutionizing talent booking process",
+  "founded_year": 2023,
+  "location": "Korea",
+  "sector": "ConsumerTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/680087263e4f88450b91848e_portfolio%252Fcompany%252Fbfbcb739-b18e-4592-97bb-d75400656513%252F1736490887661-Spotlite%2520%25E1%2584%2585%25E1%2585%25A9%25E1%2584%2580%25E1%2585%25A9%25E1%2584%2590%25E1%2585%25A1%25E1%2584%258B%25E1%2585%25B5%25E1%2586%25B8_%25E1%2584%2580%25E1%2585%25B5%25E1%2584%2587%25E1%2585%25A9%25E1%2586%25AB%25E1%2584%2592%25E1%2585%25A7%25E1%2586%25BC(W)%25201.avif",
+  "url": "https://www.antler.co/portfolio/spotlite",
+  "api": "https://antler-api.github.io/companies/spotlite.json"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "antler-cleve",
+  "name": "Cleve",
+  "slug": "cleve",
+  "website": "https://www.cleve.ai",
+  "description": "An AI assistant helping creators scale their online presence",
+  "founded_year": 2023,
+  "location": "Malaysia",
+  "sector": "ConsumerTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66b45281da8c02bdf2012b9b_DVwIQyzNnVkBaNTBEC67ixm6FtcSpnPaBjDnB-cNudo.avif",
+  "url": "https://www.antler.co/portfolio/cleve",
+  "api": "https://antler-api.github.io/companies/cleve.json"
+}

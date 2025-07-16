@@ -1,0 +1,13 @@
+{
+  "id": "antler-sneakers",
+  "name": "Sneakers",
+  "slug": "sneakers",
+  "website": "https://streetcaster.io",
+  "description": "Realtime live updates of local places",
+  "founded_year": 2022,
+  "location": "Korea",
+  "sector": "ConsumerTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/6800870930da5a5b6022b7f1_portfolio%252Fcompany%252F7baae5db-9654-41b5-a5f4-c27f2adc382e%252F1732613610209-logo.avif",
+  "url": "https://www.antler.co/portfolio/sneakers",
+  "api": "https://antler-api.github.io/companies/sneakers.json"
+}

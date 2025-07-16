@@ -1,0 +1,13 @@
+{
+  "id": "antler-flexr",
+  "name": "Flexr",
+  "slug": "flexr",
+  "website": "https://www.getflexr.com/",
+  "description": "FLEXR is using AI vision to evaluate movement health to reduce injury and enhance performance.",
+  "founded_year": 2023,
+  "location": "Unknown",
+  "sector": "Health and BioTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67d9434607916b6376764aa1_portfolio%252Fcompany%252F4e8c98a0-a531-4431-bb87-9cb782939eee%252F1725421548975-logo.png",
+  "url": "https://www.antler.co/portfolio/flexr",
+  "api": "https://antler-api.github.io/companies/flexr.json"
+}

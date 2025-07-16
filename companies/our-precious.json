@@ -1,0 +1,13 @@
+{
+  "id": "antler-our-precious",
+  "name": "Our Precious",
+  "slug": "our-precious",
+  "website": "https://www.dangnagui.co.kr/",
+  "description": "비대면 중고거래 대행 서비스",
+  "founded_year": 2022,
+  "location": "Korea",
+  "sector": "ConsumerTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/6800868338d141c1c2648237_portfolio%252Fcompany%252F0acc55a8-ed1c-4f90-bee2-2b7debe7a25d%252F1732613593172-logo.avif",
+  "url": "https://www.antler.co/portfolio/our-precious",
+  "api": "https://antler-api.github.io/companies/our-precious.json"
+}

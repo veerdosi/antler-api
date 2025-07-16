@@ -1,0 +1,13 @@
+{
+  "id": "antler-chippit",
+  "name": "Chippit",
+  "slug": "chippit",
+  "website": "https://chippit.com.au/",
+  "description": "Peer to peer platform helping individuals save money faster with peers and borrow at 0% for purchases.",
+  "founded_year": 2022,
+  "location": "Australia",
+  "sector": "FinTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67e4d9706af4bb4b1300f97b_portfolio%252Fcompany%252Fab22f908-74a4-4d06-8f8a-3384bb42702c%252F1743051103045-779045c8-5523-4d53-8377-8f781c1cd583.avif",
+  "url": "https://www.antler.co/portfolio/chippit",
+  "api": "https://antler-api.github.io/companies/chippit.json"
+}

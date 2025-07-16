@@ -1,0 +1,13 @@
+{
+  "id": "antler-airalo",
+  "name": "Airalo",
+  "slug": "airalo",
+  "website": "https://www.airalo.com/",
+  "description": "World’s first eSIM store that gives you access to eSIMs for 190 countries worldwide at affordable prices.",
+  "founded_year": 0,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67ddf911290b0febb37f1f08_portfolio%252Fcompany%252F69269832-b248-4bdc-a6b4-c3c6828e433e%252F1725422172517-logo.avif",
+  "url": "https://www.antler.co/portfolio/airalo",
+  "api": "https://antler-api.github.io/companies/airalo.json"
+}

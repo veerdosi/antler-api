@@ -1,0 +1,13 @@
+{
+  "id": "antler-callus-company",
+  "name": "Callus Company",
+  "slug": "callus-company",
+  "website": "https://sprint.calluscompany.com/",
+  "description": "Global Internship Matching Platform",
+  "founded_year": 2022,
+  "location": "Korea",
+  "sector": "ConsumerTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/674a5617eb8ec7b70de9dc24_portfolio%252Fcompany%252F20f785f4-0dbd-48eb-b7a2-f4f27ffc6b5f%252F1732613573783-logo.svg",
+  "url": "https://www.antler.co/portfolio/callus-company",
+  "api": "https://antler-api.github.io/companies/callus-company.json"
+}

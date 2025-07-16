@@ -1,0 +1,13 @@
+{
+  "id": "antler-frnt",
+  "name": "frnt",
+  "slug": "frnt",
+  "website": "https://frnt.co",
+  "description": "frnt makes live shopping measurable by analysing every aspect of a live session — video, audio, audience engagement, and sales — delivering actionable insights and competitive benchmarks that help agencies and brands understand what works, what doesn’t, and why.",
+  "founded_year": 2023,
+  "location": "Unknown",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/6876388c5759cf8e79b0055e_portfolio%252Fcompany%252F6b574127-b089-4932-9272-5a0e20e1ca38%252F1725421603355-logo.png",
+  "url": "https://www.antler.co/portfolio/frnt",
+  "api": "https://antler-api.github.io/companies/frnt.json"
+}

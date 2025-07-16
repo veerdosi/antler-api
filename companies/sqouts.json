@@ -1,0 +1,13 @@
+{
+  "id": "antler-sqouts",
+  "name": "Sqouts",
+  "slug": "sqouts",
+  "website": "https://www.sqouts.com",
+  "description": "Streamlining talent evaluation with AI-powered screenings and interview analysis",
+  "founded_year": 2023,
+  "location": "Indonesia",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67b50d27d4e197383963760b_portfolio%252Fcompany%252Fbd927748-bc43-44f2-bb56-967b4f7862bb%252F1739918622309-portfolio_company_bd927748-bc43-44f2-bb56-967b4f7862bb_1725422532595-logo.avif",
+  "url": "https://www.antler.co/portfolio/sqouts",
+  "api": "https://antler-api.github.io/companies/sqouts.json"
+}

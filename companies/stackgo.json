@@ -1,0 +1,13 @@
+{
+  "id": "antler-stackgo",
+  "name": "StackGo",
+  "slug": "stackgo",
+  "website": "https://stackgo.io",
+  "description": "B2B SaaS that works with the tools that businesses use every day.",
+  "founded_year": 2020,
+  "location": "Australia",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67e4ddb977c500fa7ceeea61_portfolio%252Fcompany%252F8355e5ae-52c6-4e26-9780-abdee24fbf1c%252F1743052207016-stackgo-logo.avif",
+  "url": "https://www.antler.co/portfolio/stackgo",
+  "api": "https://antler-api.github.io/companies/stackgo.json"
+}

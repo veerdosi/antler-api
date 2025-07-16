@@ -1,0 +1,13 @@
+{
+  "id": "antler-equiply",
+  "name": "Equiply",
+  "slug": "equiply",
+  "website": "https://www.equiply.io/",
+  "description": "Planning and Financing Medical Equipment Acquisitions.",
+  "founded_year": 2024,
+  "location": "Unknown",
+  "sector": "Health and BioTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/679cdd892260d3c5fe650577_portfolio%252Fcompany%252F2e558ea6-bd20-4cbf-b92a-b13daeccdc1c%252F1738333522228-Png-Transparent-file.avif",
+  "url": "https://www.antler.co/portfolio/equiply",
+  "api": "https://antler-api.github.io/companies/equiply.json"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "antler-inreality",
+  "name": "InReality",
+  "slug": "inreality",
+  "website": "https://inreality.io/",
+  "description": "We are developing a platform that guarantees real content and real people, safeguarding reality in the virtual world.",
+  "founded_year": 2025,
+  "location": "Denmark",
+  "sector": "ConsumerTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/685e941bb555c02c3b15004c_portfolio%252Fcompany%252Fc2ad9cfd-d921-42e9-827e-abffeb7164f3%252F1751028752794-Page%25206.png",
+  "url": "https://www.antler.co/portfolio/inreality",
+  "api": "https://antler-api.github.io/companies/inreality.json"
+}

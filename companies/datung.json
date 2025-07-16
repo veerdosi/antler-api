@@ -1,0 +1,13 @@
+{
+  "id": "antler-datung",
+  "name": "Datung",
+  "slug": "datung",
+  "website": "https://datung.io/",
+  "description": "Empowering MSMEs with alternative credit assessments and community-backed lending",
+  "founded_year": 2024,
+  "location": "Singapore",
+  "sector": "FinTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/68002a6574298f7079f4771f_portfolio%252Fcompany%252F8e5726a3-9139-4e82-8d37-9d9b5bc49aa0%252F1725422105088-logo.avif",
+  "url": "https://www.antler.co/portfolio/datung",
+  "api": "https://antler-api.github.io/companies/datung.json"
+}

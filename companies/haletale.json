@@ -1,0 +1,13 @@
+{
+  "id": "antler-haletale",
+  "name": "HaleTale",
+  "slug": "haletale",
+  "website": "https://haletale.com/",
+  "description": "Platform to match landlords with renters, with co-living options",
+  "founded_year": 2022,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/674d4ee8a8dd21aa3f1f8313_portfolio%252Fcompany%252F8dc8a701-96d7-4db3-9f48-d227e1ac9c3e%252F1733119261171-logo.avif",
+  "url": "https://www.antler.co/portfolio/haletale",
+  "api": "https://antler-api.github.io/companies/haletale.json"
+}

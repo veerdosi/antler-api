@@ -1,0 +1,13 @@
+{
+  "id": "antler-yayzy",
+  "name": "YAYZY",
+  "slug": "yayzy",
+  "website": "https://www.yayzy.com/",
+  "description": "Yayzy is a fintech platform helping individuals and businesses calculate & offset their carbon footprint.",
+  "founded_year": 2019,
+  "location": "Unknown",
+  "sector": "Energy and ClimateTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67d8636fa44e4d527c680d90_portfolio%252Fcompany%252Fe41f81df-cbfd-4b27-a2bf-0496b5bb2b1b%252F1725421750663-logo.avif",
+  "url": "https://www.antler.co/portfolio/yayzy",
+  "api": "https://antler-api.github.io/companies/yayzy.json"
+}

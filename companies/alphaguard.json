@@ -1,0 +1,13 @@
+{
+  "id": "antler-alphaguard",
+  "name": "Alphaguard",
+  "slug": "alphaguard",
+  "website": "https://alphaguard.ai/",
+  "description": "Alphaguard detects fraud and manages risk with AI agents replicating human analysts at scale, delivering unmatched analytical depth.",
+  "founded_year": 2024,
+  "location": "France",
+  "sector": "FinTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/6841a47ed1d6455c4e4494d0_portfolio%252Fcompany%252Fa5663db7-5ea5-4111-979c-87c28d2311e2%252F1725844143441-logo.avif",
+  "url": "https://www.antler.co/portfolio/alphaguard",
+  "api": "https://antler-api.github.io/companies/alphaguard.json"
+}

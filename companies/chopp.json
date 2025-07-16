@@ -1,0 +1,13 @@
+{
+  "id": "antler-chopp",
+  "name": "Chopp",
+  "slug": "chopp",
+  "website": "https://www.chopp.io/",
+  "description": "Helping grocery stores reduce food waste and avoid stockouts through AI-powered demand forecasting",
+  "founded_year": 2024,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66b452bd3e53e2288b23cf46_jpLZt6_9QRri6-A5XvNUqDEIrnMOLCpwb2zL5i_l5g8.avif",
+  "url": "https://www.antler.co/portfolio/chopp",
+  "api": "https://antler-api.github.io/companies/chopp.json"
+}

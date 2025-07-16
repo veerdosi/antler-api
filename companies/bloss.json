@@ -1,0 +1,13 @@
+{
+  "id": "antler-bloss",
+  "name": "Bloss",
+  "slug": "bloss",
+  "website": "https://blossapp.com",
+  "description": "The home of parenting experts. Our mission is simple: to provide personal, affordable parenting support when starting and growing a family.",
+  "founded_year": 2022,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/658253e51982f672f06ee9c7_logo.svg",
+  "url": "https://www.antler.co/portfolio/bloss",
+  "api": "https://antler-api.github.io/companies/bloss.json"
+}

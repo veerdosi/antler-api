@@ -1,0 +1,13 @@
+{
+  "id": "antler-maxi",
+  "name": "MAXI",
+  "slug": "maxi",
+  "website": "https://www.axartoys.ai",
+  "description": "An AI-powered plush toy with parent-set voices and NFC-enabled switchable personas.",
+  "founded_year": 2025,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/677b8a9010b5ae81af17427d_teams%252F618077f3-0c50-4117-8050-f6b3139c3853%252Flogos%252FPHOTO-2024-09-23-15-18-55.avif",
+  "url": "https://www.antler.co/portfolio/maxi",
+  "api": "https://antler-api.github.io/companies/maxi.json"
+}

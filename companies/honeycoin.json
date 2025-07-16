@@ -1,0 +1,13 @@
+{
+  "id": "antler-honeycoin",
+  "name": "HoneyCoin",
+  "slug": "honeycoin",
+  "website": "https://honeycoin.app/",
+  "description": "Blockchain-powered, stablecoin-based social commerce platform for African Creators and Gen Z / Millenials.",
+  "founded_year": 2021,
+  "location": "Kenya",
+  "sector": "FinTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67c17cefc23528700090aa3e_portfolio%252Fcompany%252Fc97dd010-2c75-4c5f-a26d-338bb5402ba7%252F1740733665585-download%2520(2).avif",
+  "url": "https://www.antler.co/portfolio/honeycoin",
+  "api": "https://antler-api.github.io/companies/honeycoin.json"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "antler-conveyo",
+  "name": "Conveyo",
+  "slug": "conveyo",
+  "website": "https://conveyo.io/",
+  "description": "Through a mix of AI and human oversight, Conveyo is streamlining the property transaction process and turning it into a fast, hassle-free customer experience.",
+  "founded_year": 2022,
+  "location": "Unknown",
+  "sector": "Real Estate and PropTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67d8614393f6db8887173a2e_portfolio%252Fcompany%252Fbb979a4b-b9ee-4012-a1f1-4f34addcda65%252F1725421574154-logo.avif",
+  "url": "https://www.antler.co/portfolio/conveyo",
+  "api": "https://antler-api.github.io/companies/conveyo.json"
+}

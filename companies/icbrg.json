@@ -1,0 +1,13 @@
+{
+  "id": "antler-icbrg",
+  "name": "ICBRG",
+  "slug": "icbrg",
+  "website": "https://www.icbrg.co/",
+  "description": "Monitoring of lithium-ion battery systems for (patent-pending) pre-detection of fires",
+  "founded_year": 2023,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66b44b631758a740c58fd6f8_4qxMTPPNmPy48qKYWO29cSZaAe8GqWLNQIDGgTdczK4.avif",
+  "url": "https://www.antler.co/portfolio/icbrg",
+  "api": "https://antler-api.github.io/companies/icbrg.json"
+}

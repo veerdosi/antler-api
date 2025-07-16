@@ -1,0 +1,13 @@
+{
+  "id": "antler-foboh",
+  "name": "FOBOH",
+  "slug": "foboh",
+  "website": "https://www.foboh.com.au/",
+  "description": "FOBOH is building the AI workforce to help food and beverage wholesalers scale sustainably, reduce cost-to-serve, minimise waste and drive incremental revenue.",
+  "founded_year": 2023,
+  "location": "Australia",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/686f624243bcab99340f54d8_portfolio%252Fcompany%252Fa4e76803-ae12-42e7-a15e-3406664e5650%252F1733880742147-IMG_0423.png",
+  "url": "https://www.antler.co/portfolio/foboh",
+  "api": "https://antler-api.github.io/companies/foboh.json"
+}

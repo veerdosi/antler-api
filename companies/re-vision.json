@@ -1,0 +1,13 @@
+{
+  "id": "antler-re-vision",
+  "name": "RE-VISION",
+  "slug": "re-vision",
+  "website": "https://re-vision.ai/",
+  "description": "ReVision leverages drones and AI to capture and analyze futsal and soccer matches, providing teams with instant tactical insights.",
+  "founded_year": 2025,
+  "location": "Korea",
+  "sector": "ConsumerTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67dabd1b218c775f7265bb5a_teams%252F7791d8cd-3a30-483e-b3f6-b7d912a1448b%252Flogos%252F%25E1%2584%258C%25E1%2585%25A6%25E1%2584%2586%25E1%2585%25A9%25E1%2586%25A8%2520%25E1%2584%258B%25E1%2585%25A5%25E1%2586%25B9%25E1%2584%2582%25E1%2585%25B3%25E1%2586%25AB%2520%25E1%2584%2583%25E1%2585%25B5%25E1%2584%258C%25E1%2585%25A1%25E1%2584%258B%25E1%2585%25B5%25E1%2586%25AB%2520(5).avif",
+  "url": "https://www.antler.co/portfolio/re-vision",
+  "api": "https://antler-api.github.io/companies/re-vision.json"
+}

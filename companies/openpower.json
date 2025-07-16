@@ -1,0 +1,13 @@
+{
+  "id": "antler-openpower",
+  "name": "OpenPower",
+  "slug": "openpower",
+  "website": "https://www.open-power.co.uk/",
+  "description": "Open Power allows generators of all sizes to sell their export electricity on the energy markets, giving them what they deserve for their power.",
+  "founded_year": 2022,
+  "location": "Unknown",
+  "sector": "Energy and ClimateTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67d85f38f4a4deb32518f7e2_portfolio%252Fcompany%252Fa702eb5b-0dac-4b2f-a50f-647e38a7e5d9%252F1725421673205-logo.avif",
+  "url": "https://www.antler.co/portfolio/openpower",
+  "api": "https://antler-api.github.io/companies/openpower.json"
+}

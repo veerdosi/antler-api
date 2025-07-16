@@ -1,0 +1,13 @@
+{
+  "id": "antler-nhost",
+  "name": "Nhost",
+  "slug": "nhost",
+  "website": "https://nhost.io",
+  "description": "Backend platform for developers building apps",
+  "founded_year": 2020,
+  "location": "Sweden",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66b453cfa823e0c66bd3fe2b_nKQKI1xvdA43QWIbnG52ADvh6Y9QOtAu2olfGpzHs-M.avif",
+  "url": "https://www.antler.co/portfolio/nhost",
+  "api": "https://antler-api.github.io/companies/nhost.json"
+}

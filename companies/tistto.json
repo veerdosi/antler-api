@@ -1,0 +1,13 @@
+{
+  "id": "antler-tistto",
+  "name": "Tistto",
+  "slug": "tistto",
+  "website": "https://www.tistto.com",
+  "description": "Monitoring and identifying fake comments/news on companies",
+  "founded_year": 2024,
+  "location": "Brazil",
+  "sector": "ConsumerTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/680ab5e4aa0168693558403a_portfolio%252Fcompany%252F09455290-2de4-4123-88f3-cee58f1b6f05%252F1732561746373-Logo-horizontal-gradiente-02%25404x.avif",
+  "url": "https://www.antler.co/portfolio/tistto",
+  "api": "https://antler-api.github.io/companies/tistto.json"
+}

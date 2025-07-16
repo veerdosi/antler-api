@@ -1,0 +1,13 @@
+{
+  "id": "antler-scelion",
+  "name": "Scelion",
+  "slug": "scelion",
+  "website": "https://www.scelion.com/",
+  "description": "We help companies find and apply for public contracts efficiently.",
+  "founded_year": 2024,
+  "location": "Germany",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/68419225977c6865a10a70e2_teams%252F0f33461f-7060-4a6d-a41e-2f6cead5541d%252Flogos%252Fscelion_bw.avif",
+  "url": "https://www.antler.co/portfolio/scelion",
+  "api": "https://antler-api.github.io/companies/scelion.json"
+}

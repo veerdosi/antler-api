@@ -1,0 +1,13 @@
+{
+  "id": "antler-folio",
+  "name": "Folio",
+  "slug": "folio",
+  "website": "https://www.folio.works/",
+  "description": "Folio.works is a talent accelerator & freelancer marketplace that trains students to become skilled freelancers who graduate debt-free and experience-rich. Trained students earn $10k /yr freelancing for venture-backed startups.",
+  "founded_year": 2022,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66d6dee1912a4beb3a514a26_T8SENYhZq1M50TOGPq0qM2xXJ0XdwdOEQFDGxIjZnfk.avif",
+  "url": "https://www.antler.co/portfolio/folio",
+  "api": "https://antler-api.github.io/companies/folio.json"
+}

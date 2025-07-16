@@ -1,0 +1,13 @@
+{
+  "id": "antler-reditus-space",
+  "name": "Reditus Space",
+  "slug": "reditus-space",
+  "website": "https://www.reditus.space/",
+  "description": "Reusable Satellites for Zero-g Manufacturing.",
+  "founded_year": 2024,
+  "location": "Unknown",
+  "sector": "Industrials",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67c7274fa71840f299bf431a_teams%252F02ae7221-3387-4b82-9948-e7b3cabece53%252Flogos%252FReditus-Small.avif",
+  "url": "https://www.antler.co/portfolio/reditus-space",
+  "api": "https://antler-api.github.io/companies/reditus-space.json"
+}

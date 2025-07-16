@@ -1,0 +1,13 @@
+{
+  "id": "antler-fidari",
+  "name": "Fidari",
+  "slug": "fidari",
+  "website": "https://fidari.care/",
+  "description": "Fidari provides an integrated platform to enable comprehensive oncology care at home, covering the full patient journey from pre-diagnosis through survivorship. The patient will be welcomed and given personalized care powered by data collected from the clinics, research, and AI/machine learning.",
+  "founded_year": 2024,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66b452a6a768f17a00bd1e73_xkzy8MuG1gn3493Y4tZD_SPy_m_GrbK3F1_mXN8vdCU.avif",
+  "url": "https://www.antler.co/portfolio/fidari",
+  "api": "https://antler-api.github.io/companies/fidari.json"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "antler-nebu",
+  "name": "NEBU",
+  "slug": "nebu",
+  "website": "https://www.thenebu.com",
+  "description": "NEBU is an expert AI-driven DevOps -as-a-Service for cloud configuration management.",
+  "founded_year": 2024,
+  "location": "Malaysia",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66b453a3efd8fad036907b80_2b8Ag3euPPTWGl5DO9QAPgB4Z0Pjzw5BgDxFehhS2V0.avif",
+  "url": "https://www.antler.co/portfolio/nebu",
+  "api": "https://antler-api.github.io/companies/nebu.json"
+}

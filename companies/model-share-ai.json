@@ -1,0 +1,13 @@
+{
+  "id": "antler-model-share-ai",
+  "name": "Model Share AI",
+  "slug": "model-share-ai",
+  "website": "https://www.modelshare.ai/",
+  "description": "Model Playgrounds (all in one ML project pipelines) are our core offering. Use them to instantly deploy ML models, continuously improve them in collaboration with your team, and get rich model architecture analytics. We are also rapidly growing the largest database of reusable ML models in the world. Our platform further offers ML model reproducibility and a large repository of reusable code. And our users can also build a LinkedIn like data science portfolio page along the way. All-in-one machine learning project pipeline that improves models and deploys instantly.",
+  "founded_year": 2022,
+  "location": "Unknown",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67009dcb165d20309f391517_portfolio%252Fcompany%252Fbe6b914b-2704-465d-83d0-4251257b86bc%252F1728093616084-modelshare.avif",
+  "url": "https://www.antler.co/portfolio/model-share-ai",
+  "api": "https://antler-api.github.io/companies/model-share-ai.json"
+}

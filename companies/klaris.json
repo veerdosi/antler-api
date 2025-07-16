@@ -1,0 +1,13 @@
+{
+  "id": "antler-klaris",
+  "name": "Klaris",
+  "slug": "klaris",
+  "website": "https://www.klaris.ai/",
+  "description": "AI Platform To Automate Regulatory Compliance For MedTech Companies",
+  "founded_year": 2024,
+  "location": "Unknown",
+  "sector": "Health and BioTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67c6fac5521446220be6db28_portfolio%252Fcompany%252F5ff2eff5-3335-45cf-96c7-5f9fd173a563%252F1739640742375-icon_klaris%2520for%2520slack.avif",
+  "url": "https://www.antler.co/portfolio/klaris",
+  "api": "https://antler-api.github.io/companies/klaris.json"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "antler-urban-swan",
+  "name": "Urban Swan",
+  "slug": "urban-swan",
+  "website": "https://www.urbanswan.com",
+  "description": "The world's first marketplace for date experiences.",
+  "founded_year": 2021,
+  "location": "Australia",
+  "sector": "ConsumerTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67ef5be67c2e93b40a407de4_portfolio%252Fcompany%252Fa57505b1-9510-4d0b-8a0f-da1baccd5ca1%252F1743739838513-images%2520(2).avif",
+  "url": "https://www.antler.co/portfolio/urban-swan",
+  "api": "https://antler-api.github.io/companies/urban-swan.json"
+}

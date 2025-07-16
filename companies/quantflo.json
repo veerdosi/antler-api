@@ -1,0 +1,13 @@
+{
+  "id": "antler-quantflo",
+  "name": "Quantflo",
+  "slug": "quantflo",
+  "website": "https://www.quantflo.com",
+  "description": "Quantflo is an AI-driven investment platform for institutional limited partners that struggle to optmise investment returns due to inefficient processes, inadequate modelling capabilities and insufficient analytics.",
+  "founded_year": 2022,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67e4dbd449e9b40d6393a45f_portfolio%252Fcompany%252Ff58a822e-3aea-4892-84f1-8a1ee940952e%252F1743051707023-quantflo_logo.avif",
+  "url": "https://www.antler.co/portfolio/quantflo",
+  "api": "https://antler-api.github.io/companies/quantflo.json"
+}

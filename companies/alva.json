@@ -1,0 +1,13 @@
+{
+  "id": "antler-alva",
+  "name": "Alva",
+  "slug": "alva",
+  "website": "https://www.alva.as",
+  "description": "The automated & hassle-free energy management system",
+  "founded_year": 2024,
+  "location": "Norway",
+  "sector": "Energy and ClimateTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66b44b2bf29314f9cb61deae_n2Lay5Xdq1aT8uNNUpFU10EIgeYx2PcM117bLGBqVwo.avif",
+  "url": "https://www.antler.co/portfolio/alva",
+  "api": "https://antler-api.github.io/companies/alva.json"
+}

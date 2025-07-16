@@ -1,0 +1,13 @@
+{
+  "id": "antler-cereal",
+  "name": "Cereal",
+  "slug": "cereal",
+  "website": "https://cereal.parts/",
+  "description": "cereal empowers manufacturers with seamless collaboration over design and manufacturing",
+  "founded_year": 0,
+  "location": "Germany",
+  "sector": "Industrials",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/682e2aea28bfb35f83b5e9e8_portfolio%252Fcompany%252F408f9d35-7457-495d-891e-5c7c3ff6a2eb%252F1725844196491-logo.avif",
+  "url": "https://www.antler.co/portfolio/cereal",
+  "api": "https://antler-api.github.io/companies/cereal.json"
+}

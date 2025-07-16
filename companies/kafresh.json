@@ -1,0 +1,13 @@
+{
+  "id": "antler-kafresh",
+  "name": "KaFresh",
+  "slug": "kafresh",
+  "website": "https://siovalley.tech/",
+  "description": "KaFresh helps keep produce fresh for 3x longer using organic plant-based spray protection.",
+  "founded_year": 2023,
+  "location": "Kenya",
+  "sector": "Industrials",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67c180b0e1cde8ce0ac7f564_portfolio%252Fcompany%252F3d64b8ff-641b-4740-94de-239be15cafff%252F1740734622584-download%2520(3).avif",
+  "url": "https://www.antler.co/portfolio/kafresh",
+  "api": "https://antler-api.github.io/companies/kafresh.json"
+}

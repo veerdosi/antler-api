@@ -1,0 +1,13 @@
+{
+  "id": "antler-further",
+  "name": "Further",
+  "slug": "further",
+  "website": "https://joinfurther.com/",
+  "description": "Further is a platform that enables retail investors to access venture capital funds and be a part of the fast-growing startups that they invest in.",
+  "founded_year": 2021,
+  "location": "Unknown",
+  "sector": "FinTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67d862a1d00955625312556b_portfolio%252Fcompany%252Fcacc6bf8-e833-4bf4-b912-1c66b4c61241%252F1725421530873-logo.avif",
+  "url": "https://www.antler.co/portfolio/further",
+  "api": "https://antler-api.github.io/companies/further.json"
+}

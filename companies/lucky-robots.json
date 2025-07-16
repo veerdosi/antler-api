@@ -1,0 +1,13 @@
+{
+  "id": "antler-lucky-robots",
+  "name": "Lucky Robots",
+  "slug": "lucky-robots",
+  "website": "https://luckyrobots.ai/",
+  "description": "Automating real-world robotics development in virtual environments.",
+  "founded_year": 2024,
+  "location": "Unknown",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67ae2926bdf6e5187eb98724_portfolio%252Fcompany%252Fd8daa672-a590-4616-aa5d-c03e40dd0d81%252F1739466835788-lucky%2520robot%2520logo.avif",
+  "url": "https://www.antler.co/portfolio/lucky-robots",
+  "api": "https://antler-api.github.io/companies/lucky-robots.json"
+}

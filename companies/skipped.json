@@ -1,0 +1,13 @@
+{
+  "id": "antler-skipped",
+  "name": "Skipped",
+  "slug": "skipped",
+  "website": "https://www.skipped.ai/",
+  "description": "AI-powered multi-merchant network that enables member merchants to keep selling even when out-of-stock",
+  "founded_year": 2023,
+  "location": "Australia",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67e4dd6f1a2379a2bda3f542_portfolio%252Fcompany%252F98abf6af-ac58-4c92-887e-04500928ad06%252F1743052128802-647d357366a1b3328be47b23_graph.avif",
+  "url": "https://www.antler.co/portfolio/skipped",
+  "api": "https://antler-api.github.io/companies/skipped.json"
+}

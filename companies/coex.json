@@ -1,0 +1,13 @@
+{
+  "id": "antler-coex",
+  "name": "COEX",
+  "slug": "coex",
+  "website": "https://coextech.io/",
+  "description": "A platform maximising capital & operational efficiency in the construction industry",
+  "founded_year": 2023,
+  "location": "Malaysia",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66b44bdb6b43942f74821bcb_pweciigwR35TQFJ55GX6QbvDvBnR9hEgKDzoOTX7bqk.avif",
+  "url": "https://www.antler.co/portfolio/coex",
+  "api": "https://antler-api.github.io/companies/coex.json"
+}

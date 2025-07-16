@@ -1,0 +1,13 @@
+{
+  "id": "antler-chef-vision",
+  "name": "Chef Vision",
+  "slug": "chef-vision",
+  "website": "https://chefvision.ai",
+  "description": "B2B solution for F&Bs using AI.",
+  "founded_year": 2024,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/675050e68565b1307c2dacaf_portfolio%252Fcompany%252F1eee7177-d194-44aa-99ed-6171439cf2fa%252F1733316804493-photo_5242468942021256014_w.avif",
+  "url": "https://www.antler.co/portfolio/chef-vision",
+  "api": "https://antler-api.github.io/companies/chef-vision.json"
+}

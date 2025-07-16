@@ -1,0 +1,13 @@
+{
+  "id": "antler-offer",
+  "name": "Offer",
+  "slug": "offer",
+  "website": "https://www.useoffer.ai/",
+  "description": "We are on a mission to make a home purchase as easy as the click of a button. Offer is a mobile-first transaction management platform that automates the home buying process for realtors, buyers, and sellers, enabling faster close times and better purchase experiences.",
+  "founded_year": 2023,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66d6df2a1e6ba51fceb70e31_fXRqLw4qiocv1G0UU0XES3vzYxsT4plER4HhY6zY0Pk.avif",
+  "url": "https://www.antler.co/portfolio/offer",
+  "api": "https://antler-api.github.io/companies/offer.json"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "antler-agrovisia",
+  "name": "Agrovisia",
+  "slug": "agrovisia",
+  "website": "https://www.agrovisia.com.br/",
+  "description": "Real-time soil fertility mapping",
+  "founded_year": 2024,
+  "location": "Brazil",
+  "sector": "Industrials",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/68093ab6039370451932904f_portfolio%252Fcompany%252F343fa0dc-2375-4273-b100-1fbeed844b7d%252F1725423789222-logo.avif",
+  "url": "https://www.antler.co/portfolio/agrovisia",
+  "api": "https://antler-api.github.io/companies/agrovisia.json"
+}

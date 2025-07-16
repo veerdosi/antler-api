@@ -1,0 +1,13 @@
+{
+  "id": "antler-volunteero",
+  "name": "Volunteero",
+  "slug": "volunteero",
+  "website": "https://www.volunteero.org/",
+  "description": "Save time managing volunteers whilst improving your volunteer engagement and retention.",
+  "founded_year": 2022,
+  "location": "Unknown",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67d85e07d5b3567fda1bfaba_portfolio%252Fcompany%252F93854ee1-b582-48bc-ac7b-352799d89afd%252F1725421745072-logo.svg",
+  "url": "https://www.antler.co/portfolio/volunteero",
+  "api": "https://antler-api.github.io/companies/volunteero.json"
+}

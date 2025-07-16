@@ -1,0 +1,13 @@
+{
+  "id": "antler-spoons",
+  "name": "Spoons",
+  "slug": "spoons",
+  "website": "https://getspoons.io/",
+  "description": "Spoons is a portfolio company of Antler.",
+  "founded_year": 2023,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66b45232820388e532b8e5fc_teams%252F43c4c6eb-2aab-4d7f-952f-d1d042326b19%252Flogos%252Fspoons-peach.avif",
+  "url": "https://www.antler.co/portfolio/spoons",
+  "api": "https://antler-api.github.io/companies/spoons.json"
+}

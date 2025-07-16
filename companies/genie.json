@@ -1,0 +1,13 @@
+{
+  "id": "antler-genie",
+  "name": "Genie",
+  "slug": "genie",
+  "website": "https://genieframework.com/",
+  "description": "No-code platform for building and scaling High Performance Data Analytics applications.",
+  "founded_year": 2021,
+  "location": "Netherlands",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66ec501a2512f80834fbc93e_portfolio%252Fcompany%252F691c7523-f93f-449e-9182-c3bf3d04712e%252F1726763004207-genie.svg",
+  "url": "https://www.antler.co/portfolio/genie",
+  "api": "https://antler-api.github.io/companies/genie.json"
+}

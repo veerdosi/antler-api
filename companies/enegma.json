@@ -1,0 +1,13 @@
+{
+  "id": "antler-enegma",
+  "name": "Enegma",
+  "slug": "enegma",
+  "website": "https://enegma.in/",
+  "description": "Enegma is rearchitecting procurement for speed and scale with AI agents that operate 24/7 to automate sourcing, vendor, and contract decisions. No more emails, spreadsheets, or outdated ERPs; just intelligent, real-time procurement that runs itself.",
+  "founded_year": 2025,
+  "location": "India",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/68593add88e08c298c464aca_portfolio%252Fcompany%252F57b1e249-a17e-4391-8bcc-c81d2f93ff98%252F1750678167316-Enegma.jpeg",
+  "url": "https://www.antler.co/portfolio/enegma",
+  "api": "https://antler-api.github.io/companies/enegma.json"
+}

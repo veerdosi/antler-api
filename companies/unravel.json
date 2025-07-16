@@ -1,0 +1,13 @@
+{
+  "id": "antler-unravel",
+  "name": "Unravel",
+  "slug": "unravel",
+  "website": "https://unravelapp.com/",
+  "description": "Shoppable video feed of the world’s most instagramable experiences.",
+  "founded_year": 2023,
+  "location": "Unknown",
+  "sector": "ConsumerTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/67d85fc6dae7785439a45e5a_portfolio%252Fcompany%252Fb30b4fd1-b45e-444e-a08b-f8506894759a%252F1725421726599-logo.avif",
+  "url": "https://www.antler.co/portfolio/unravel",
+  "api": "https://antler-api.github.io/companies/unravel.json"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "antler-pulse-energy",
+  "name": "Pulse Energy",
+  "slug": "pulse-energy",
+  "website": "https://pulseenergy.io/",
+  "description": "Building a software catalyst that can help accelerate India's adoption to electric vehicles",
+  "founded_year": 2025,
+  "location": "India",
+  "sector": "Energy and ClimateTech",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/6859aea01be35e73e9c88e54_portfolio%252Fcompany%252F7811fee2-1b1a-429d-a0a6-1286731f599c%252F1750707833084-pulse_energy_pvt_ltd_logo.jpeg",
+  "url": "https://www.antler.co/portfolio/pulse-energy",
+  "api": "https://antler-api.github.io/companies/pulse-energy.json"
+}

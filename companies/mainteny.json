@@ -1,0 +1,13 @@
+{
+  "id": "antler-mainteny",
+  "name": "Mainteny",
+  "slug": "mainteny",
+  "website": "https://mainteny.com",
+  "description": "Mainteny helps facility management companies increase profit and service quality by providing digital tools for their everyday work",
+  "founded_year": 2021,
+  "location": "Unknown",
+  "sector": "Unknown",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/66b45400c00a43a28e8f0882_aBTrQlZlBl4QhE_7RyLnByeggYoHESykzYGhX5P8UN4.avif",
+  "url": "https://www.antler.co/portfolio/mainteny",
+  "api": "https://antler-api.github.io/companies/mainteny.json"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "antler-adeu-ai",
+  "name": "adeu.ai",
+  "slug": "adeu-ai",
+  "website": "https://www.dealfluence.io/",
+  "description": "Streamlining corporate transactions through intelligent workflow automation.",
+  "founded_year": 2024,
+  "location": "Finland",
+  "sector": "B2B Software",
+  "logo_url": "https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/678f69bec55e102a9fb61ec1_portfolio%252Fcompany%252Feee6fd6b-5c15-4789-b500-d79f695f944d%252F1737451951209-67178c8b7dca0eee282abeaa_Adeu_combination_logo_Blue%25201.svg",
+  "url": "https://www.antler.co/portfolio/adeu-ai",
+  "api": "https://antler-api.github.io/companies/adeu-ai.json"
+}
