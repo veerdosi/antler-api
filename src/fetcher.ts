@@ -375,44 +375,19 @@ export class AntlerPortfolioScraper {
   }
 
   private isLocationText(text: string): boolean {
-    const locations = [
-      'Singapore', 'London', 'Berlin', 'Sydney', 'Toronto', 'Dubai', 'Mumbai', 'Stockholm', 
-      'Oslo', 'Copenhagen', 'New York', 'San Francisco', 'Tel Aviv', 'Amsterdam', 'Paris', 
-      'Barcelona', 'Milan', 'Zurich', 'Warsaw', 'Prague', 'Budapest', 'Lisbon', 'Athens', 
-      'Istanbul', 'Cairo', 'Lagos', 'Nairobi', 'Cape Town', 'Johannesburg', 'Bangkok', 
-      'Jakarta', 'Manila', 'Kuala Lumpur', 'Seoul', 'Tokyo', 'Hong Kong', 'Shanghai', 
-      'Beijing', 'Delhi', 'Bangalore', 'Hyderabad', 'Chennai', 'Kolkata', 'Pune',
-      'United Kingdom', 'United States', 'Canada', 'Australia', 'Germany', 'France', 
-      'Spain', 'Italy', 'Netherlands', 'Sweden', 'Norway', 'Denmark', 'Finland', 
-      'Switzerland', 'Austria', 'Belgium', 'Ireland', 'Portugal', 'Greece', 'Turkey', 
-      'Israel', 'UAE', 'Malaysia', 'Thailand', 'Indonesia', 'Philippines', 'Vietnam', 
-      'South Korea', 'Japan', 'China', 'Taiwan', 'India', 'Pakistan', 'Bangladesh', 
-      'Sri Lanka', 'Brazil', 'Argentina', 'Chile', 'Peru', 'Colombia', 'Venezuela', 
-      'Ecuador', 'Bolivia', 'Uruguay', 'Paraguay', 'Mexico', 'Guatemala', 'Costa Rica', 
-      'Panama', 'Russia', 'Ukraine', 'Poland', 'Czech Republic', 'Slovakia', 'Hungary', 
-      'Romania', 'Bulgaria', 'Serbia', 'Croatia', 'Slovenia', 'Estonia', 'Latvia', 
-      'Lithuania', 'Iceland', 'New Zealand', 'South Africa', 'Nigeria', 'Ghana', 'Kenya', 
-      'Uganda', 'Tanzania', 'Rwanda', 'Egypt', 'Morocco', 'Tunisia', 'Algeria', 'Ethiopia', 
-      'Botswana', 'Namibia', 'Zimbabwe', 'Zambia', 'Mozambique', 'Madagascar', 'Mauritius',
-      'UK', 'US', 'USA', 'Korea', 'Saudi Arabia', 'United Arab Emirates'
-    ];
+  const locations = [
+    'Australia', 'Brazil', 'Canada', 'Denmark', 'Finland', 'France', 'Germany',
+    'India', 'Indonesia', 'Japan', 'Kenya', 'Korea', 'Malaysia', 'Netherlands',
+    'Nigeria', 'Norway', 'Saudi Arabia', 'Singapore', 'Sweden', 'UK', 'US',
+    'United Arab Emirates', 'Vietnam', 'Spain', 'Portugal'
+  ];
     return locations.some(location => text.toLowerCase().includes(location.toLowerCase()));
   }
 
   private isSectorText(text: string): boolean {
     const sectors = [
-      'AI', 'Fintech', 'Healthcare', 'EdTech', 'E-commerce', 'SaaS', 'B2B', 'B2C', 
-      'Enterprise', 'Consumer', 'Mobile', 'Web', 'Platform', 'Marketplace', 'Analytics',
-      'Software', 'Hardware', 'Biotech', 'Medtech', 'Proptech', 'Insurtech', 'Regtech',
-      'Cleantech', 'Agtech', 'Foodtech', 'Logistics', 'Supply Chain', 'IoT', 'Blockchain',
-      'Cryptocurrency', 'VR', 'AR', 'Gaming', 'Media', 'Content', 'Social', 'Network',
-      'Security', 'Cybersecurity', 'Data', 'Machine Learning', 'Deep Learning', 'NLP',
-      'Computer Vision', 'Robotics', 'Automation', 'Manufacturing', 'Energy', 'Renewable',
-      'Climate', 'B2B Software', 'Impact', 'Non-profit', 'Government', 'Public', 'Private',
-      'Retail', 'Fashion', 'Beauty', 'Travel', 'Hospitality', 'Real Estate', 'Construction',
-      'Transportation', 'Mobility', 'Automotive', 'Aerospace', 'Defense', 'Legal',
-      'HR', 'Recruiting', 'Marketing', 'Advertising', 'Sales', 'CRM', 'ERP', 'Productivity',
-      'Collaboration', 'Communication', 'Messaging', 'Video', 'Audio', 'Music', 'Entertainment', 'Industrials'
+        'Energy and ClimateTech', 'Climate', 'B2B Software', 'ConsumerTech', 'FinTech', 
+        'Health and BioTech', 'Real Estate and PropTech','Industrials'
     ];
     
     // Check if text matches common sector patterns
